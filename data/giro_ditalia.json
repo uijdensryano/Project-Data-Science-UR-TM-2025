@@ -1,0 +1,54 @@
+{
+    "giro_ditalia": {
+        "1909": [
+            {
+                "key": 1,
+                "start": "Milan",
+                "end": "Bologna",
+                "distance": "397"
+            },
+            {
+                "key": 2,
+                "start": "Bologna",
+                "end": "Chieti",
+                "distance": "375"
+            },
+            {
+                "key": 3,
+                "start": "Chieti",
+                "end": "Naples",
+                "distance": "242"
+            },
+            {
+                "key": 4,
+                "start": "Naples",
+                "end": "Rome",
+                "distance": "228"
+            },
+            {
+                "key": 5,
+                "start": "Rome",
+                "end": "Florence",
+                "distance": "346"
+            },
+            {
+                "key": 6,
+                "start": "Florence",
+                "end": "Genoa",
+                "distance": "294"
+            },
+            {
+                "key": 7,
+                "start": "Genoa",
+                "end": "Turin",
+                "distance": "354"
+            },
+            {
+                "key": 8,
+                "start": "Turin",
+                "end": "Milan",
+                "distance": "206"
+            }
+        ]
+    }
+}
