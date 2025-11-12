@@ -7,6 +7,2439 @@
                 "end": "Bologna",
                 "distance": "397"
             }
+        ],
+        "1909": [
+            {
+                "key": 1,
+                "start": "Milan",
+                "end": "Bologna",
+                "distance": "397"
+            },
+            {
+                "key": 2,
+                "start": "Bologna",
+                "end": "Chieti",
+                "distance": "375"
+            },
+            {
+                "key": 3,
+                "start": "Chieti",
+                "end": "Naples",
+                "distance": "242"
+            },
+            {
+                "key": 4,
+                "start": "Naples",
+                "end": "Rome",
+                "distance": "228"
+            },
+            {
+                "key": 5,
+                "start": "Rome",
+                "end": "Florence",
+                "distance": "346"
+            },
+            {
+                "key": 6,
+                "start": "Florence",
+                "end": "Genoa",
+                "distance": "294"
+            },
+            {
+                "key": 7,
+                "start": "Genoa",
+                "end": "Turin",
+                "distance": "354"
+            },
+            {
+                "key": 8,
+                "start": "Turin",
+                "end": "Milan",
+                "distance": "206"
+            }
+        ],
+        "1914": [
+            {
+                "key": 1,
+                "start": "Milan",
+                "end": "Cuneo",
+                "distance": "420"
+            },
+            {
+                "key": 2,
+                "start": "Cuneo",
+                "end": "Lucca",
+                "distance": "340"
+            },
+            {
+                "key": 3,
+                "start": "Lucca",
+                "end": "Rome",
+                "distance": "430"
+            },
+            {
+                "key": 4,
+                "start": "Rome",
+                "end": "Avellino",
+                "distance": "365"
+            },
+            {
+                "key": 5,
+                "start": "Avellino",
+                "end": "Bari",
+                "distance": "328"
+            },
+            {
+                "key": 6,
+                "start": "Bari",
+                "end": "L'Aquila",
+                "distance": "428"
+            },
+            {
+                "key": 7,
+                "start": "L'Aquila",
+                "end": "Lugo",
+                "distance": "429"
+            },
+            {
+                "key": 8,
+                "start": "Lugo",
+                "end": "Milan",
+                "distance": "420"
+            }
+        ],
+        "1919": [
+            {
+                "key": 1,
+                "start": "Milan",
+                "end": "Trento",
+                "distance": "302"
+            },
+            {
+                "key": 2,
+                "start": "Trento",
+                "end": "Trieste",
+                "distance": "334"
+            },
+            {
+                "key": 3,
+                "start": "Trieste",
+                "end": "Ferrara",
+                "distance": "282"
+            },
+            {
+                "key": 4,
+                "start": "Ferrara",
+                "end": "Pescara",
+                "distance": "411"
+            },
+            {
+                "key": 5,
+                "start": "Pescara",
+                "end": "Naples",
+                "distance": "312"
+            },
+            {
+                "key": 6,
+                "start": "Naples",
+                "end": "Rome",
+                "distance": "203"
+            },
+            {
+                "key": 7,
+                "start": "Rome",
+                "end": "Florence",
+                "distance": "350"
+            },
+            {
+                "key": 8,
+                "start": "Florence",
+                "end": "Genoa",
+                "distance": "261"
+            },
+            {
+                "key": 9,
+                "start": "Genoa",
+                "end": "Turin",
+                "distance": "248"
+            },
+            {
+                "key": 10,
+                "start": "Turin",
+                "end": "Milan",
+                "distance": "277"
+            }
+        ],
+        "1924": [
+            {
+                "key": 1,
+                "start": "Milan",
+                "end": "Genoa",
+                "distance": "300"
+            },
+            {
+                "key": 2,
+                "start": "Genoa",
+                "end": "Florence",
+                "distance": "307"
+            },
+            {
+                "key": 3,
+                "start": "Florence",
+                "end": "Rome",
+                "distance": "284"
+            },
+            {
+                "key": 4,
+                "start": "Rome",
+                "end": "Naples",
+                "distance": "249"
+            },
+            {
+                "key": 5,
+                "start": "Potenza",
+                "end": "Taranto",
+                "distance": "265"
+            },
+            {
+                "key": 6,
+                "start": "Taranto",
+                "end": "Foggia",
+                "distance": "230"
+            },
+            {
+                "key": 7,
+                "start": "Foggia",
+                "end": "L'Aquila",
+                "distance": "304"
+            },
+            {
+                "key": 8,
+                "start": "L'Aquila",
+                "end": "Perugia",
+                "distance": "296"
+            },
+            {
+                "key": 9,
+                "start": "Perugia",
+                "end": "Bologna",
+                "distance": "280"
+            },
+            {
+                "key": 10,
+                "start": "Bologna",
+                "end": "Fiume",
+                "distance": "415"
+            },
+            {
+                "key": 11,
+                "start": "Fiume",
+                "end": "Verona",
+                "distance": "366"
+            },
+            {
+                "key": 12,
+                "start": "Verona",
+                "end": "Milan",
+                "distance": "313"
+            }
+        ],
+        "1929": [
+            {
+                "key": 1,
+                "start": "Rome",
+                "end": "Naples",
+                "distance": "235"
+            },
+            {
+                "key": 2,
+                "start": "Naples",
+                "end": "Foggia",
+                "distance": "185"
+            },
+            {
+                "key": 3,
+                "start": "Foggia",
+                "end": "Lecce",
+                "distance": "282"
+            },
+            {
+                "key": 4,
+                "start": "Lecce",
+                "end": "Potenza",
+                "distance": "270"
+            },
+            {
+                "key": 5,
+                "start": "Potenza",
+                "end": "Cosenza",
+                "distance": "264"
+            },
+            {
+                "key": 6,
+                "start": "Cosenza",
+                "end": "Salerno",
+                "distance": "295"
+            },
+            {
+                "key": 7,
+                "start": "Salerno",
+                "end": "Formia",
+                "distance": "220"
+            },
+            {
+                "key": 8,
+                "start": "Formia",
+                "end": "Rome",
+                "distance": "198"
+            },
+            {
+                "key": 9,
+                "start": "Rome",
+                "end": "Orvieto",
+                "distance": "120"
+            },
+            {
+                "key": 10,
+                "start": "Orvieto",
+                "end": "Siena",
+                "distance": "150"
+            },
+            {
+                "key": 11,
+                "start": "Siena",
+                "end": "La Spezia",
+                "distance": "192"
+            },
+            {
+                "key": 12,
+                "start": "La Spezia",
+                "end": "Parma",
+                "distance": "135"
+            },
+            {
+                "key": 13,
+                "start": "Parma",
+                "end": "Alessandria",
+                "distance": "152"
+            },
+            {
+                "key": 14,
+                "start": "Alessandria",
+                "end": "Milan",
+                "distance": "216"
+            }
+        ],
+        "1934": [
+            {
+                "key": 1,
+                "start": "Milan",
+                "end": "Turin",
+                "distance": "169"
+            },
+            {
+                "key": 2,
+                "start": "Turin",
+                "end": "Genoa",
+                "distance": "206"
+            },
+            {
+                "key": 3,
+                "start": "Genoa",
+                "end": "Livorno",
+                "distance": "220"
+            },
+            {
+                "key": 4,
+                "start": "Livorno",
+                "end": "Pisa",
+                "distance": "45"
+            },
+            {
+                "key": 5,
+                "start": "Pisa",
+                "end": "Rome",
+                "distance": "333"
+            },
+            {
+                "key": 6,
+                "start": "Rome",
+                "end": "Naples",
+                "distance": "228"
+            },
+            {
+                "key": 7,
+                "start": "Naples",
+                "end": "Bari",
+                "distance": "339"
+            },
+            {
+                "key": 8,
+                "start": "Bari",
+                "end": "Campobasso",
+                "distance": "245"
+            },
+            {
+                "key": 9,
+                "start": "Campobasso",
+                "end": "Teramo",
+                "distance": "283"
+            },
+            {
+                "key": 10,
+                "start": "Teramo",
+                "end": "Ancona",
+                "distance": "214"
+            },
+            {
+                "key": 11,
+                "start": "Ancona",
+                "end": "Rimini",
+                "distance": "213"
+            },
+            {
+                "key": 12,
+                "start": "Rimini",
+                "end": "Florence",
+                "distance": "176"
+            },
+            {
+                "key": 13,
+                "start": "Florence",
+                "end": "Bologna",
+                "distance": "120"
+            },
+            {
+                "key": 14,
+                "start": "Bologna",
+                "end": "Ferrara",
+                "distance": "59"
+            },
+            {
+                "key": 15,
+                "start": "Ferrara",
+                "end": "Trieste",
+                "distance": "273"
+            },
+            {
+                "key": 16,
+                "start": "Trieste",
+                "end": "Bassano del Grappa",
+                "distance": "273"
+            },
+            {
+                "key": 17,
+                "start": "Bassano",
+                "end": "Milan",
+                "distance": "315"
+            }
+        ],
+        "1939": [
+            {
+                "key": 1,
+                "start": "Milan",
+                "end": "Turin",
+                "distance": "180"
+            },
+            {
+                "key": 2,
+                "start": "Turin",
+                "end": "Genoa",
+                "distance": "226"
+            },
+            {
+                "key": 3,
+                "start": "Genoa",
+                "end": "Pisa",
+                "distance": "187"
+            },
+            {
+                "key": 4,
+                "start": "Pisa",
+                "end": "Grosseto",
+                "distance": "154"
+            },
+            {
+                "key": 5,
+                "start": "Grosseto",
+                "end": "Rome",
+                "distance": "222"
+            },
+            {
+                "key": 6,
+                "start": "Rome",
+                "end": "Rieti",
+                "distance": "85"
+            },
+            {
+                "key": 7,
+                "start": "Rieti",
+                "end": "Pescara",
+                "distance": "191"
+            },
+            {
+                "key": 8,
+                "start": "Pescara",
+                "end": "Senigallia",
+                "distance": "177"
+            },
+            {
+                "key": 9,
+                "start": "Senigallia",
+                "end": "Forl\u00ec",
+                "distance": "116"
+            },
+            {
+                "key": 10,
+                "start": "Florence",
+                "end": "Bologna",
+                "distance": "120"
+            },
+            {
+                "key": 11,
+                "start": "Bologna",
+                "end": "Venezia",
+                "distance": "231"
+            },
+            {
+                "key": 12,
+                "start": "Venezia",
+                "end": "Trieste",
+                "distance": "173"
+            },
+            {
+                "key": 13,
+                "start": "Trieste",
+                "end": "Gorizia",
+                "distance": "39"
+            },
+            {
+                "key": 14,
+                "start": "Gorizia",
+                "end": "Cortina d'Ampezzo",
+                "distance": "195"
+            },
+            {
+                "key": 15,
+                "start": "Cortina d'Ampezzo",
+                "end": "Trento",
+                "distance": "256"
+            },
+            {
+                "key": 16,
+                "start": "Trento",
+                "end": "Sondrio",
+                "distance": "166"
+            },
+            {
+                "key": 17,
+                "start": "Sondrio",
+                "end": "Milan",
+                "distance": "168"
+            }
+        ],
+        "1946": [
+            {
+                "key": 1,
+                "start": "Milan",
+                "end": "Turin",
+                "distance": "185"
+            },
+            {
+                "key": 2,
+                "start": "Turin",
+                "end": "Genoa",
+                "distance": "190"
+            },
+            {
+                "key": 3,
+                "start": "Genoa",
+                "end": "Montecatini Terme",
+                "distance": "222"
+            },
+            {
+                "key": 4,
+                "start": "Montecatini Terme",
+                "end": "Prato",
+                "distance": "30"
+            },
+            {
+                "key": 5,
+                "start": "Bologna",
+                "end": "Cesena",
+                "distance": "80"
+            },
+            {
+                "key": 6,
+                "start": "Ancona",
+                "end": "Chieti",
+                "distance": "170"
+            },
+            {
+                "key": 7,
+                "start": "Chieti",
+                "end": "Naples",
+                "distance": "244"
+            },
+            {
+                "key": 8,
+                "start": "Naples",
+                "end": "Rome",
+                "distance": "226"
+            },
+            {
+                "key": 9,
+                "start": "Rome",
+                "end": "Perugia",
+                "distance": "191"
+            },
+            {
+                "key": 10,
+                "start": "Perugia",
+                "end": "Florence",
+                "distance": "165"
+            },
+            {
+                "key": 11,
+                "start": "Florence",
+                "end": "Rovigo",
+                "distance": "245"
+            },
+            {
+                "key": 12,
+                "start": "Rovigo",
+                "end": "Trieste",
+                "distance": "132"
+            },
+            {
+                "key": 13,
+                "start": "Udine",
+                "end": "Auronzo di Cadore",
+                "distance": "124"
+            },
+            {
+                "key": 14,
+                "start": "Auronzo di Cadore",
+                "end": "Bassano del Grappa",
+                "distance": "203"
+            },
+            {
+                "key": 15,
+                "start": "Bassano del Grappa",
+                "end": "Trento",
+                "distance": "186"
+            },
+            {
+                "key": 16,
+                "start": "Trento",
+                "end": "Verona",
+                "distance": "90"
+            },
+            {
+                "key": 17,
+                "start": "Mantua",
+                "end": "Milan",
+                "distance": "176"
+            }
+        ],
+        "1951": [
+            {
+                "key": 1,
+                "start": "Milan",
+                "end": "Turin",
+                "distance": "202"
+            },
+            {
+                "key": 2,
+                "start": "Turin",
+                "end": "Alassio",
+                "distance": "202"
+            },
+            {
+                "key": 3,
+                "start": "Alassio",
+                "end": "Genoa",
+                "distance": "252"
+            },
+            {
+                "key": 4,
+                "start": "Genoa",
+                "end": "Florence",
+                "distance": "265"
+            },
+            {
+                "key": 5,
+                "start": "Florence",
+                "end": "Perugia",
+                "distance": "192"
+            },
+            {
+                "key": 6,
+                "start": "Perugia",
+                "end": "Terni",
+                "distance": "81"
+            },
+            {
+                "key": 7,
+                "start": "Terni",
+                "end": "Rome",
+                "distance": "290"
+            },
+            {
+                "key": 8,
+                "start": "Rome",
+                "end": "Naples",
+                "distance": "234"
+            },
+            {
+                "key": 9,
+                "start": "Naples",
+                "end": "Foggia",
+                "distance": "181"
+            },
+            {
+                "key": 10,
+                "start": "Foggia",
+                "end": "Pescara",
+                "distance": "311"
+            },
+            {
+                "key": 11,
+                "start": "Pescara",
+                "end": "Rimini",
+                "distance": "246"
+            },
+            {
+                "key": 12,
+                "start": "Rimini",
+                "end": "San Marino",
+                "distance": "24"
+            },
+            {
+                "key": 13,
+                "start": "Rimini",
+                "end": "Bologna",
+                "distance": "249"
+            },
+            {
+                "key": 14,
+                "start": "Bologna",
+                "end": "Brescia",
+                "distance": "220"
+            },
+            {
+                "key": 15,
+                "start": "Brescia",
+                "end": "Venice",
+                "distance": "188"
+            },
+            {
+                "key": 16,
+                "start": "Venice",
+                "end": "Trieste",
+                "distance": "182"
+            },
+            {
+                "key": 17,
+                "start": "Trieste",
+                "end": "Cortina d'Ampezzo",
+                "distance": "255"
+            },
+            {
+                "key": 18,
+                "start": "Cortina d'Ampezzo",
+                "end": "Bolzano",
+                "distance": "242"
+            },
+            {
+                "key": 19,
+                "start": "Bolzano",
+                "end": "Sankt Moritz(Switzerland)",
+                "distance": "166"
+            },
+            {
+                "key": 20,
+                "start": "Sankt Moritz(Switzerland) ",
+                "end": "Milan",
+                "distance": "172"
+            }
+        ],
+        "1956": [
+            {
+                "key": 1,
+                "start": "Milan",
+                "end": "Alessandria",
+                "distance": "210"
+            },
+            {
+                "key": 2,
+                "start": "Alessandria",
+                "end": "Genoa",
+                "distance": "96"
+            },
+            {
+                "key": 3,
+                "start": "Genoa",
+                "end": "Salice Terme",
+                "distance": "152"
+            },
+            {
+                "key": 4,
+                "start": "Voghera",
+                "end": "Mantua",
+                "distance": "198"
+            },
+            {
+                "key": 5,
+                "start": "Mantua",
+                "end": "Rimini",
+                "distance": "228"
+            },
+            {
+                "key": 6,
+                "start": "Rimini",
+                "end": "Pescara",
+                "distance": "245"
+            },
+            {
+                "key": 7,
+                "start": "Pescara",
+                "end": "Campobasso",
+                "distance": "205"
+            },
+            {
+                "key": 8,
+                "start": "Campobasso",
+                "end": "Salerno",
+                "distance": "156"
+            },
+            {
+                "key": 9,
+                "start": "Salerno",
+                "end": "Frascati",
+                "distance": "280"
+            },
+            {
+                "key": 10,
+                "start": "Rome",
+                "end": "Grosseto",
+                "distance": "198"
+            },
+            {
+                "key": 11,
+                "start": "Grosseto",
+                "end": "Livorno",
+                "distance": "230"
+            },
+            {
+                "key": 12,
+                "start": "Livorno",
+                "end": "Lucca",
+                "distance": "54"
+            },
+            {
+                "key": 13,
+                "start": "Lucca",
+                "end": "Bologna",
+                "distance": "168"
+            },
+            {
+                "key": 14,
+                "start": "Bologna",
+                "end": "Madonna di San Luca",
+                "distance": "2"
+            },
+            {
+                "key": 15,
+                "start": "Bologna",
+                "end": "Rapallo",
+                "distance": "271"
+            },
+            {
+                "key": 16,
+                "start": "Rapallo",
+                "end": "Lecco",
+                "distance": "278"
+            },
+            {
+                "key": 17,
+                "start": "Lecco",
+                "end": "Sondrio",
+                "distance": "98"
+            },
+            {
+                "key": 18,
+                "start": "Sondrio",
+                "end": "Merano",
+                "distance": "163"
+            },
+            {
+                "key": 19,
+                "start": "Merano",
+                "end": "Monte Bondone",
+                "distance": "242"
+            },
+            {
+                "key": 20,
+                "start": "Trento",
+                "end": "San Pellegrino Terme",
+                "distance": "191"
+            },
+            {
+                "key": 21,
+                "start": "San Pellegrino Terme",
+                "end": "Milan",
+                "distance": "113"
+            }
+        ],
+        "1961": [
+            {
+                "key": 1,
+                "start": "Turin",
+                "end": "Turin",
+                "distance": "115"
+            },
+            {
+                "key": 2,
+                "start": "Turin",
+                "end": "Sanremo",
+                "distance": "185"
+            },
+            {
+                "key": 3,
+                "start": "Sanremo",
+                "end": "Genoa",
+                "distance": "149"
+            },
+            {
+                "key": 4,
+                "start": "Cagliari",
+                "end": "Cagliari",
+                "distance": "118"
+            },
+            {
+                "key": 5,
+                "start": "Marsala",
+                "end": "Palermo",
+                "distance": "144"
+            },
+            {
+                "key": 6,
+                "start": "Palermo",
+                "end": "Milazzo",
+                "distance": "224"
+            },
+            {
+                "key": 7,
+                "start": "Reggio Calabria",
+                "end": "Cosenza",
+                "distance": "221"
+            },
+            {
+                "key": 8,
+                "start": "Cosenza",
+                "end": "Taranto",
+                "distance": "237"
+            },
+            {
+                "key": 9,
+                "start": "Castellana Grotte",
+                "end": "Bari",
+                "distance": "53"
+            },
+            {
+                "key": 10,
+                "start": "Bari",
+                "end": "Potenza",
+                "distance": "140"
+            },
+            {
+                "key": 11,
+                "start": "Potenza",
+                "end": "Teano",
+                "distance": "252"
+            },
+            {
+                "key": 12,
+                "start": "Gaeta",
+                "end": "Rome",
+                "distance": "149"
+            },
+            {
+                "key": 13,
+                "start": "Mentana",
+                "end": "Castelfidardo",
+                "distance": "279"
+            },
+            {
+                "key": 14,
+                "start": "Ancona",
+                "end": "Florence",
+                "distance": "250"
+            },
+            {
+                "key": 15,
+                "start": "Florence",
+                "end": "Modena",
+                "distance": "178"
+            },
+            {
+                "key": 16,
+                "start": "Modena",
+                "end": "Vicenza",
+                "distance": "207"
+            },
+            {
+                "key": 17,
+                "start": "Vicenza",
+                "end": "Trieste",
+                "distance": "204"
+            },
+            {
+                "key": 18,
+                "start": "Trieste",
+                "end": "Vittorio Veneto",
+                "distance": "161"
+            },
+            {
+                "key": 19,
+                "start": "Vittorio Veneto",
+                "end": "Trento",
+                "distance": "249"
+            },
+            {
+                "key": 20,
+                "start": "Trento",
+                "end": "Bormio",
+                "distance": "275"
+            },
+            {
+                "key": 21,
+                "start": "Bormio",
+                "end": "Milan",
+                "distance": "214"
+            }
+        ],
+        "1966": [
+            {
+                "key": 1,
+                "start": "Monte Carlo(Monaco) ",
+                "end": "Diano Marina",
+                "distance": "149"
+            },
+            {
+                "key": 2,
+                "start": "Imperia",
+                "end": "Monesi",
+                "distance": "60"
+            },
+            {
+                "key": 3,
+                "start": "Diano Marina",
+                "end": "Genoa",
+                "distance": "120"
+            },
+            {
+                "key": 4,
+                "start": "Genoa",
+                "end": "Viareggio",
+                "distance": "241"
+            },
+            {
+                "key": 5,
+                "start": "Viareggio",
+                "end": "Chianciano Terme",
+                "distance": "222"
+            },
+            {
+                "key": 6,
+                "start": "Chianciano Terme",
+                "end": "Rome",
+                "distance": "226"
+            },
+            {
+                "key": 7,
+                "start": "Rome",
+                "end": "Rocca di Cambio",
+                "distance": "158"
+            },
+            {
+                "key": 8,
+                "start": "Rocca di Cambio",
+                "end": "Naples",
+                "distance": "238"
+            },
+            {
+                "key": 9,
+                "start": "Naples",
+                "end": "Campobasso",
+                "distance": "210"
+            },
+            {
+                "key": 10,
+                "start": "Campobasso",
+                "end": "Giulianova",
+                "distance": "221"
+            },
+            {
+                "key": 11,
+                "start": "Giulianova",
+                "end": "Cesenatico",
+                "distance": "229"
+            },
+            {
+                "key": 12,
+                "start": "Cesenatico",
+                "end": "Reggio Emilia",
+                "distance": "206"
+            },
+            {
+                "key": 13,
+                "start": "Parma",
+                "end": "Parma",
+                "distance": "46"
+            },
+            {
+                "key": 14,
+                "start": "Parma",
+                "end": "Arona",
+                "distance": "267"
+            },
+            {
+                "key": 15,
+                "start": "Arona",
+                "end": "Brescia",
+                "distance": "196"
+            },
+            {
+                "key": 16,
+                "start": "Brescia",
+                "end": "Bezzecca",
+                "distance": "143"
+            },
+            {
+                "key": 17,
+                "start": "Riva del Garda",
+                "end": "Levico Terme",
+                "distance": "239"
+            },
+            {
+                "key": 18,
+                "start": "Levico Terme",
+                "end": "Bolzano",
+                "distance": "137"
+            },
+            {
+                "key": 19,
+                "start": "Bolzano",
+                "end": "Moena",
+                "distance": "100"
+            },
+            {
+                "key": 20,
+                "start": "Moena",
+                "end": "Belluno",
+                "distance": "215"
+            },
+            {
+                "key": 21,
+                "start": "Belluno",
+                "end": "Vittorio Veneto",
+                "distance": "181"
+            },
+            {
+                "key": 22,
+                "start": "Vittorio Veneto",
+                "end": "Trieste",
+                "distance": "172"
+            }
+        ],
+        "1971": [
+            {
+                "key": 1,
+                "start": "Lecce",
+                "end": "Brindisi",
+                "distance": "62"
+            },
+            {
+                "key": 2,
+                "start": "Brindisi",
+                "end": "Bari",
+                "distance": "175"
+            },
+            {
+                "key": 3,
+                "start": "Bari",
+                "end": "Potenza",
+                "distance": "260"
+            },
+            {
+                "key": 4,
+                "start": "Potenza",
+                "end": "Benevento",
+                "distance": "177"
+            },
+            {
+                "key": 5,
+                "start": "Benevento",
+                "end": "Pescasseroli",
+                "distance": "203"
+            },
+            {
+                "key": 6,
+                "start": "Pescasseroli",
+                "end": "Gran Sasso d'Italia",
+                "distance": "198"
+            },
+            {
+                "key": 7,
+                "start": "L'Aquila",
+                "end": "Orvieto",
+                "distance": "163"
+            },
+            {
+                "key": 8,
+                "start": "Orvieto",
+                "end": "San Vincenzo",
+                "distance": "220"
+            },
+            {
+                "key": 9,
+                "start": "San Vincenzo",
+                "end": "Casciana Terme",
+                "distance": "203"
+            },
+            {
+                "key": 10,
+                "start": "Casciana Terme",
+                "end": "Forte dei Marmi",
+                "distance": "141"
+            },
+            {
+                "key": 11,
+                "start": "Forte dei Marmi",
+                "end": "Pian del Falco di Sestola",
+                "distance": "123"
+            },
+            {
+                "key": 12,
+                "start": "Sestola",
+                "end": "Mantua",
+                "distance": "199"
+            },
+            {
+                "key": 13,
+                "start": "Desenzano del Garda",
+                "end": "Serniga di Sal\u00f2",
+                "distance": "28"
+            },
+            {
+                "key": 14,
+                "start": "Sal\u00f2",
+                "end": "SottomarinadiChioggia",
+                "distance": "218"
+            },
+            {
+                "key": 15,
+                "start": "Chioggia",
+                "end": "Bibione",
+                "distance": "170"
+            },
+            {
+                "key": 16,
+                "start": "Bibione",
+                "end": "Ljubljana(Yugoslavia)",
+                "distance": "201"
+            },
+            {
+                "key": 17,
+                "start": "Ljubljana (Yugoslavia) ",
+                "end": "Tarvisio",
+                "distance": "100"
+            },
+            {
+                "key": 18,
+                "start": "Tarvisio ",
+                "end": "Gro\u00dfglockner(Austria)",
+                "distance": "206"
+            },
+            {
+                "key": 19,
+                "start": "Lienz(Austria) ",
+                "end": "Falcade",
+                "distance": "195"
+            },
+            {
+                "key": 20,
+                "start": "Falcade",
+                "end": "Ponte di Legno",
+                "distance": "182"
+            },
+            {
+                "key": 21,
+                "start": "Ponte di Legno",
+                "end": "Lainate",
+                "distance": "185"
+            }
+        ],
+        "1976": [
+            {
+                "key": 1,
+                "start": "Catania",
+                "end": "Catania",
+                "distance": "64"
+            },
+            {
+                "key": 2,
+                "start": "Siracusa",
+                "end": "Caltanissetta",
+                "distance": "210"
+            },
+            {
+                "key": 3,
+                "start": "Caltanissetta",
+                "end": "Palermo",
+                "distance": "163"
+            },
+            {
+                "key": 4,
+                "start": "Cefal\u00f9",
+                "end": "Messina",
+                "distance": "192"
+            },
+            {
+                "key": 5,
+                "start": "Reggio Calabria",
+                "end": "Cosenza",
+                "distance": "220"
+            },
+            {
+                "key": 6,
+                "start": "Cosenza",
+                "end": "Matera",
+                "distance": "207"
+            },
+            {
+                "key": 7,
+                "start": "Ostuni",
+                "end": "Ostuni",
+                "distance": "37"
+            },
+            {
+                "key": 8,
+                "start": "Selva di Fasano[it]",
+                "end": "Lago Laceno",
+                "distance": "256"
+            },
+            {
+                "key": 9,
+                "start": "Bagnoli Irpino",
+                "end": "Roccaraso",
+                "distance": "204"
+            },
+            {
+                "key": 10,
+                "start": "Roccaraso",
+                "end": "Terni",
+                "distance": "203"
+            },
+            {
+                "key": 11,
+                "start": "Terni",
+                "end": "Gabicce Mare",
+                "distance": "222"
+            },
+            {
+                "key": 12,
+                "start": "Gabicce Mare",
+                "end": "Porretta Terme",
+                "distance": "215"
+            },
+            {
+                "key": 13,
+                "start": "Porretta Terme",
+                "end": "Il Ciocco",
+                "distance": "146"
+            },
+            {
+                "key": 14,
+                "start": "Il Ciocco",
+                "end": "Varazze",
+                "distance": "227"
+            },
+            {
+                "key": 15,
+                "start": "Varazze",
+                "end": "Ozegna",
+                "distance": "216"
+            },
+            {
+                "key": 16,
+                "start": "Castellamonte",
+                "end": "Arosio",
+                "distance": "258"
+            },
+            {
+                "key": 17,
+                "start": "Arosio",
+                "end": "Verona",
+                "distance": "196"
+            },
+            {
+                "key": 18,
+                "start": "Verona",
+                "end": "Longarone",
+                "distance": "174"
+            },
+            {
+                "key": 19,
+                "start": "Longarone",
+                "end": "Vajolet Towers",
+                "distance": "132"
+            },
+            {
+                "key": 20,
+                "start": "Vigo di Fassa",
+                "end": "Terme di Comano",
+                "distance": "170"
+            },
+            {
+                "key": 21,
+                "start": "Terme di Comano",
+                "end": "Bergamo",
+                "distance": "238"
+            },
+            {
+                "key": 22,
+                "start": "Arcore",
+                "end": "Arcore",
+                "distance": "28"
+            }
+        ],
+        "1981": [
+            {
+                "key": 1,
+                "start": "Trieste",
+                "end": "Bibione",
+                "distance": "100"
+            },
+            {
+                "key": 2,
+                "start": "Bibione",
+                "end": "Ferrara",
+                "distance": "211"
+            },
+            {
+                "key": 3,
+                "start": "Bologna",
+                "end": "Recanati",
+                "distance": "255"
+            },
+            {
+                "key": 4,
+                "start": "Recanati",
+                "end": "Lanciano",
+                "distance": "214"
+            },
+            {
+                "key": 5,
+                "start": "Marina di San Vito",
+                "end": "Rodi Garganico",
+                "distance": "180"
+            },
+            {
+                "key": 6,
+                "start": "Rodi Garganico",
+                "end": "Bari",
+                "distance": "225"
+            },
+            {
+                "key": 7,
+                "start": "Bari",
+                "end": "Potenza",
+                "distance": "143"
+            },
+            {
+                "key": 8,
+                "start": "Sala Consilina",
+                "end": "Cosenza",
+                "distance": "202"
+            },
+            {
+                "key": 9,
+                "start": "Cosenza",
+                "end": "Reggio Calabria",
+                "distance": "231"
+            },
+            {
+                "key": 10,
+                "start": "Rome ",
+                "end": "Cascia",
+                "distance": "166"
+            },
+            {
+                "key": 11,
+                "start": "Cascia",
+                "end": "Arezzo",
+                "distance": "199"
+            },
+            {
+                "key": 12,
+                "start": "Arezzo",
+                "end": "LivornoMontenero",
+                "distance": "224"
+            },
+            {
+                "key": 13,
+                "start": "Empoli",
+                "end": "Montecatini Terme",
+                "distance": "35"
+            },
+            {
+                "key": 14,
+                "start": "Montecatini Terme",
+                "end": "Salsomaggiore Terme",
+                "distance": "224"
+            },
+            {
+                "key": 15,
+                "start": "Salsomaggiore Terme",
+                "end": "Pavia",
+                "distance": "198"
+            },
+            {
+                "key": 16,
+                "start": "Milan",
+                "end": "Mantua",
+                "distance": "178"
+            },
+            {
+                "key": 17,
+                "start": "Mantua",
+                "end": "Borno",
+                "distance": "215"
+            },
+            {
+                "key": 18,
+                "start": "Borno",
+                "end": "Dimaro",
+                "distance": "127"
+            },
+            {
+                "key": 19,
+                "start": "Dimaro",
+                "end": "San Vigilio di Marebbe",
+                "distance": "208"
+            },
+            {
+                "key": 20,
+                "start": "San Vigilio di Marebbe",
+                "end": "Tre Cime di Lavaredo",
+                "distance": "100"
+            },
+            {
+                "key": 21,
+                "start": "Auronzo di Cadore",
+                "end": "Arzignano",
+                "distance": "197"
+            },
+            {
+                "key": 22,
+                "start": "Soave",
+                "end": "Verona",
+                "distance": "42"
+            }
+        ],
+        "1986": [
+            {
+                "key": 1,
+                "start": "Sciacca",
+                "end": "Catania",
+                "distance": "259"
+            },
+            {
+                "key": 2,
+                "start": "Catania",
+                "end": "Taormina",
+                "distance": "50"
+            },
+            {
+                "key": 3,
+                "start": "Villa San Giovanni",
+                "end": "Nicotera",
+                "distance": "115"
+            },
+            {
+                "key": 4,
+                "start": "Nicotera",
+                "end": "Cosenza",
+                "distance": "194"
+            },
+            {
+                "key": 5,
+                "start": "Cosenza",
+                "end": "Potenza",
+                "distance": "251"
+            },
+            {
+                "key": 6,
+                "start": "Potenza",
+                "end": "Baia Domizia",
+                "distance": "257"
+            },
+            {
+                "key": 7,
+                "start": "Cellole",
+                "end": "Avezzano",
+                "distance": "160"
+            },
+            {
+                "key": 8,
+                "start": "Avezzano",
+                "end": "Rieti",
+                "distance": "172"
+            },
+            {
+                "key": 9,
+                "start": "Rieti",
+                "end": "Pesaro",
+                "distance": "238"
+            },
+            {
+                "key": 10,
+                "start": "Pesaro",
+                "end": "Castiglione del Lago",
+                "distance": "207"
+            },
+            {
+                "key": 11,
+                "start": "Sinalunga",
+                "end": "Siena",
+                "distance": "46"
+            },
+            {
+                "key": 12,
+                "start": "Siena",
+                "end": "Sarzana",
+                "distance": "175"
+            },
+            {
+                "key": 13,
+                "start": "Savona",
+                "end": "Sauze d'Oulx",
+                "distance": "236"
+            },
+            {
+                "key": 14,
+                "start": "Sauze d'Oulx",
+                "end": "Erba",
+                "distance": "260"
+            },
+            {
+                "key": 15,
+                "start": "Erba",
+                "end": "Foppolo",
+                "distance": "143"
+            },
+            {
+                "key": 16,
+                "start": "Foppolo",
+                "end": "Piacenza",
+                "distance": "186"
+            },
+            {
+                "key": 17,
+                "start": "Piacenza",
+                "end": "Cremona",
+                "distance": "36"
+            },
+            {
+                "key": 18,
+                "start": "Cremona",
+                "end": "Peio",
+                "distance": "211"
+            },
+            {
+                "key": 19,
+                "start": "Peio",
+                "end": "Bassano del Grappa",
+                "distance": "179"
+            },
+            {
+                "key": 20,
+                "start": "Bassano del Grappa",
+                "end": "Bolzano",
+                "distance": "234"
+            },
+            {
+                "key": 21,
+                "start": "Merano",
+                "end": "Merano",
+                "distance": "108"
+            }
+        ],
+        "1991": [
+            {
+                "key": 1,
+                "start": "Olbia",
+                "end": "Olbia",
+                "distance": "193"
+            },
+            {
+                "key": 2,
+                "start": "Olbia",
+                "end": "Sassari",
+                "distance": "127"
+            },
+            {
+                "key": 3,
+                "start": "Sassari",
+                "end": "Cagliari",
+                "distance": "231"
+            },
+            {
+                "key": 4,
+                "start": "Sorrento",
+                "end": "Sorrento",
+                "distance": "170"
+            },
+            {
+                "key": 5,
+                "start": "Sorrento",
+                "end": "Scanno",
+                "distance": "246"
+            },
+            {
+                "key": 6,
+                "start": "Scanno",
+                "end": "Rieti",
+                "distance": "205"
+            },
+            {
+                "key": 7,
+                "start": "Rieti",
+                "end": "Citt\u00e0 di Castello",
+                "distance": "174"
+            },
+            {
+                "key": 8,
+                "start": "Citt\u00e0 di Castello",
+                "end": "Prato",
+                "distance": "169"
+            },
+            {
+                "key": 9,
+                "start": "Prato",
+                "end": "Felino",
+                "distance": "229"
+            },
+            {
+                "key": 10,
+                "start": "Collecchio",
+                "end": "Langhirano",
+                "distance": "43"
+            },
+            {
+                "key": 11,
+                "start": "Sala Baganza",
+                "end": "Savona",
+                "distance": "223"
+            },
+            {
+                "key": 12,
+                "start": "Savona",
+                "end": "Pian del Re",
+                "distance": "182"
+            },
+            {
+                "key": 13,
+                "start": "Savigliano",
+                "end": "Sestriere",
+                "distance": "192"
+            },
+            {
+                "key": 14,
+                "start": "Turin",
+                "end": "Morbegno",
+                "distance": "239"
+            },
+            {
+                "key": 15,
+                "start": "Morbegno",
+                "end": "Aprica",
+                "distance": "132"
+            },
+            {
+                "key": 16,
+                "start": "Tirano",
+                "end": "Selva di Val Gardena",
+                "distance": "220"
+            },
+            {
+                "key": 17,
+                "start": "Selva di Val Gardena",
+                "end": "Passo Pordoi",
+                "distance": "169"
+            },
+            {
+                "key": 18,
+                "start": "Pozza di Fassa",
+                "end": "Castelfranco Veneto",
+                "distance": "165"
+            },
+            {
+                "key": 19,
+                "start": "Castelfranco Veneto",
+                "end": "Brescia",
+                "distance": "185"
+            },
+            {
+                "key": 20,
+                "start": "Broni",
+                "end": "Casteggio",
+                "distance": "66"
+            },
+            {
+                "key": 21,
+                "start": "Pavia",
+                "end": "Milan",
+                "distance": "153"
+            }
+        ],
+        "1996": [
+            {
+                "key": 1,
+                "start": "Athens(Greece) ",
+                "end": " Athens (Greece)",
+                "distance": "170"
+            },
+            {
+                "key": 2,
+                "start": "Eleusis(Greece) ",
+                "end": "Naupactus(Greece)",
+                "distance": "235"
+            },
+            {
+                "key": 3,
+                "start": "Missolonghi(Greece) ",
+                "end": "Ioannina(Greece)",
+                "distance": "199"
+            },
+            {
+                "key": 4,
+                "start": "Ostuni",
+                "end": "Ostuni",
+                "distance": "147"
+            },
+            {
+                "key": 5,
+                "start": "Metaponto",
+                "end": "Crotone",
+                "distance": "196"
+            },
+            {
+                "key": 6,
+                "start": "Crotone",
+                "end": "Catanzaro",
+                "distance": "179"
+            },
+            {
+                "key": 7,
+                "start": "Amantea",
+                "end": "Massiccio del Sirino",
+                "distance": "164"
+            },
+            {
+                "key": 8,
+                "start": "Polla",
+                "end": "Naples",
+                "distance": "135"
+            },
+            {
+                "key": 9,
+                "start": "Naples",
+                "end": "Fiuggi",
+                "distance": "184"
+            },
+            {
+                "key": 10,
+                "start": "Arezzo",
+                "end": "Prato",
+                "distance": "164"
+            },
+            {
+                "key": 11,
+                "start": "Prato",
+                "end": "Marina di Massa",
+                "distance": "130"
+            },
+            {
+                "key": 12,
+                "start": "Aulla",
+                "end": "Loano",
+                "distance": "195"
+            },
+            {
+                "key": 13,
+                "start": "Loano",
+                "end": "Prato Nevoso",
+                "distance": "115"
+            },
+            {
+                "key": 14,
+                "start": "Sanctuary of Vicoforte",
+                "end": "Brian\u00e7on(France)",
+                "distance": "202"
+            },
+            {
+                "key": 15,
+                "start": "Brian\u00e7on(France) ",
+                "end": "Aosta",
+                "distance": "235"
+            },
+            {
+                "key": 16,
+                "start": "Aosta",
+                "end": "Lausanne(Switzerland)",
+                "distance": "180"
+            },
+            {
+                "key": 17,
+                "start": "Lausanne(Switzerland) ",
+                "end": "Biella",
+                "distance": "236"
+            },
+            {
+                "key": 18,
+                "start": "Meda",
+                "end": "Vicenza",
+                "distance": "216"
+            },
+            {
+                "key": 19,
+                "start": "Vicenza",
+                "end": "Marostica",
+                "distance": "62"
+            },
+            {
+                "key": 20,
+                "start": "Marostica",
+                "end": "Passo Pordoi",
+                "distance": "220"
+            },
+            {
+                "key": 21,
+                "start": "Cavalese",
+                "end": "Aprica",
+                "distance": "250"
+            },
+            {
+                "key": 22,
+                "start": "Sondrio",
+                "end": "Milan",
+                "distance": "176"
+            }
+        ],
+        "2001": [
+            {
+                "key": 1,
+                "start": "Montesilvano",
+                "end": "Pescara",
+                "distance": "7"
+            },
+            {
+                "key": 2,
+                "start": "Giulianova",
+                "end": "Francavilla al Mare",
+                "distance": "205"
+            },
+            {
+                "key": 3,
+                "start": "Fossacesia",
+                "end": "Lucera",
+                "distance": "163"
+            },
+            {
+                "key": 4,
+                "start": "Lucera",
+                "end": "Potenza",
+                "distance": "149"
+            },
+            {
+                "key": 5,
+                "start": "Potenza",
+                "end": "Mercogliano",
+                "distance": "169"
+            },
+            {
+                "key": 6,
+                "start": "Avellino",
+                "end": "Nettuno",
+                "distance": "229"
+            },
+            {
+                "key": 7,
+                "start": "Nettuno",
+                "end": "Rieti",
+                "distance": "152"
+            },
+            {
+                "key": 8,
+                "start": "Rieti",
+                "end": "Montevarchi",
+                "distance": "239"
+            },
+            {
+                "key": 9,
+                "start": "Montecatini Terme",
+                "end": "Reggio Emilia",
+                "distance": "185"
+            },
+            {
+                "key": 10,
+                "start": "Reggio Emilia",
+                "end": "Rovigo",
+                "distance": "140"
+            },
+            {
+                "key": 11,
+                "start": "Lido di Jesolo",
+                "end": "Ljubljana(Slovenia)",
+                "distance": "212"
+            },
+            {
+                "key": 12,
+                "start": "Bled(Slovenia) ",
+                "end": "Gorizia",
+                "distance": "187"
+            },
+            {
+                "key": 13,
+                "start": "Gradisca d'Isonzo",
+                "end": "Montebelluna",
+                "distance": "139"
+            },
+            {
+                "key": 14,
+                "start": "Montebelluna",
+                "end": "Passo Pordoi",
+                "distance": "225"
+            },
+            {
+                "key": 15,
+                "start": "Cavalese",
+                "end": "Arco",
+                "distance": "166"
+            },
+            {
+                "key": 16,
+                "start": "Sirmione",
+                "end": "Sal\u00f2",
+                "distance": "55"
+            },
+            {
+                "key": 17,
+                "start": "Erbusco",
+                "end": "Parma",
+                "distance": "142"
+            },
+            {
+                "key": 18,
+                "start": "Sanremo",
+                "end": "Sanremo",
+                "distance": "123"
+            },
+            {
+                "key": 19,
+                "start": "Imperia",
+                "end": "Sant'Anna di Vinadio",
+                "distance": "230"
+            },
+            {
+                "key": 20,
+                "start": "Alba",
+                "end": "Busto Arsizio",
+                "distance": "163"
+            },
+            {
+                "key": 21,
+                "start": "Bus",
+                "end": " ArsiziotoArona",
+                "distance": "181"
+            },
+            {
+                "key": 22,
+                "start": "Arona",
+                "end": "Milan",
+                "distance": "125"
+            }
+        ],
+        "2006": [
+            {
+                "key": 1,
+                "start": "Mons(Belgium) ",
+                "end": "Charleroi(Belgium)",
+                "distance": "197"
+            },
+            {
+                "key": 2,
+                "start": "Perwez(Belgium) ",
+                "end": "Namur(Belgium)",
+                "distance": "202"
+            },
+            {
+                "key": 3,
+                "start": "Wanze(Belgium) ",
+                "end": "Hotton(Belgium)",
+                "distance": "193"
+            },
+            {
+                "key": 4,
+                "start": "Piacenza",
+                "end": "Cremona",
+                "distance": "38"
+            },
+            {
+                "key": 5,
+                "start": "Busseto",
+                "end": "Forl\u00ec",
+                "distance": "227"
+            },
+            {
+                "key": 6,
+                "start": "Cesena",
+                "end": "Saltara",
+                "distance": "236"
+            },
+            {
+                "key": 7,
+                "start": "Civitanova Marche",
+                "end": "Maielletta",
+                "distance": "171"
+            },
+            {
+                "key": 8,
+                "start": "Francavilla al Mare",
+                "end": "Termoli",
+                "distance": "121"
+            },
+            {
+                "key": 9,
+                "start": "Termoli ",
+                "end": "Peschici",
+                "distance": "187"
+            },
+            {
+                "key": 10,
+                "start": "Livorno",
+                "end": "Sestri Levante",
+                "distance": "171"
+            },
+            {
+                "key": 11,
+                "start": "Alessandria",
+                "end": "La Thuile",
+                "distance": "218"
+            },
+            {
+                "key": 12,
+                "start": "Aosta",
+                "end": "Domodossola",
+                "distance": "223"
+            },
+            {
+                "key": 13,
+                "start": "Mergozzo",
+                "end": "Brescia",
+                "distance": "189"
+            },
+            {
+                "key": 14,
+                "start": "Rovato",
+                "end": "Trento",
+                "distance": "173"
+            },
+            {
+                "key": 15,
+                "start": "Tramin",
+                "end": "Plan de Corones",
+                "distance": "133"
+            },
+            {
+                "key": 16,
+                "start": "Sillian(Austria) ",
+                "end": "Gemona del Friuli",
+                "distance": "210"
+            },
+            {
+                "key": 17,
+                "start": "Pordenone",
+                "end": "Passo di San Pellegrino",
+                "distance": "224"
+            },
+            {
+                "key": 18,
+                "start": "Trento",
+                "end": "Aprica",
+                "distance": "211"
+            },
+            {
+                "key": 19,
+                "start": "Museo del Ghisallo",
+                "end": "Milan",
+                "distance": "140"
+            }
+        ],
+        "2011": [
+            {
+                "key": 1,
+                "start": "Venaria Reale",
+                "end": "Turin",
+                "distance": "19"
+            },
+            {
+                "key": 2,
+                "start": "Alba",
+                "end": "Parma",
+                "distance": "244"
+            },
+            {
+                "key": 3,
+                "start": "Reggio Emilia",
+                "end": "Rapallo",
+                "distance": "173"
+            },
+            {
+                "key": 4,
+                "start": "Quar",
+                "end": " dei MilletoLivorno",
+                "distance": "216"
+            },
+            {
+                "key": 5,
+                "start": "Piombino",
+                "end": "Orvieto",
+                "distance": "191"
+            },
+            {
+                "key": 6,
+                "start": "Orvieto",
+                "end": "Fiuggi",
+                "distance": "216"
+            },
+            {
+                "key": 7,
+                "start": "Maddaloni",
+                "end": "Montevergine di Mercogliano",
+                "distance": "110"
+            },
+            {
+                "key": 8,
+                "start": "Sapri",
+                "end": "Tropea",
+                "distance": "217"
+            },
+            {
+                "key": 9,
+                "start": "Messina",
+                "end": "Etna",
+                "distance": "169"
+            },
+            {
+                "key": 10,
+                "start": "Termoli",
+                "end": "Teramo",
+                "distance": "159"
+            },
+            {
+                "key": 11,
+                "start": "Teramo",
+                "end": "Castelfidardo",
+                "distance": "142"
+            },
+            {
+                "key": 12,
+                "start": "Castelfidardo",
+                "end": "Ravenna",
+                "distance": "184"
+            },
+            {
+                "key": 13,
+                "start": "Spilimbergo",
+                "end": "Grossglockner(Austria)",
+                "distance": "167"
+            },
+            {
+                "key": 14,
+                "start": "Lienz(Austria) ",
+                "end": "Monte Zoncolan",
+                "distance": "170"
+            },
+            {
+                "key": 15,
+                "start": "Conegliano",
+                "end": "Gardeccia-Val di Fassa",
+                "distance": "229"
+            },
+            {
+                "key": 16,
+                "start": "Belluno",
+                "end": "Nevegal",
+                "distance": "12"
+            },
+            {
+                "key": 17,
+                "start": "Feltre",
+                "end": "Tirano",
+                "distance": "230"
+            },
+            {
+                "key": 18,
+                "start": "Morbegno",
+                "end": "San Pellegrino Terme",
+                "distance": "151"
+            },
+            {
+                "key": 19,
+                "start": "Bergamo",
+                "end": "Macugnaga",
+                "distance": "209"
+            },
+            {
+                "key": 20,
+                "start": "Verbania",
+                "end": "Sestriere",
+                "distance": "242"
+            }
+        ],
+        "2016": [],
+        "2021": [
+            {
+                "key": 1,
+                "start": "Torino",
+                "end": " Torino",
+                "distance": "8"
+            },
+            {
+                "key": 2,
+                "start": "Stupinigi(Nichelino) ",
+                "end": "Novara",
+                "distance": "179"
+            },
+            {
+                "key": 3,
+                "start": "Biella",
+                "end": "Canale",
+                "distance": "190"
+            },
+            {
+                "key": 4,
+                "start": "Piacenza",
+                "end": "Sestola",
+                "distance": "187"
+            },
+            {
+                "key": 5,
+                "start": "Modena",
+                "end": "Cattolica",
+                "distance": "177"
+            },
+            {
+                "key": 6,
+                "start": "Grotte di Frasassi",
+                "end": "Ascoli Piceno(San Giacomo)",
+                "distance": "160"
+            },
+            {
+                "key": 7,
+                "start": "Notaresco",
+                "end": "Termoli",
+                "distance": "181"
+            },
+            {
+                "key": 8,
+                "start": "Foggia",
+                "end": "Guardia Sanframondi",
+                "distance": "170"
+            },
+            {
+                "key": 9,
+                "start": "Castel di Sangro",
+                "end": "Campo Felice(Rocca di Cambio)",
+                "distance": "158"
+            },
+            {
+                "key": 10,
+                "start": "L'Aquila",
+                "end": "Foligno",
+                "distance": "139"
+            },
+            {
+                "key": 11,
+                "start": "Perugia",
+                "end": "Montalcino",
+                "distance": "162"
+            },
+            {
+                "key": 12,
+                "start": "Siena",
+                "end": "Bagno di Romagna",
+                "distance": "212"
+            },
+            {
+                "key": 13,
+                "start": "Ravenna",
+                "end": "Verona",
+                "distance": "198"
+            },
+            {
+                "key": 14,
+                "start": "Cittadella",
+                "end": "Monte Zoncolan",
+                "distance": "205"
+            },
+            {
+                "key": 15,
+                "start": "Grado",
+                "end": "Gorizia",
+                "distance": "147"
+            },
+            {
+                "key": 16,
+                "start": "Sacile",
+                "end": "Cortina d'Ampezzo",
+                "distance": "153"
+            },
+            {
+                "key": 17,
+                "start": "Canazei ",
+                "end": "Sega di Ala",
+                "distance": "193"
+            },
+            {
+                "key": 18,
+                "start": "Rovereto",
+                "end": "Stradella",
+                "distance": "231"
+            },
+            {
+                "key": 19,
+                "start": "Abbiategrasso",
+                "end": "Alpe di Mera(Valsesia)",
+                "distance": "166"
+            },
+            {
+                "key": 20,
+                "start": "Verbania",
+                "end": "Valle Spluga(Alpe Motta)",
+                "distance": "164"
+            },
+            {
+                "key": 21,
+                "start": "Senago",
+                "end": "Milan",
+                "distance": "30"
+            }
         ]
     }
 }

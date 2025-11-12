@@ -7,6 +7,1972 @@
                 "end": "Bologna",
                 "distance": "397"
             }
+        ],
+        "1935": [
+            {
+                "key": 1,
+                "start": "Madrid",
+                "end": "Valladolid",
+                "distance": "185"
+            },
+            {
+                "key": 2,
+                "start": "Valladolid ",
+                "end": "Santander",
+                "distance": "251"
+            },
+            {
+                "key": 3,
+                "start": "Santander ",
+                "end": "Bilbao",
+                "distance": "199"
+            },
+            {
+                "key": 4,
+                "start": "Bilbao ",
+                "end": "San Sebasti\u00e1n",
+                "distance": "235"
+            },
+            {
+                "key": 5,
+                "start": "San Sebasti\u00e1n ",
+                "end": "Zaragoza",
+                "distance": "264"
+            },
+            {
+                "key": 6,
+                "start": "Zaragoza ",
+                "end": "Barcelona",
+                "distance": "310"
+            },
+            {
+                "key": 7,
+                "start": "Barcelona ",
+                "end": "Tortosa",
+                "distance": "188"
+            },
+            {
+                "key": 8,
+                "start": "Tortosa ",
+                "end": "Valencia",
+                "distance": "188"
+            },
+            {
+                "key": 9,
+                "start": "Valencia ",
+                "end": "Murcia",
+                "distance": "265"
+            },
+            {
+                "key": 10,
+                "start": "Murcia ",
+                "end": "Granada",
+                "distance": "285"
+            },
+            {
+                "key": 11,
+                "start": "Granada ",
+                "end": "Sevilla",
+                "distance": "260"
+            },
+            {
+                "key": 12,
+                "start": "Sevilla ",
+                "end": "C\u00e1ceres",
+                "distance": "270"
+            },
+            {
+                "key": 13,
+                "start": "C\u00e1ceres ",
+                "end": "Zamora",
+                "distance": "275"
+            }
+        ],
+        "1941": [
+            {
+                "key": 1,
+                "start": "Madrid ",
+                "end": "Salamanca",
+                "distance": "210"
+            },
+            {
+                "key": 2,
+                "start": "Salamanca ",
+                "end": "C\u00e1ceres",
+                "distance": "214"
+            },
+            {
+                "key": 3,
+                "start": "C\u00e1ceres ",
+                "end": "Sevilla",
+                "distance": "270"
+            },
+            {
+                "key": 4,
+                "start": "Sevilla ",
+                "end": "M\u00e1laga",
+                "distance": "212"
+            },
+            {
+                "key": 5,
+                "start": "M\u00e1laga ",
+                "end": "Almer\u00eda",
+                "distance": "220"
+            },
+            {
+                "key": 6,
+                "start": "Almer\u00eda ",
+                "end": "Murcia",
+                "distance": "223"
+            },
+            {
+                "key": 7,
+                "start": "Murcia ",
+                "end": "Valencia",
+                "distance": "248"
+            },
+            {
+                "key": 8,
+                "start": "Valencia ",
+                "end": "Tarragona",
+                "distance": "279"
+            },
+            {
+                "key": 9,
+                "start": "Tarragona ",
+                "end": "Barcelona",
+                "distance": "112"
+            },
+            {
+                "key": 10,
+                "start": "Barcelona ",
+                "end": "Zaragoza",
+                "distance": "294"
+            },
+            {
+                "key": 11,
+                "start": "Zaragoza ",
+                "end": "Logro\u00f1o",
+                "distance": "172"
+            },
+            {
+                "key": 12,
+                "start": "Logro\u00f1o ",
+                "end": "San Sebasti\u00e1n",
+                "distance": "213"
+            },
+            {
+                "key": 13,
+                "start": "San Sebasti\u00e1n ",
+                "end": "Bilbao",
+                "distance": "160"
+            },
+            {
+                "key": 14,
+                "start": "Bilbao ",
+                "end": "Santander",
+                "distance": "165"
+            },
+            {
+                "key": 15,
+                "start": "Santander ",
+                "end": "Gij\u00f3n",
+                "distance": "192"
+            },
+            {
+                "key": 16,
+                "start": "Gij\u00f3n ",
+                "end": "Oviedo",
+                "distance": "53"
+            },
+            {
+                "key": 17,
+                "start": "Luarca ",
+                "end": "A Coru\u00f1a",
+                "distance": "219"
+            },
+            {
+                "key": 18,
+                "start": "A Coru\u00f1a ",
+                "end": "Vigo",
+                "distance": "175"
+            },
+            {
+                "key": 19,
+                "start": "Vigo ",
+                "end": "Ver\u00edn",
+                "distance": "178"
+            },
+            {
+                "key": 20,
+                "start": "Ver\u00edn ",
+                "end": "Valladolid",
+                "distance": "301"
+            }
+        ],
+        "1946": [
+            {
+                "key": 1,
+                "start": "Madrid",
+                "end": "Salamanca",
+                "distance": "212"
+            },
+            {
+                "key": 2,
+                "start": "Salamanca",
+                "end": "B\u00e9jar",
+                "distance": "73"
+            },
+            {
+                "key": 3,
+                "start": "B\u00e9jar",
+                "end": "C\u00e1ceres",
+                "distance": "141"
+            },
+            {
+                "key": 4,
+                "start": "C\u00e1ceres",
+                "end": "Badajoz",
+                "distance": "132"
+            },
+            {
+                "key": 5,
+                "start": "Badajoz",
+                "end": "Seville",
+                "distance": "218"
+            },
+            {
+                "key": 6,
+                "start": "Seville",
+                "end": "Granada",
+                "distance": "251"
+            },
+            {
+                "key": 7,
+                "start": "Granada",
+                "end": "Baza",
+                "distance": "107"
+            },
+            {
+                "key": 8,
+                "start": "Baza",
+                "end": "Murcia",
+                "distance": "178"
+            },
+            {
+                "key": 9,
+                "start": "Murcia",
+                "end": "Valencia",
+                "distance": "264"
+            },
+            {
+                "key": 10,
+                "start": "Valencia",
+                "end": "Castell\u00f3n",
+                "distance": "67"
+            },
+            {
+                "key": 11,
+                "start": "Castell\u00f3n",
+                "end": "Tortosa",
+                "distance": "123"
+            },
+            {
+                "key": 12,
+                "start": "Tortosa",
+                "end": "Barcelona",
+                "distance": "215"
+            },
+            {
+                "key": 13,
+                "start": "Barcelona",
+                "end": "Lleida",
+                "distance": "162"
+            },
+            {
+                "key": 14,
+                "start": "Lleida",
+                "end": "Zaragoza",
+                "distance": "144"
+            },
+            {
+                "key": 15,
+                "start": "Zaragoza",
+                "end": "San Sebasti\u00e1n",
+                "distance": "276"
+            },
+            {
+                "key": 16,
+                "start": "San Sebasti\u00e1n",
+                "end": "Bilbao",
+                "distance": "207"
+            },
+            {
+                "key": 17,
+                "start": "Bilbao",
+                "end": "Santander",
+                "distance": "226"
+            },
+            {
+                "key": 18,
+                "start": "Santander",
+                "end": "Reinosa",
+                "distance": "110"
+            },
+            {
+                "key": 19,
+                "start": "Reinosa",
+                "end": "Gij\u00f3n",
+                "distance": "204"
+            },
+            {
+                "key": 20,
+                "start": "Gij\u00f3n",
+                "end": "Oviedo",
+                "distance": "53"
+            },
+            {
+                "key": 21,
+                "start": "Oviedo",
+                "end": "Le\u00f3n",
+                "distance": "119"
+            },
+            {
+                "key": 22,
+                "start": "Le\u00f3n",
+                "end": "Valladolid",
+                "distance": "134"
+            },
+            {
+                "key": 23,
+                "start": "Valladolid",
+                "end": "Madrid",
+                "distance": "200"
+            }
+        ],
+        "1955": [
+            {
+                "key": 1,
+                "start": "Bilbao",
+                "end": "San Sebasti\u00e1n",
+                "distance": "240"
+            },
+            {
+                "key": 2,
+                "start": "San Sebasti\u00e1n",
+                "end": "Bayonne(France)",
+                "distance": "211"
+            },
+            {
+                "key": 3,
+                "start": "Bayonne(France) ",
+                "end": "Pamplona",
+                "distance": "157"
+            },
+            {
+                "key": 4,
+                "start": "Pamplona",
+                "end": "Zaragoza",
+                "distance": "229"
+            },
+            {
+                "key": 5,
+                "start": "Zaragoza",
+                "end": "Lleida",
+                "distance": "195"
+            },
+            {
+                "key": 6,
+                "start": "Lleida",
+                "end": "Barcelona",
+                "distance": "230"
+            },
+            {
+                "key": 7,
+                "start": "Barcelona",
+                "end": " Barcelona",
+                "distance": "29"
+            },
+            {
+                "key": 8,
+                "start": "Barcelona",
+                "end": "Tortosa",
+                "distance": "213"
+            },
+            {
+                "key": 9,
+                "start": "Tortosa",
+                "end": "Valencia",
+                "distance": "190"
+            },
+            {
+                "key": 10,
+                "start": "Valencia",
+                "end": "Cuenca",
+                "distance": "222"
+            },
+            {
+                "key": 11,
+                "start": "Cuenca",
+                "end": "Madrid",
+                "distance": "168"
+            },
+            {
+                "key": 12,
+                "start": "Madrid",
+                "end": " Madrid",
+                "distance": "15"
+            },
+            {
+                "key": 13,
+                "start": "Madrid",
+                "end": "Valladolid",
+                "distance": "222"
+            },
+            {
+                "key": 14,
+                "start": "Valladolid",
+                "end": "Bilbao",
+                "distance": "308"
+            },
+            {
+                "key": 15,
+                "start": "Bilbao",
+                "end": " Bilbao",
+                "distance": "147"
+            }
+        ],
+        "1960": [
+            {
+                "key": 1,
+                "start": "Gij\u00f3n",
+                "end": " Gij\u00f3n",
+                "distance": "8"
+            },
+            {
+                "key": 2,
+                "start": "Gij\u00f3n",
+                "end": "A Coru\u00f1a",
+                "distance": "235"
+            },
+            {
+                "key": 3,
+                "start": "A Coru\u00f1a",
+                "end": "Vigo",
+                "distance": "187"
+            },
+            {
+                "key": 4,
+                "start": "Vigo",
+                "end": "Ourense",
+                "distance": "105"
+            },
+            {
+                "key": 5,
+                "start": "Ourense",
+                "end": "Zamora",
+                "distance": "287"
+            },
+            {
+                "key": 6,
+                "start": "Zamora",
+                "end": "Madrid",
+                "distance": "250"
+            },
+            {
+                "key": 7,
+                "start": "Madrid",
+                "end": " Madrid",
+                "distance": "209"
+            },
+            {
+                "key": 8,
+                "start": "Guadalajara",
+                "end": "Zaragoza",
+                "distance": "264"
+            },
+            {
+                "key": 9,
+                "start": "Zaragoza",
+                "end": "Barcelona",
+                "distance": "269"
+            },
+            {
+                "key": 10,
+                "start": "Barcelona",
+                "end": "Barbastro",
+                "distance": "240"
+            },
+            {
+                "key": 11,
+                "start": "Barbastro",
+                "end": "Pamplona",
+                "distance": "267"
+            },
+            {
+                "key": 12,
+                "start": "Pamplona",
+                "end": "Logro\u00f1o",
+                "distance": "179"
+            },
+            {
+                "key": 13,
+                "start": "Logro\u00f1o",
+                "end": "San Sebasti\u00e1n",
+                "distance": "211"
+            },
+            {
+                "key": 14,
+                "start": "San Sebasti\u00e1n",
+                "end": "Vitoria",
+                "distance": "263"
+            },
+            {
+                "key": 15,
+                "start": "Vitoria",
+                "end": "Santander",
+                "distance": "232"
+            },
+            {
+                "key": 16,
+                "start": "Santander",
+                "end": "Bilbao",
+                "distance": "192"
+            },
+            {
+                "key": 17,
+                "start": "Bilbao",
+                "end": "Guernica",
+                "distance": "116"
+            }
+        ],
+        "1965": [
+            {
+                "key": 1,
+                "start": "Vigo",
+                "end": " Vigo",
+                "distance": "168"
+            },
+            {
+                "key": 2,
+                "start": "Pontevedra",
+                "end": "Lugo",
+                "distance": "150"
+            },
+            {
+                "key": 3,
+                "start": "Lugo",
+                "end": "Gij\u00f3n",
+                "distance": "247"
+            },
+            {
+                "key": 4,
+                "start": "Mieres",
+                "end": "Pajares",
+                "distance": "41"
+            },
+            {
+                "key": 5,
+                "start": "Palencia",
+                "end": "Madrid",
+                "distance": "238"
+            },
+            {
+                "key": 6,
+                "start": "Madrid",
+                "end": "Cuenca",
+                "distance": "161"
+            },
+            {
+                "key": 7,
+                "start": "Albacete",
+                "end": "Benidorm",
+                "distance": "212"
+            },
+            {
+                "key": 8,
+                "start": "Benidorm",
+                "end": "Sagunto",
+                "distance": "174"
+            },
+            {
+                "key": 9,
+                "start": "Sagunto",
+                "end": "Salou",
+                "distance": "237"
+            },
+            {
+                "key": 10,
+                "start": "Salou",
+                "end": "Barcelona",
+                "distance": "115"
+            },
+            {
+                "key": 11,
+                "start": "Barcelona",
+                "end": "Andorra",
+                "distance": "241"
+            },
+            {
+                "key": 12,
+                "start": "Andorra",
+                "end": "Lleida",
+                "distance": "158"
+            },
+            {
+                "key": 13,
+                "start": "Lleida",
+                "end": "Zaragoza",
+                "distance": "190"
+            },
+            {
+                "key": 14,
+                "start": "Zaragoza",
+                "end": "Pamplona",
+                "distance": "193"
+            },
+            {
+                "key": 15,
+                "start": "Pamplona",
+                "end": "Bayonne(France)",
+                "distance": "149"
+            },
+            {
+                "key": 16,
+                "start": "Saint-P\u00e9e-sur-Nivelle(France) ",
+                "end": "San Sebasti\u00e1n",
+                "distance": "61"
+            },
+            {
+                "key": 17,
+                "start": "San Sebasti\u00e1n",
+                "end": "Vitoria",
+                "distance": "214"
+            },
+            {
+                "key": 18,
+                "start": "Vitoria",
+                "end": "Bilbao",
+                "distance": "222"
+            }
+        ],
+        "1970": [
+            {
+                "key": 1,
+                "start": "C\u00e1diz",
+                "end": " C\u00e1diz",
+                "distance": "6"
+            },
+            {
+                "key": 2,
+                "start": "C\u00e1diz",
+                "end": "Jerez de la Frontera",
+                "distance": "170"
+            },
+            {
+                "key": 3,
+                "start": "Jerez de la Frontera",
+                "end": "Fuengirola",
+                "distance": "217"
+            },
+            {
+                "key": 4,
+                "start": "Fuengirola",
+                "end": "Almer\u00eda",
+                "distance": "249"
+            },
+            {
+                "key": 5,
+                "start": "Almer\u00eda",
+                "end": "Lorca",
+                "distance": "161"
+            },
+            {
+                "key": 6,
+                "start": "Lorca",
+                "end": "Calp",
+                "distance": "209"
+            },
+            {
+                "key": 7,
+                "start": "Calp",
+                "end": "Borriana",
+                "distance": "198"
+            },
+            {
+                "key": 8,
+                "start": "Borriana",
+                "end": "Tarragona",
+                "distance": "201"
+            },
+            {
+                "key": 9,
+                "start": "Tarragona",
+                "end": "Barcelona",
+                "distance": "100"
+            },
+            {
+                "key": 10,
+                "start": "Barcelona",
+                "end": "Igualada",
+                "distance": "189"
+            },
+            {
+                "key": 11,
+                "start": "Igualada",
+                "end": "Zaragoza",
+                "distance": "237"
+            },
+            {
+                "key": 12,
+                "start": "Zaragoza",
+                "end": "Calatayud",
+                "distance": "118"
+            },
+            {
+                "key": 13,
+                "start": "Calatayud",
+                "end": "Madrid",
+                "distance": "204"
+            },
+            {
+                "key": 14,
+                "start": "Madrid",
+                "end": "Soria",
+                "distance": "221"
+            },
+            {
+                "key": 15,
+                "start": "Soria",
+                "end": "Valladolid",
+                "distance": "238"
+            },
+            {
+                "key": 16,
+                "start": "Valladolid",
+                "end": "Burgos",
+                "distance": "134"
+            },
+            {
+                "key": 17,
+                "start": "Burgos",
+                "end": "Santander",
+                "distance": "179"
+            },
+            {
+                "key": 18,
+                "start": "Santander",
+                "end": "Vitoria",
+                "distance": "191"
+            },
+            {
+                "key": 19,
+                "start": "Vitoria",
+                "end": "San Sebasti\u00e1n",
+                "distance": "157"
+            },
+            {
+                "key": 20,
+                "start": "San Sebasti\u00e1n",
+                "end": "Llodio",
+                "distance": "104"
+            }
+        ],
+        "1975": [
+            {
+                "key": 1,
+                "start": "Fuengirola",
+                "end": " Fuengirola",
+                "distance": "4"
+            },
+            {
+                "key": 2,
+                "start": "Marbella",
+                "end": " Marbella",
+                "distance": "78"
+            },
+            {
+                "key": 3,
+                "start": "M\u00e1laga",
+                "end": "Granada",
+                "distance": "143"
+            },
+            {
+                "key": 4,
+                "start": "Granada",
+                "end": " Granada",
+                "distance": "179"
+            },
+            {
+                "key": 5,
+                "start": "\u00c1guilas",
+                "end": "Murcia",
+                "distance": "176"
+            },
+            {
+                "key": 6,
+                "start": "Murcia",
+                "end": "Benidorm",
+                "distance": "217"
+            },
+            {
+                "key": 7,
+                "start": "Benidorm",
+                "end": " Benidorm",
+                "distance": "8"
+            },
+            {
+                "key": 8,
+                "start": "Benidorm",
+                "end": "La Pobla de Farnals",
+                "distance": "217"
+            },
+            {
+                "key": 9,
+                "start": "La Pobla de Farnals",
+                "end": "Vinar\u00f2s",
+                "distance": "157"
+            },
+            {
+                "key": 10,
+                "start": "Vinar\u00f2s",
+                "end": "Cambrils",
+                "distance": "173"
+            },
+            {
+                "key": 11,
+                "start": "Cambrils",
+                "end": "Barcelona",
+                "distance": "151"
+            },
+            {
+                "key": 12,
+                "start": "Palma de Mallorca",
+                "end": " Palma de Mallorca",
+                "distance": "181"
+            },
+            {
+                "key": 13,
+                "start": "Barcelona",
+                "end": "Tremp",
+                "distance": "189"
+            },
+            {
+                "key": 14,
+                "start": "Tremp",
+                "end": "Formigal",
+                "distance": "233"
+            },
+            {
+                "key": 15,
+                "start": "Jaca",
+                "end": "Irache",
+                "distance": "160"
+            },
+            {
+                "key": 16,
+                "start": "Irache",
+                "end": "Urkiola",
+                "distance": "150"
+            },
+            {
+                "key": 17,
+                "start": "Durango",
+                "end": "Bilbao",
+                "distance": "123"
+            },
+            {
+                "key": 18,
+                "start": "Bilbao",
+                "end": "Miranda de Ebro",
+                "distance": "186"
+            },
+            {
+                "key": 19,
+                "start": "Miranda de Ebro",
+                "end": "Beasain",
+                "distance": "110"
+            }
+        ],
+        "1980": [
+            {
+                "key": 1,
+                "start": "La Manga",
+                "end": " La Manga",
+                "distance": "10"
+            },
+            {
+                "key": 2,
+                "start": "La Manga",
+                "end": "Benidorm",
+                "distance": "155"
+            },
+            {
+                "key": 3,
+                "start": "Benidorm",
+                "end": "Cullera",
+                "distance": "170"
+            },
+            {
+                "key": 4,
+                "start": "Cullera",
+                "end": "Vinar\u00f2s",
+                "distance": "207"
+            },
+            {
+                "key": 5,
+                "start": "Vinar\u00f2s",
+                "end": "Sant Quirze del Vall\u00e8s",
+                "distance": "214"
+            },
+            {
+                "key": 6,
+                "start": "Sant Quirze del Vall\u00e8s",
+                "end": "La Seu d'Urgell",
+                "distance": "200"
+            },
+            {
+                "key": 7,
+                "start": "La Seu d'Urgell",
+                "end": "Viella",
+                "distance": "131"
+            },
+            {
+                "key": 8,
+                "start": "Viella",
+                "end": "Jaca",
+                "distance": "216"
+            },
+            {
+                "key": 9,
+                "start": "Monastery of Leyre",
+                "end": "Logro\u00f1o",
+                "distance": "160"
+            },
+            {
+                "key": 10,
+                "start": "Logro\u00f1o",
+                "end": "Burgos",
+                "distance": "138"
+            },
+            {
+                "key": 11,
+                "start": "Burgos",
+                "end": "Santander",
+                "distance": "178"
+            },
+            {
+                "key": 12,
+                "start": "Santander",
+                "end": "Gij\u00f3n",
+                "distance": "219"
+            },
+            {
+                "key": 13,
+                "start": "Santiago de Compostela",
+                "end": "Pontevedra",
+                "distance": "133"
+            },
+            {
+                "key": 14,
+                "start": "Pontevedra",
+                "end": "Vigo",
+                "distance": "195"
+            },
+            {
+                "key": 15,
+                "start": "Vigo",
+                "end": "Ourense",
+                "distance": "156"
+            },
+            {
+                "key": 16,
+                "start": "Ourense",
+                "end": "Ponferrada",
+                "distance": "164"
+            },
+            {
+                "key": 17,
+                "start": "Ponferrada",
+                "end": "Le\u00f3n",
+                "distance": "131"
+            },
+            {
+                "key": 18,
+                "start": "Le\u00f3n",
+                "end": "Valladolid",
+                "distance": "138"
+            },
+            {
+                "key": 19,
+                "start": "Valladolid",
+                "end": "Los \u00c1ngeles de San Rafael",
+                "distance": "197"
+            },
+            {
+                "key": 20,
+                "start": "Madrid",
+                "end": " Madrid",
+                "distance": "84"
+            }
+        ],
+        "1985": [
+            {
+                "key": 1,
+                "start": "Valladolid",
+                "end": " Valladolid",
+                "distance": "5"
+            },
+            {
+                "key": 2,
+                "start": "Valladolid",
+                "end": "Zamora",
+                "distance": "177"
+            },
+            {
+                "key": 3,
+                "start": "Zamora",
+                "end": "Orense",
+                "distance": "262"
+            },
+            {
+                "key": 4,
+                "start": "Ourense",
+                "end": "Santiago de Compostela",
+                "distance": "197"
+            },
+            {
+                "key": 5,
+                "start": "Santiago de Compostela",
+                "end": "Lugo",
+                "distance": "162"
+            },
+            {
+                "key": 6,
+                "start": "Lugo",
+                "end": "Oviedo",
+                "distance": "238"
+            },
+            {
+                "key": 7,
+                "start": "Oviedo",
+                "end": "Lakes of Covadonga",
+                "distance": "145"
+            },
+            {
+                "key": 8,
+                "start": "Cangas de On\u00eds",
+                "end": "Alto Campoo",
+                "distance": "190"
+            },
+            {
+                "key": 9,
+                "start": "Aguilar de Campoo",
+                "end": "Logro\u00f1o",
+                "distance": "224"
+            },
+            {
+                "key": 10,
+                "start": "Logro\u00f1o",
+                "end": "Balneario de Panticosa",
+                "distance": "253"
+            },
+            {
+                "key": 11,
+                "start": "Sabi\u00f1\u00e1nigo",
+                "end": "Tremp",
+                "distance": "209"
+            },
+            {
+                "key": 12,
+                "start": "Tremp",
+                "end": "Andorra",
+                "distance": "124"
+            },
+            {
+                "key": 13,
+                "start": "Andorra",
+                "end": "Pal(Andorra)",
+                "distance": "16"
+            },
+            {
+                "key": 14,
+                "start": "Andorra",
+                "end": "Sant Quirze del Vall\u00e8s",
+                "distance": "193"
+            },
+            {
+                "key": 15,
+                "start": "Valencia",
+                "end": "Benidorm",
+                "distance": "201"
+            },
+            {
+                "key": 16,
+                "start": "Benidorm",
+                "end": "Albacete",
+                "distance": "208"
+            },
+            {
+                "key": 17,
+                "start": "Albacete",
+                "end": "Alcal\u00e1 de Henares",
+                "distance": "252"
+            },
+            {
+                "key": 18,
+                "start": "Alcal\u00e1 de Henares",
+                "end": " Alcal\u00e1 de Henares",
+                "distance": "43"
+            },
+            {
+                "key": 19,
+                "start": "Alcal\u00e1 de Henares",
+                "end": "Palazuelos de Eresma(Destiler\u00edas DYC)",
+                "distance": "200"
+            },
+            {
+                "key": 20,
+                "start": "Palazuelos de Eresma(Destiler\u00edas DYC) ",
+                "end": "Salamanca",
+                "distance": "175"
+            }
+        ],
+        "1990": [
+            {
+                "key": 1,
+                "start": "Benic\u00e0ssim",
+                "end": " Benic\u00e0ssim",
+                "distance": "10"
+            },
+            {
+                "key": 2,
+                "start": "Oropesa",
+                "end": "Castell\u00f3n",
+                "distance": "108"
+            },
+            {
+                "key": 3,
+                "start": "D\u00e9nia",
+                "end": "Murcia",
+                "distance": "196"
+            },
+            {
+                "key": 4,
+                "start": "Murcia",
+                "end": "Almer\u00eda",
+                "distance": "226"
+            },
+            {
+                "key": 5,
+                "start": "Almer\u00eda",
+                "end": "Sierra Nevada",
+                "distance": "198"
+            },
+            {
+                "key": 6,
+                "start": "Loja",
+                "end": "Ubrique",
+                "distance": "195"
+            },
+            {
+                "key": 7,
+                "start": "Jerez",
+                "end": "Seville",
+                "distance": "190"
+            },
+            {
+                "key": 8,
+                "start": "Seville",
+                "end": "M\u00e9rida",
+                "distance": "187"
+            },
+            {
+                "key": 9,
+                "start": "C\u00e1ceres",
+                "end": "Guijuelo",
+                "distance": "192"
+            },
+            {
+                "key": 10,
+                "start": "Pe\u00f1aranda de Bracamonte",
+                "end": "Le\u00f3n",
+                "distance": "226"
+            },
+            {
+                "key": 11,
+                "start": "Le\u00f3n",
+                "end": "San Isidro[es]",
+                "distance": "203"
+            },
+            {
+                "key": 12,
+                "start": "San Isidro[es]",
+                "end": "Naranco",
+                "distance": "156"
+            },
+            {
+                "key": 13,
+                "start": "Oviedo",
+                "end": "Santander",
+                "distance": "193"
+            },
+            {
+                "key": 14,
+                "start": "Santander",
+                "end": "N\u00e1jera",
+                "distance": "207"
+            },
+            {
+                "key": 15,
+                "start": "Ezcaray",
+                "end": "Valdezcaray",
+                "distance": "24"
+            },
+            {
+                "key": 16,
+                "start": "Logro\u00f1o",
+                "end": "Pamplona",
+                "distance": "165"
+            },
+            {
+                "key": 17,
+                "start": "Pamplona",
+                "end": "Jaca",
+                "distance": "155"
+            },
+            {
+                "key": 18,
+                "start": "Jaca",
+                "end": "Cerler",
+                "distance": "178"
+            },
+            {
+                "key": 19,
+                "start": "Benasque",
+                "end": "Zaragoza",
+                "distance": "223"
+            },
+            {
+                "key": 20,
+                "start": "Zaragoza",
+                "end": " Zaragoza",
+                "distance": "40"
+            },
+            {
+                "key": 21,
+                "start": "Collado Villalba",
+                "end": "Palazuelos de Eresma",
+                "distance": "188"
+            },
+            {
+                "key": 22,
+                "start": "Segovia",
+                "end": "Madrid",
+                "distance": "177"
+            }
+        ],
+        "1995": [
+            {
+                "key": 1,
+                "start": "Zaragoza",
+                "end": "Logro\u00f1o",
+                "distance": "186"
+            },
+            {
+                "key": 2,
+                "start": "San Asensio",
+                "end": "Santander",
+                "distance": "223"
+            },
+            {
+                "key": 3,
+                "start": "Santander",
+                "end": "Alto del Naranco",
+                "distance": "206"
+            },
+            {
+                "key": 4,
+                "start": "Tapia de Casariego",
+                "end": "A Coru\u00f1a",
+                "distance": "82"
+            },
+            {
+                "key": 5,
+                "start": "A Coru\u00f1a",
+                "end": "Ourense",
+                "distance": "179"
+            },
+            {
+                "key": 6,
+                "start": "Ourense",
+                "end": "Zamora",
+                "distance": "264"
+            },
+            {
+                "key": 7,
+                "start": "\u00c1vila",
+                "end": "Palazuelos de Eresma",
+                "distance": "122"
+            },
+            {
+                "key": 8,
+                "start": "C\u00f3rdoba",
+                "end": "Seville",
+                "distance": "208"
+            },
+            {
+                "key": 9,
+                "start": "Seville",
+                "end": "Marbella",
+                "distance": "162"
+            },
+            {
+                "key": 10,
+                "start": "Marbella",
+                "end": "Sierra Nevada",
+                "distance": "238"
+            },
+            {
+                "key": 11,
+                "start": "Olula del R\u00edo",
+                "end": "Murcia",
+                "distance": "181"
+            },
+            {
+                "key": 12,
+                "start": "Elche",
+                "end": "Valencia",
+                "distance": "207"
+            },
+            {
+                "key": 13,
+                "start": "Barcelona",
+                "end": "Estadi Ol\u00edmpic Llu\u00eds Companys",
+                "distance": "154"
+            },
+            {
+                "key": 14,
+                "start": "T\u00e0rrega",
+                "end": "Pla de Beret",
+                "distance": "197"
+            },
+            {
+                "key": 15,
+                "start": "Salardu (Naut Aran)",
+                "end": "Luz Ardiden(France)",
+                "distance": "179"
+            },
+            {
+                "key": 16,
+                "start": "Luz-Saint-Sauveur(France) ",
+                "end": "Sabi\u00f1\u00e1nigo",
+                "distance": "157"
+            },
+            {
+                "key": 17,
+                "start": "Sabi\u00f1\u00e1nigo",
+                "end": "Calatayud",
+                "distance": "227"
+            },
+            {
+                "key": 18,
+                "start": "Alcal\u00e1 de Henares",
+                "end": "Madrid",
+                "distance": "147"
+            }
+        ],
+        "2000": [
+            {
+                "key": 1,
+                "start": "M\u00e1laga",
+                "end": " M\u00e1laga",
+                "distance": "13"
+            },
+            {
+                "key": 2,
+                "start": "M\u00e1laga",
+                "end": "C\u00f3rdoba",
+                "distance": "167"
+            },
+            {
+                "key": 3,
+                "start": "Montoro",
+                "end": "Valdepe\u00f1as",
+                "distance": "198"
+            },
+            {
+                "key": 4,
+                "start": "Valdepe\u00f1as",
+                "end": "Albacete",
+                "distance": "159"
+            },
+            {
+                "key": 5,
+                "start": "Albacete",
+                "end": "Xorret de Cat\u00ed",
+                "distance": "152"
+            },
+            {
+                "key": 6,
+                "start": "Benidorm",
+                "end": "Valencia",
+                "distance": "155"
+            },
+            {
+                "key": 7,
+                "start": "Valencia",
+                "end": "Morella",
+                "distance": "175"
+            },
+            {
+                "key": 8,
+                "start": "Vinar\u00f2s",
+                "end": "Port Aventura",
+                "distance": "168"
+            },
+            {
+                "key": 9,
+                "start": "Tarragona",
+                "end": " Tarragona",
+                "distance": "37"
+            },
+            {
+                "key": 10,
+                "start": "Sabadell",
+                "end": "Supermolina",
+                "distance": "165"
+            },
+            {
+                "key": 11,
+                "start": "Alp",
+                "end": "Arcalis(Andorra)",
+                "distance": "136"
+            },
+            {
+                "key": 12,
+                "start": "Zaragoza",
+                "end": " Zaragoza",
+                "distance": "131"
+            },
+            {
+                "key": 13,
+                "start": "Santander",
+                "end": " Santander",
+                "distance": "143"
+            },
+            {
+                "key": 14,
+                "start": "Santander",
+                "end": "Lakes of Covadonga",
+                "distance": "146"
+            },
+            {
+                "key": 15,
+                "start": "Cangas de On\u00eds",
+                "end": "Gij\u00f3n",
+                "distance": "164"
+            },
+            {
+                "key": 16,
+                "start": "Oviedo",
+                "end": "Alto de l'Angliru",
+                "distance": "168"
+            },
+            {
+                "key": 17,
+                "start": "Benavente",
+                "end": "Salamanca",
+                "distance": "155"
+            },
+            {
+                "key": 18,
+                "start": "B\u00e9jar",
+                "end": "Ciudad Rodrigo",
+                "distance": "159"
+            },
+            {
+                "key": 19,
+                "start": "\u00c1vila",
+                "end": "Alto de Abantos[es]",
+                "distance": "128"
+            },
+            {
+                "key": 20,
+                "start": "Madrid",
+                "end": " Madrid",
+                "distance": "38"
+            }
+        ],
+        "2005": [
+            {
+                "key": 1,
+                "start": "Granada",
+                "end": " Granada",
+                "distance": "7"
+            },
+            {
+                "key": 2,
+                "start": "Granada",
+                "end": "C\u00f3rdoba",
+                "distance": "189"
+            },
+            {
+                "key": 3,
+                "start": "C\u00f3rdoba",
+                "end": "Puertollano",
+                "distance": "153"
+            },
+            {
+                "key": 4,
+                "start": "Ciudad Real",
+                "end": "Argamasilla de Alba",
+                "distance": "232"
+            },
+            {
+                "key": 5,
+                "start": "Alc\u00e1zar de San Juan",
+                "end": "Cuenca",
+                "distance": "176"
+            },
+            {
+                "key": 6,
+                "start": "Cuenca",
+                "end": "Valdelinares",
+                "distance": "217"
+            },
+            {
+                "key": 7,
+                "start": "Teruel",
+                "end": "Vinar\u00f2s",
+                "distance": "212"
+            },
+            {
+                "key": 8,
+                "start": "Tarragona",
+                "end": "Lloret de Mar",
+                "distance": "189"
+            },
+            {
+                "key": 9,
+                "start": "Lloret de Mar",
+                "end": " Lloret de Mar",
+                "distance": "48"
+            },
+            {
+                "key": 10,
+                "start": "La Vall d'en Bas",
+                "end": "Ordino-Arcalis(Andorra)",
+                "distance": "206"
+            },
+            {
+                "key": 11,
+                "start": "Andorra",
+                "end": "Cerler",
+                "distance": "186"
+            },
+            {
+                "key": 12,
+                "start": "Logro\u00f1o",
+                "end": "Burgos",
+                "distance": "133"
+            },
+            {
+                "key": 13,
+                "start": "Burgos",
+                "end": "La Bien Aparecida[es]",
+                "distance": "196"
+            },
+            {
+                "key": 14,
+                "start": "La Penilla[es]",
+                "end": "Lakes of Covadonga",
+                "distance": "172"
+            },
+            {
+                "key": 15,
+                "start": "Cangas de On\u00eds",
+                "end": "Valgrande-Pajares[es]",
+                "distance": "191"
+            },
+            {
+                "key": 16,
+                "start": "Le\u00f3n",
+                "end": "Valladolid",
+                "distance": "162"
+            },
+            {
+                "key": 17,
+                "start": "El Espinar",
+                "end": "La Granja de San Ildefonso",
+                "distance": "165"
+            },
+            {
+                "key": 18,
+                "start": "\u00c1vila",
+                "end": " \u00c1vila",
+                "distance": "197"
+            },
+            {
+                "key": 19,
+                "start": "San Mart\u00edn de Valdeiglesias",
+                "end": "Alcobendas",
+                "distance": "142"
+            },
+            {
+                "key": 20,
+                "start": "Guadalajara",
+                "end": "Alcal\u00e1 de Henares",
+                "distance": "38"
+            },
+            {
+                "key": 21,
+                "start": "Madrid",
+                "end": " Madrid",
+                "distance": "136"
+            }
+        ],
+        "2010": [
+            {
+                "key": 1,
+                "start": "Alcal\u00e1 de Guada\u00edra",
+                "end": "Marbella",
+                "distance": "173"
+            },
+            {
+                "key": 2,
+                "start": "Marbella ",
+                "end": "M\u00e1laga",
+                "distance": "156"
+            },
+            {
+                "key": 3,
+                "start": "M\u00e1laga ",
+                "end": "Valdepe\u00f1as de Ja\u00e9n",
+                "distance": "177"
+            },
+            {
+                "key": 4,
+                "start": "Guadix",
+                "end": "Lorca",
+                "distance": "194"
+            },
+            {
+                "key": 5,
+                "start": "Caravaca de la Cruz",
+                "end": "Murcia",
+                "distance": "144"
+            },
+            {
+                "key": 6,
+                "start": "Murcia ",
+                "end": "Orihuela",
+                "distance": "170"
+            },
+            {
+                "key": 7,
+                "start": "Villena",
+                "end": "Xorret de Cat\u00ed",
+                "distance": "188"
+            },
+            {
+                "key": 8,
+                "start": "Calp",
+                "end": "Alcoi",
+                "distance": "187"
+            },
+            {
+                "key": 9,
+                "start": "Tarragona",
+                "end": "Vilanova i la Geltr\u00fa",
+                "distance": "173"
+            },
+            {
+                "key": 10,
+                "start": "Vilanova i la Geltr\u00fa ",
+                "end": "Vallnord Sector Pal(Andorra)",
+                "distance": "208"
+            },
+            {
+                "key": 11,
+                "start": "Andorra la Vella(Andorra) ",
+                "end": "Lleida",
+                "distance": "175"
+            },
+            {
+                "key": 12,
+                "start": "Rinc\u00f3n de Soto",
+                "end": "Burgos",
+                "distance": "193"
+            },
+            {
+                "key": 13,
+                "start": "Burgos ",
+                "end": "Pe\u00f1a Cabarga",
+                "distance": "178"
+            },
+            {
+                "key": 14,
+                "start": "Solares",
+                "end": "Lagos de Covadonga",
+                "distance": "170"
+            },
+            {
+                "key": 15,
+                "start": "Gij\u00f3n",
+                "end": "Alto de Cotobello",
+                "distance": "179"
+            },
+            {
+                "key": 16,
+                "start": "Valladolid",
+                "end": "Salamanca",
+                "distance": "153"
+            },
+            {
+                "key": 17,
+                "start": "Piedrahita",
+                "end": "Toledo",
+                "distance": "200"
+            },
+            {
+                "key": 18,
+                "start": "San Mart\u00edn de Valdeiglesias",
+                "end": "Bola del Mundo",
+                "distance": "168"
+            },
+            {
+                "key": 19,
+                "start": "San Sebasti\u00e1n de los Reyes",
+                "end": "Madrid",
+                "distance": "85"
+            }
+        ],
+        "2015": [
+            {
+                "key": 1,
+                "start": "Puer",
+                "end": " Ban\u00fastoMarbella",
+                "distance": "7"
+            },
+            {
+                "key": 2,
+                "start": "Alhaur\u00edn de la Torre",
+                "end": "Caminito del Rey",
+                "distance": "158"
+            },
+            {
+                "key": 3,
+                "start": "Mijas",
+                "end": "M\u00e1laga",
+                "distance": "158"
+            },
+            {
+                "key": 4,
+                "start": "Estepona",
+                "end": "Vejer de la Frontera",
+                "distance": "209"
+            },
+            {
+                "key": 5,
+                "start": "Rota",
+                "end": "Alcal\u00e1 de Guada\u00edra",
+                "distance": "167"
+            },
+            {
+                "key": 6,
+                "start": "C\u00f3rdoba",
+                "end": "Sierra de Cazorla",
+                "distance": "200"
+            },
+            {
+                "key": 7,
+                "start": "J\u00f3dar",
+                "end": "La Alpujarra",
+                "distance": "191"
+            },
+            {
+                "key": 8,
+                "start": "Puebla de Don Fadrique",
+                "end": "Murcia",
+                "distance": "182"
+            },
+            {
+                "key": 9,
+                "start": "Torrevieja",
+                "end": " Cumbre del Sol,Benitachell",
+                "distance": "168"
+            },
+            {
+                "key": 10,
+                "start": "Valencia",
+                "end": "Castell\u00f3n de la Plana",
+                "distance": "146"
+            },
+            {
+                "key": 11,
+                "start": "Andorra la Vella",
+                "end": "Cortals d'Encamp",
+                "distance": "138"
+            },
+            {
+                "key": 12,
+                "start": "Escaldes-Engordany,Andorra",
+                "end": "Lleida",
+                "distance": "173"
+            },
+            {
+                "key": 13,
+                "start": "Calatayud",
+                "end": "Tarazona",
+                "distance": "178"
+            },
+            {
+                "key": 14,
+                "start": "Vitoria-Gasteiz",
+                "end": "Alto Campoo,Fuente del Chivo",
+                "distance": "215"
+            },
+            {
+                "key": 15,
+                "start": "Comillas",
+                "end": "Sotres,Cabrales",
+                "distance": "175"
+            },
+            {
+                "key": 16,
+                "start": "Luarca",
+                "end": " Ermita del Alba,Quir\u00f3s",
+                "distance": "185"
+            },
+            {
+                "key": 17,
+                "start": "Roa de Duero",
+                "end": "Riaza",
+                "distance": "204"
+            },
+            {
+                "key": 18,
+                "start": "San Lorenzo de El Escorial",
+                "end": "Cercedilla",
+                "distance": "175"
+            },
+            {
+                "key": 19,
+                "start": "Alcal\u00e1 de Henares",
+                "end": "Madrid",
+                "distance": "98"
+            }
+        ],
+        "2020": [
+            {
+                "key": 1,
+                "start": "Irun",
+                "end": "Arrate",
+                "distance": "173"
+            },
+            {
+                "key": 2,
+                "start": "Pamplona",
+                "end": "Lekunberri",
+                "distance": "151"
+            },
+            {
+                "key": 3,
+                "start": "Lodosa",
+                "end": "Laguna Negra de Urbi\u00f3n(Vinuesa)",
+                "distance": "166"
+            },
+            {
+                "key": 4,
+                "start": "Garray",
+                "end": "Ejea de los Caballeros",
+                "distance": "191"
+            },
+            {
+                "key": 5,
+                "start": "Huesca",
+                "end": "Sabi\u00f1\u00e1nigo",
+                "distance": "184"
+            },
+            {
+                "key": 6,
+                "start": "Biescas",
+                "end": "Aram\u00f3n Formigal",
+                "distance": "146"
+            },
+            {
+                "key": 7,
+                "start": "Vitoria-Gasteiz",
+                "end": "Villanueva de Valdegovia",
+                "distance": "159"
+            },
+            {
+                "key": 8,
+                "start": "Logro\u00f1o",
+                "end": "Alto de Moncalvillo",
+                "distance": "164"
+            },
+            {
+                "key": 9,
+                "start": "Castrillo del Val",
+                "end": "Aguilar de Campoo",
+                "distance": "157"
+            },
+            {
+                "key": 10,
+                "start": "Castro Urdiales",
+                "end": "Suances",
+                "distance": "185"
+            },
+            {
+                "key": 11,
+                "start": "Villaviciosa",
+                "end": "Alto de la Farrapona",
+                "distance": "170"
+            },
+            {
+                "key": 12,
+                "start": "La Pola Llaviana",
+                "end": "Alto de L'Angliru",
+                "distance": "109"
+            },
+            {
+                "key": 13,
+                "start": "Muros",
+                "end": "Mirador de \u00c9zaro",
+                "distance": "33"
+            },
+            {
+                "key": 14,
+                "start": "Lugo",
+                "end": "Ourense",
+                "distance": "204"
+            },
+            {
+                "key": 15,
+                "start": "Mos",
+                "end": "Puebla de Sanabria",
+                "distance": "230"
+            },
+            {
+                "key": 16,
+                "start": "Salamanca",
+                "end": "Ciudad Rodrigo",
+                "distance": "162"
+            },
+            {
+                "key": 17,
+                "start": "Sequeros",
+                "end": "Alto de la Covatilla",
+                "distance": "178"
+            },
+            {
+                "key": 18,
+                "start": "Hip\u00f3dromo de la Zarzuela",
+                "end": "Madrid",
+                "distance": "124"
+            }
         ]
     }
 }
