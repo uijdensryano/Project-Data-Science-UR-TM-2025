@@ -1,13 +1,5 @@
 {
     "giro_ditalia": {
-        "dummy": [
-            {
-                "key": 1,
-                "start": "Milan",
-                "end": "Bologna",
-                "distance": "397"
-            }
-        ],
         "1909": [
             {
                 "key": 1,
