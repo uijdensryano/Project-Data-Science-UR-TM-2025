@@ -1,14 +1,1375 @@
 {
     "yellow": [
-        "dummy"
+        "dummy",
+        [
+            {
+                "name": "Eddy Merckx",
+                "jerseys": "5"
+            },
+            {
+                "name": "Bernard Hinault",
+                "jerseys": "5"
+            },
+            {
+                "name": "Miguel Indur\u00e1in",
+                "jerseys": "5"
+            },
+            {
+                "name": "Chris Froome",
+                "jerseys": "4"
+            },
+            {
+                "name": "Tadej Poga\u010dar",
+                "jerseys": "4"
+            },
+            {
+                "name": "Jacques Anquetil",
+                "jerseys": "5"
+            },
+            {
+                "name": "Antonin Magne",
+                "jerseys": "2"
+            },
+            {
+                "name": "Nicolas Frantz[n 2]",
+                "jerseys": "2"
+            },
+            {
+                "name": "Philippe Thys[n 3]",
+                "jerseys": "3"
+            },
+            {
+                "name": "Andr\u00e9 Leducq[n 2]",
+                "jerseys": "2"
+            },
+            {
+                "name": "Louison Bobet",
+                "jerseys": "3"
+            },
+            {
+                "name": "Ottavio Bottecchia",
+                "jerseys": "2"
+            },
+            {
+                "name": "Fabian Cancellara",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jonas Vingegaard",
+                "jerseys": "2"
+            },
+            {
+                "name": "Sylv\u00e8re Maes",
+                "jerseys": "2"
+            },
+            {
+                "name": "Ren\u00e9 Vietto",
+                "jerseys": "0"
+            },
+            {
+                "name": "Fran\u00e7ois Faber",
+                "jerseys": "1"
+            },
+            {
+                "name": "Laurent Fignon",
+                "jerseys": "2"
+            },
+            {
+                "name": "Greg LeMond",
+                "jerseys": "3"
+            },
+            {
+                "name": "Joop Zoetemelk",
+                "jerseys": "1"
+            },
+            {
+                "name": "Romain Maes",
+                "jerseys": "1"
+            },
+            {
+                "name": "Gino Bartali",
+                "jerseys": "2"
+            },
+            {
+                "name": "Thomas Voeckler",
+                "jerseys": "0"
+            },
+            {
+                "name": "Fausto Coppi",
+                "jerseys": "2"
+            },
+            {
+                "name": "Andr\u00e9 Darrigade",
+                "jerseys": "0"
+            },
+            {
+                "name": "Vincenzo Nibali",
+                "jerseys": "1"
+            },
+            {
+                "name": "Julian Alaphilippe",
+                "jerseys": "0"
+            },
+            {
+                "name": "Felice Gimondi",
+                "jerseys": "1"
+            },
+            {
+                "name": "Jan Ullrich",
+                "jerseys": "1"
+            },
+            {
+                "name": "Rudi Altig",
+                "jerseys": "0"
+            },
+            {
+                "name": "Luis Oca\u00f1a",
+                "jerseys": "1"
+            },
+            {
+                "name": "Lucien Petit-Breton",
+                "jerseys": "2"
+            },
+            {
+                "name": "Roger Pingeon",
+                "jerseys": "1"
+            },
+            {
+                "name": "Odile Defraye",
+                "jerseys": "1"
+            },
+            {
+                "name": "Maurice De Waele",
+                "jerseys": "1"
+            },
+            {
+                "name": "Bernard Th\u00e9venet",
+                "jerseys": "2"
+            },
+            {
+                "name": "Pedro Delgado[n 4]",
+                "jerseys": "1"
+            },
+            {
+                "name": "Geraint Thomas",
+                "jerseys": "1"
+            },
+            {
+                "name": "Dietrich Thurau",
+                "jerseys": "0"
+            },
+            {
+                "name": "Maurice Archambaud",
+                "jerseys": "0"
+            },
+            {
+                "name": "Steve Bauer",
+                "jerseys": "0"
+            },
+            {
+                "name": "Gastone Nencini",
+                "jerseys": "1"
+            },
+            {
+                "name": "Bjarne Riis",
+                "jerseys": "1"
+            },
+            {
+                "name": "L\u00e9on Scieur",
+                "jerseys": "1"
+            },
+            {
+                "name": "Bradley Wiggins",
+                "jerseys": "1"
+            },
+            {
+                "name": "Eug\u00e8ne Christophe",
+                "jerseys": "0"
+            },
+            {
+                "name": "Gustave Garrigou",
+                "jerseys": "1"
+            },
+            {
+                "name": "Ren\u00e9 Pottier",
+                "jerseys": "1"
+            },
+            {
+                "name": "Andy Schleck[n 5]",
+                "jerseys": "1"
+            },
+            {
+                "name": "Georges Speicher",
+                "jerseys": "1"
+            },
+            {
+                "name": "Vincent Barteau",
+                "jerseys": "0"
+            },
+            {
+                "name": "Joseph Bruy\u00e8re",
+                "jerseys": "0"
+            },
+            {
+                "name": "Ferdinand K\u00fcbler",
+                "jerseys": "1"
+            },
+            {
+                "name": "Antonin Rolland",
+                "jerseys": "0"
+            },
+            {
+                "name": "Louis Trousselier",
+                "jerseys": "1"
+            },
+            {
+                "name": "Lucien Van Impe",
+                "jerseys": "1"
+            },
+            {
+                "name": "Wout Wagtmans",
+                "jerseys": "0"
+            },
+            {
+                "name": "Alberto Contador",
+                "jerseys": "2"
+            },
+            {
+                "name": "Gilbert Desmet",
+                "jerseys": "0"
+            },
+            {
+                "name": "Hugo Koblet",
+                "jerseys": "1"
+            },
+            {
+                "name": "Primo\u017e Rogli\u010d",
+                "jerseys": "0"
+            },
+            {
+                "name": "Greg Van Avermaet",
+                "jerseys": "0"
+            },
+            {
+                "name": "Georges Vandenberghe",
+                "jerseys": "0"
+            },
+            {
+                "name": "Kim Andersen",
+                "jerseys": "0"
+            },
+            {
+                "name": "Thor Hushovd",
+                "jerseys": "0"
+            },
+            {
+                "name": "Pascal Lino",
+                "jerseys": "0"
+            },
+            {
+                "name": "Mathieu van der Poel",
+                "jerseys": "0"
+            },
+            {
+                "name": "Phil Anderson",
+                "jerseys": "0"
+            },
+            {
+                "name": "Georges Groussard",
+                "jerseys": "0"
+            },
+            {
+                "name": "Freddy Maertens",
+                "jerseys": "0"
+            },
+            {
+                "name": "Fiorenzo Magni",
+                "jerseys": "0"
+            },
+            {
+                "name": "Stuart O'Grady",
+                "jerseys": "0"
+            },
+            {
+                "name": "Henri P\u00e9lissier",
+                "jerseys": "1"
+            },
+            {
+                "name": "Michael Rasmussen",
+                "jerseys": "0"
+            },
+            {
+                "name": "Lucien Buysse",
+                "jerseys": "1"
+            },
+            {
+                "name": "Claudio Chiappucci",
+                "jerseys": "0"
+            },
+            {
+                "name": "Cadel Evans",
+                "jerseys": "1"
+            },
+            {
+                "name": "Emile Georget",
+                "jerseys": "0"
+            },
+            {
+                "name": "Gerrie Knetemann",
+                "jerseys": "0"
+            },
+            {
+                "name": "Rinaldo Nocentini",
+                "jerseys": "0"
+            },
+            {
+                "name": "\u00d3scar Pereiro[n 6]",
+                "jerseys": "1"
+            },
+            {
+                "name": "Rudy Pevenage",
+                "jerseys": "0"
+            },
+            {
+                "name": "Roger Walkowiak",
+                "jerseys": "1"
+            },
+            {
+                "name": "Adam Yates",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jan Adriaensens",
+                "jerseys": "0"
+            },
+            {
+                "name": "Federico Bahamontes",
+                "jerseys": "1"
+            },
+            {
+                "name": "Bernard Gauthier",
+                "jerseys": "0"
+            },
+            {
+                "name": "Igor Gonz\u00e1lez de Galdeano",
+                "jerseys": "0"
+            },
+            {
+                "name": "Learco Guerra",
+                "jerseys": "0"
+            },
+            {
+                "name": "Erich Maechler",
+                "jerseys": "0"
+            },
+            {
+                "name": "Thierry Marie",
+                "jerseys": "0"
+            },
+            {
+                "name": "Charly Mottet",
+                "jerseys": "0"
+            },
+            {
+                "name": "Marco Pantani",
+                "jerseys": "1"
+            },
+            {
+                "name": "Jef Planckaert",
+                "jerseys": "0"
+            },
+            {
+                "name": "Pascal Simon",
+                "jerseys": "0"
+            },
+            {
+                "name": "Gustaaf van Slembrouck",
+                "jerseys": "0"
+            },
+            {
+                "name": "Lucien Aimar",
+                "jerseys": "1"
+            },
+            {
+                "name": "Chris Boardman",
+                "jerseys": "0"
+            },
+            {
+                "name": "Robert Cazala",
+                "jerseys": "0"
+            },
+            {
+                "name": "Mario Cipollini",
+                "jerseys": "0"
+            },
+            {
+                "name": "Vito Favero",
+                "jerseys": "0"
+            },
+            {
+                "name": "Maurice Garin",
+                "jerseys": "1"
+            },
+            {
+                "name": "Cyrille Guimard",
+                "jerseys": "0"
+            },
+            {
+                "name": "Kim Kirchen",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jaan Kirsipuu",
+                "jerseys": "0"
+            },
+            {
+                "name": "Roger L\u00e9v\u00eaque",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jean Majerus",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jacques Marinelli",
+                "jerseys": "0"
+            },
+            {
+                "name": "Francesco Moser",
+                "jerseys": "0"
+            },
+            {
+                "name": "Fritz Sch\u00e4r",
+                "jerseys": "0"
+            },
+            {
+                "name": "Herman Van Springel",
+                "jerseys": "0"
+            },
+            {
+                "name": "F\u00e9licien Vervaecke",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jean Alavoine",
+                "jerseys": "0"
+            },
+            {
+                "name": "Adelin Benoit",
+                "jerseys": "0"
+            },
+            {
+                "name": "Firmin Lambot",
+                "jerseys": "2"
+            },
+            {
+                "name": "Jean Mall\u00e9jac",
+                "jerseys": "0"
+            },
+            {
+                "name": "Johan Museeuw",
+                "jerseys": "0"
+            },
+            {
+                "name": "J\u00f8rgen V. Pedersen",
+                "jerseys": "0"
+            },
+            {
+                "name": "Francis P\u00e9lissier",
+                "jerseys": "0"
+            },
+            {
+                "name": "Carlos Sastre",
+                "jerseys": "1"
+            },
+            {
+                "name": "Bernard Van de Kerkhove",
+                "jerseys": "0"
+            },
+            {
+                "name": "Eric Vanderaerden",
+                "jerseys": "0"
+            },
+            {
+                "name": "C\u00e9dric Vasseur",
+                "jerseys": "0"
+            },
+            {
+                "name": "Gilbert Bauvin",
+                "jerseys": "0"
+            },
+            {
+                "name": "Tom Boonen",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jos\u00e9 Catieau",
+                "jerseys": "0"
+            },
+            {
+                "name": "Alberto Elli",
+                "jerseys": "0"
+            },
+            {
+                "name": "Rapha\u00ebl G\u00e9miniani",
+                "jerseys": "0"
+            },
+            {
+                "name": "Roger Hassenforder",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jos Hoevenaers",
+                "jerseys": "0"
+            },
+            {
+                "name": "Robert Jacquinot",
+                "jerseys": "0"
+            },
+            {
+                "name": "Laurent Jalabert",
+                "jerseys": "0"
+            },
+            {
+                "name": "Karl-Heinz Kunde",
+                "jerseys": "0"
+            },
+            {
+                "name": "Roger Lap\u00e9bie",
+                "jerseys": "1"
+            },
+            {
+                "name": "Nello Lauredi",
+                "jerseys": "0"
+            },
+            {
+                "name": "Hector Martin",
+                "jerseys": "0"
+            },
+            {
+                "name": "Raffaele di Paco[n 7]",
+                "jerseys": "0"
+            },
+            {
+                "name": "Eddy Pauwels",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jean Rossius[n 3]",
+                "jerseys": "0"
+            },
+            {
+                "name": "Peter Sagan",
+                "jerseys": "0"
+            },
+            {
+                "name": "Ac\u00e1cio da Silva",
+                "jerseys": "0"
+            },
+            {
+                "name": "Rolf S\u00f8rensen",
+                "jerseys": "0"
+            },
+            {
+                "name": "Wout van Aert",
+                "jerseys": "0"
+            },
+            {
+                "name": "Wim van Est",
+                "jerseys": "0"
+            },
+            {
+                "name": "Gerrit Voorting",
+                "jerseys": "0"
+            },
+            {
+                "name": "Italo Zilioli",
+                "jerseys": "0"
+            },
+            {
+                "name": "Alex Z\u00fclle",
+                "jerseys": "0"
+            },
+            {
+                "name": "Erich Bautz",
+                "jerseys": "0"
+            },
+            {
+                "name": "Egan Bernal",
+                "jerseys": "1"
+            },
+            {
+                "name": "Henri Cornet",
+                "jerseys": "1"
+            },
+            {
+                "name": "Bim Diederich",
+                "jerseys": "0"
+            },
+            {
+                "name": "Aim\u00e9 Dossche",
+                "jerseys": "0"
+            },
+            {
+                "name": "Seamus Elliott",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jean Goldschmit",
+                "jerseys": "0"
+            },
+            {
+                "name": "St\u00e9phane Heulot",
+                "jerseys": "0"
+            },
+            {
+                "name": "Serhiy Honchar",
+                "jerseys": "0"
+            },
+            {
+                "name": "Roger Lambrecht",
+                "jerseys": "0"
+            },
+            {
+                "name": "Floyd Landis",
+                "jerseys": "0"
+            },
+            {
+                "name": "Octave Lapize",
+                "jerseys": "1"
+            },
+            {
+                "name": "Bradley McGee",
+                "jerseys": "0"
+            },
+            {
+                "name": "David Millar",
+                "jerseys": "0"
+            },
+            {
+                "name": "Wilfried Nelissen",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jelle Nijdam",
+                "jerseys": "0"
+            },
+            {
+                "name": "Charles P\u00e9lissier[n 7]",
+                "jerseys": "0"
+            },
+            {
+                "name": "V\u00edctor Hugo Pe\u00f1a",
+                "jerseys": "0"
+            },
+            {
+                "name": "Ren\u00e9 Privat",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jan Raas[n 8]",
+                "jerseys": "0"
+            },
+            {
+                "name": "Stephen Roche",
+                "jerseys": "1"
+            },
+            {
+                "name": "Willy Schroeders",
+                "jerseys": "0"
+            },
+            {
+                "name": "Fran\u00e7ois Simon",
+                "jerseys": "0"
+            },
+            {
+                "name": "Julien Stevens",
+                "jerseys": "0"
+            },
+            {
+                "name": "Teun van Vliet",
+                "jerseys": "0"
+            },
+            {
+                "name": "Michel Vermeulin",
+                "jerseys": "0"
+            },
+            {
+                "name": "David Zabriskie",
+                "jerseys": "0"
+            },
+            {
+                "name": "Henry Anglade",
+                "jerseys": "0"
+            },
+            {
+                "name": "Fabio Aru",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jan Bakelants",
+                "jerseys": "0"
+            },
+            {
+                "name": "Romain Bellenger",
+                "jerseys": "0"
+            },
+            {
+                "name": "Rubens Bertogliati",
+                "jerseys": "0"
+            },
+            {
+                "name": "Eugeni Berzin",
+                "jerseys": "0"
+            },
+            {
+                "name": "Pierre Brambilla",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jules Buysse",
+                "jerseys": "0"
+            },
+            {
+                "name": "Marcel Buysse",
+                "jerseys": "0"
+            },
+            {
+                "name": "Sylvain Chavanel",
+                "jerseys": "0"
+            },
+            {
+                "name": "Giulio Ciccone",
+                "jerseys": "0"
+            },
+            {
+                "name": "Charles Crupelandt",
+                "jerseys": "0"
+            },
+            {
+                "name": "Raymond Delisle",
+                "jerseys": "0"
+            },
+            {
+                "name": "Laurent Desbiens",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jacky Durand",
+                "jerseys": "0"
+            },
+            {
+                "name": "Victor Fontan[n 2]",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jean Fontenay",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jean Forestier",
+                "jerseys": "0"
+            },
+            {
+                "name": "Charly Gaul",
+                "jerseys": "1"
+            },
+            {
+                "name": "Martial Gayant",
+                "jerseys": "0"
+            },
+            {
+                "name": "Albertus Geldermans",
+                "jerseys": "0"
+            },
+            {
+                "name": "Simon Gerrans",
+                "jerseys": "0"
+            },
+            {
+                "name": "Ivan Gotti",
+                "jerseys": "0"
+            },
+            {
+                "name": "Charly Grosskost",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jacques Hanegraaf",
+                "jerseys": "0"
+            },
+            {
+                "name": "Ben Healy",
+                "jerseys": "0"
+            },
+            {
+                "name": "Daryl Impey",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jan Janssen",
+                "jerseys": "1"
+            },
+            {
+                "name": "Gerben Karstens",
+                "jerseys": "0"
+            },
+            {
+                "name": "Marcel Kittel",
+                "jerseys": "0"
+            },
+            {
+                "name": "Georges Lemaire",
+                "jerseys": "0"
+            },
+            {
+                "name": "Tony Martin",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jules Masselis",
+                "jerseys": "0"
+            },
+            {
+                "name": "Christophe Moreau",
+                "jerseys": "0"
+            },
+            {
+                "name": "Louis Mottiat",
+                "jerseys": "0"
+            },
+            {
+                "name": "Georges Passerieu",
+                "jerseys": "0"
+            },
+            {
+                "name": "Ludo Peeters",
+                "jerseys": "0"
+            },
+            {
+                "name": "Ronan Pensec",
+                "jerseys": "0"
+            },
+            {
+                "name": "Lech Piasecki",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jean Robic",
+                "jerseys": "1"
+            },
+            {
+                "name": "Aldo Ronconi",
+                "jerseys": "0"
+            },
+            {
+                "name": "Fr\u00e4nk Schleck",
+                "jerseys": "0"
+            },
+            {
+                "name": "Edward Sels",
+                "jerseys": "0"
+            },
+            {
+                "name": "Mike Teunissen",
+                "jerseys": "0"
+            },
+            {
+                "name": "Klaus-Peter Thaler",
+                "jerseys": "0"
+            },
+            {
+                "name": "Alejandro Valverde",
+                "jerseys": "0"
+            },
+            {
+                "name": "Johan van der Velde",
+                "jerseys": "0"
+            },
+            {
+                "name": "Rik Van Steenbergen",
+                "jerseys": "0"
+            },
+            {
+                "name": "Flavio Vanzella",
+                "jerseys": "0"
+            },
+            {
+                "name": "Richard Virenque",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jens Voigt",
+                "jerseys": "0"
+            },
+            {
+                "name": "Rolf Wolfshohl",
+                "jerseys": "0"
+            },
+            {
+                "name": "Erik Zabel",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jean Aerts",
+                "jerseys": "0"
+            },
+            {
+                "name": "Romain Bardet",
+                "jerseys": "0"
+            },
+            {
+                "name": "Nicolas Barone",
+                "jerseys": "0"
+            },
+            {
+                "name": "Fran\u00e7ois Beaugendre",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jean-Fran\u00e7ois Bernard",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jean-Ren\u00e9 Bernaudeau",
+                "jerseys": "0"
+            },
+            {
+                "name": "Yvon Bertin",
+                "jerseys": "0"
+            },
+            {
+                "name": "Serafino Biagioni",
+                "jerseys": "0"
+            },
+            {
+                "name": "Guido Bontempi",
+                "jerseys": "0"
+            },
+            {
+                "name": "Vicenzo Borgarello",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jacques Bossis",
+                "jerseys": "0"
+            },
+            {
+                "name": "Erik Breukink",
+                "jerseys": "0"
+            },
+            {
+                "name": "Johan Bruyneel",
+                "jerseys": "0"
+            },
+            {
+                "name": "Max Bulla",
+                "jerseys": "0"
+            },
+            {
+                "name": "Norbert Callens",
+                "jerseys": "0"
+            },
+            {
+                "name": "Richard Carapaz",
+                "jerseys": "0"
+            },
+            {
+                "name": "Andrea Carrea",
+                "jerseys": "0"
+            },
+            {
+                "name": "Mark Cavendish",
+                "jerseys": "0"
+            },
+            {
+                "name": "Rohan Dennis",
+                "jerseys": "0"
+            },
+            {
+                "name": "Cyril Dessel",
+                "jerseys": "0"
+            },
+            {
+                "name": "Ferdinand Le Drogo",
+                "jerseys": "0"
+            },
+            {
+                "name": "Marcel Dussault",
+                "jerseys": "0"
+            },
+            {
+                "name": "Paul Egli",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jan Engels",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jos\u00e9 Mar\u00eda Errandonea",
+                "jerseys": "0"
+            },
+            {
+                "name": "Romain Feillu",
+                "jerseys": "0"
+            },
+            {
+                "name": "Am\u00e9d\u00e9e Fournier",
+                "jerseys": "0"
+            },
+            {
+                "name": "Michel Fr\u00e9d\u00e9rick",
+                "jerseys": "0"
+            },
+            {
+                "name": "Dominique Gaigne",
+                "jerseys": "0"
+            },
+            {
+                "name": "Tony Gallopin",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jean-Louis Gauthier",
+                "jerseys": "0"
+            },
+            {
+                "name": "Fernando Gaviria",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jean-Pierre Genet",
+                "jerseys": "0"
+            },
+            {
+                "name": "Linus Gerdemann",
+                "jerseys": "0"
+            },
+            {
+                "name": "Philippe Gilbert",
+                "jerseys": "0"
+            },
+            {
+                "name": "Joseph Groussard",
+                "jerseys": "0"
+            },
+            {
+                "name": "Alfred Haemerlinck",
+                "jerseys": "0"
+            },
+            {
+                "name": "Bo Hamburger",
+                "jerseys": "0"
+            },
+            {
+                "name": "Hector Heusghem",
+                "jerseys": "0"
+            },
+            {
+                "name": "George Hincapie",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jai Hindley",
+                "jerseys": "0"
+            },
+            {
+                "name": "Sean Kelly",
+                "jerseys": "0"
+            },
+            {
+                "name": "Marcel Kint",
+                "jerseys": "0"
+            },
+            {
+                "name": "Alexander Kristoff",
+                "jerseys": "0"
+            },
+            {
+                "name": "Yves Lampaert",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jean-Claude Lebaube",
+                "jerseys": "0"
+            },
+            {
+                "name": "Luc Leblanc",
+                "jerseys": "0"
+            },
+            {
+                "name": "L\u00e9on Le Calvez",
+                "jerseys": "0"
+            },
+            {
+                "name": "D\u00e9sir\u00e9 Letort",
+                "jerseys": "0"
+            },
+            {
+                "name": "Emile Lombard",
+                "jerseys": "0"
+            },
+            {
+                "name": "Henk Lubberding",
+                "jerseys": "0"
+            },
+            {
+                "name": "Fran\u00e7ois Mah\u00e9",
+                "jerseys": "0"
+            },
+            {
+                "name": "Robbie McEwen",
+                "jerseys": "0"
+            },
+            {
+                "name": "Ars\u00e8ne Mersch",
+                "jerseys": "0"
+            },
+            {
+                "name": "Giovanni Micheletto",
+                "jerseys": "0"
+            },
+            {
+                "name": "Fr\u00e9d\u00e9ric Moncassin",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jean-Patrick Nazon",
+                "jerseys": "0"
+            },
+            {
+                "name": "Willi Oberbeck",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jasper Philipsen",
+                "jerseys": "0"
+            },
+            {
+                "name": "Miguel Poblet",
+                "jerseys": "0"
+            },
+            {
+                "name": "Giancarlo Polidori",
+                "jerseys": "0"
+            },
+            {
+                "name": "Tommaso de Pra",
+                "jerseys": "0"
+            },
+            {
+                "name": "Gaston Rebry",
+                "jerseys": "0"
+            },
+            {
+                "name": "Raymond Riotte",
+                "jerseys": "0"
+            },
+            {
+                "name": "Giovanni Rossi",
+                "jerseys": "0"
+            },
+            {
+                "name": "Gregorio San Miguel",
+                "jerseys": "0"
+            },
+            {
+                "name": "Tom Simpson",
+                "jerseys": "0"
+            },
+            {
+                "name": "Jozef Spruyt",
+                "jerseys": "0"
+            },
+            {
+                "name": "Alex Stieda",
+                "jerseys": "0"
+            },
+            {
+                "name": "Kurt St\u00f6pel",
+                "jerseys": "0"
+            },
+            {
+                "name": "Adri van der Poel",
+                "jerseys": "0"
+            },
+            {
+                "name": "Cyrille van Hauwaert",
+                "jerseys": "0"
+            },
+            {
+                "name": "Rik Van Looy",
+                "jerseys": "0"
+            },
+            {
+                "name": "Willy Van Neste",
+                "jerseys": "0"
+            },
+            {
+                "name": "Marc Wauters",
+                "jerseys": "0"
+            },
+            {
+                "name": "Sean Yates",
+                "jerseys": "0"
+            }
+        ]
     ],
     "white": [
-        "dummy"
+        "dummy",
+        {
+            "Francesco Moser(ITA)": 1,
+            "Enrique Mart\u00ednez Heredia(ESP)": 1,
+            "Dietrich Thurau(FRG)": 1,
+            "Henk Lubberding(NED)": 1,
+            "Jean-Ren\u00e9 Bernaudeau(FRA)": 1,
+            "Johan van der Velde(NED)": 1,
+            "Peter Winnen(NED)": 1,
+            "Phil Anderson(AUS)": 1,
+            "Laurent Fignon(FRA)": 1,
+            "Greg LeMond(USA)": 1,
+            "Fabio Parra(COL)": 1,
+            "Andrew Hampsten(USA)": 1,
+            "Ra\u00fal Alcal\u00e1(MEX)": 1,
+            "Erik Breukink(NED)": 1,
+            "Fabrice Philipot(FRA)[10]": 1,
+            "Gilles Delion(FRA)": 1,
+            "\u00c1lvaro Mej\u00eda(COL)": 1,
+            "Eddy Bouwmans(NED)": 1,
+            "Antonio Mart\u00edn(ESP)": 1,
+            "Marco Pantani(ITA)": 2,
+            "Jan Ullrich(GER)": 3,
+            "Beno\u00eet Salmon(FRA)": 1,
+            "Francisco Mancebo(ESP)": 1,
+            "\u00d3scar Sevilla(ESP)": 1,
+            "Ivan Basso(ITA)": 1,
+            "Denis Menchov(RUS)": 1,
+            "Vladimir Karpets(RUS)": 1,
+            "Yaroslav Popovych(UKR)": 1,
+            "Damiano Cunego(ITA)": 1,
+            "Alberto Contador(ESP)": 1,
+            "Andy Schleck(LUX)": 3,
+            "Pierre Rolland(FRA)": 1,
+            "Tejay van Garderen(USA)": 1,
+            "Nairo Quintana(COL)": 2,
+            "Thibaut Pinot(FRA)": 1,
+            "Adam Yates(GBR)": 1,
+            "Simon Yates(GBR)": 1,
+            "Pierre Latour(FRA)": 1,
+            "Egan Bernal(COL)": 1,
+            "Tadej Poga\u010dar(SLO)": 4,
+            "Remco Evenepoel(BEL)": 1,
+            "Florian Lipowitz(GER)": 1
+        }
     ],
     "dotted": [
-        "dummy"
+        "dummy",
+        {
+            "Vicente Trueba": 1,
+            "Ren\u00e9 Vietto": 1,
+            "F\u00e9licien Vervaecke": 2,
+            "Juli\u00e1n Berrendero": 1,
+            "Gino Bartali": 2,
+            "Sylv\u00e8re Maes": 1,
+            "Pierre Brambilla": 1,
+            "Fausto Coppi": 2,
+            "Louison Bobet": 1,
+            "Rapha\u00ebl G\u00e9miniani": 1,
+            "Jes\u00fas Loro\u00f1o": 1,
+            "Federico Bahamontes": 6,
+            "Charly Gaul": 2,
+            "Gastone Nencini": 1,
+            "Imerio Massignan": 2,
+            "Julio Jimenez": 3,
+            "Aurelio Gonzalez": 1,
+            "Eddy Merckx": 2,
+            "Lucien Van Impe": 6,
+            "Pedro Torres": 1,
+            "Domingo Perurena": 1,
+            "Giancarlo Bellini": 1,
+            "Mariano Mart\u00ednez": 1,
+            "Giovanni Battaglin": 1,
+            "Raymond Martin": 1,
+            "Bernard Vallet": 1,
+            "Robert Millar": 1,
+            "Luis Herrera": 2,
+            "Bernard Hinault": 1,
+            "Steven Rooks": 1,
+            "Gert-Jan Theunisse": 1,
+            "Thierry Claveyrolat": 1,
+            "Claudio Chiappucci": 2,
+            "Tony Rominger": 1,
+            "Richard Virenque": 7,
+            "Christophe Rinero": 1,
+            "Santiago Botero": 1,
+            "Laurent Jalabert": 2,
+            "Michael Rasmussen": 2,
+            "Mauricio Soler": 1,
+            "Bernhard KohlCarlos Sastre": 1,
+            "Franco PellizottiEgoi Mart\u00ednez": 1,
+            "Anthony Charteau": 1,
+            "Samuel S\u00e1nchez": 1,
+            "Thomas Voeckler": 1,
+            "Nairo Quintana": 1,
+            "Rafa\u0142 Majka": 2,
+            "Chris Froome": 1,
+            "Warren Barguil": 1,
+            "Julian Alaphilippe": 1,
+            "Romain Bardet": 1,
+            "Tadej Poga\u010dar": 3,
+            "Jonas Vingegaard": 1,
+            "Giulio Ciccone": 1,
+            "Richard Carapaz": 1
+        }
     ],
     "green": [
-        "dummy"
+        "dummy",
+        {
+            "Fritz Sch\u00e4r(SUI)": 1,
+            "Ferdinand K\u00fcbler(SUI)": 1,
+            "Stan Ockers(BEL)": 2,
+            "Jean Forestier(FRA)": 1,
+            "Jean Graczyk(FRA)": 2,
+            "Andr\u00e9 Darrigade(FRA)": 2,
+            "Rudi Altig(FRG)": 1,
+            "Rik Van Looy(BEL)": 1,
+            "Jan Janssen(NED)": 3,
+            "Willy Planckaert(BEL)": 1,
+            "Franco Bitossi(ITA)": 1,
+            "Eddy Merckx(BEL)": 3,
+            "Walter Godefroot(BEL)": 1,
+            "Herman Van Springel(BEL)": 1,
+            "Patrick Sercu(BEL)": 1,
+            "Rik Van Linden(BEL)": 1,
+            "Freddy Maertens(BEL)": 3,
+            "Jacques Esclassan(FRA)": 1,
+            "Bernard Hinault(FRA)": 1,
+            "Rudy Pevenage(BEL)": 1,
+            "Sean Kelly(IRL)": 4,
+            "Frank Hoste(BEL)": 1,
+            "Eric Vanderaerden(BEL)": 1,
+            "Jean-Paul van Poppel(NED)": 1,
+            "Eddy Planckaert(BEL)": 1,
+            "Olaf Ludwig(GDR)": 1,
+            "Djamolidine Abdoujaparov(URS)": 1,
+            "Laurent Jalabert(FRA)": 2,
+            "Djamolidine Abdoujaparov(UZB)": 2,
+            "Erik Zabel(GER)": 6,
+            "Robbie McEwen(AUS)": 3,
+            "Baden Cooke(AUS)": 1,
+            "Thor Hushovd(NOR)": 2,
+            "Tom Boonen(BEL)": 1,
+            "\u00d3scar Freire(ESP)": 1,
+            "Alessandro Petacchi(ITA)": 1,
+            "Mark Cavendish(GBR)": 2,
+            "Peter Sagan(SVK)": 7,
+            "Michael Matthews(AUS)": 1,
+            "Sam Bennett(IRL)": 1,
+            "Wout van Aert(BEL)": 1,
+            "Jasper Philipsen(BEL)": 1,
+            "Biniam Girmay(ERI)": 1,
+            "Jonathan Milan(ITA)": 1
+        }
     ]
 }
