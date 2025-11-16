@@ -1,13 +1,5 @@
 {
     "tour_de_france": {
-        "dummy": [
-            {
-                "key": 1,
-                "start": "Milan",
-                "end": "Bologna",
-                "distance": "397"
-            }
-        ],
         "1906": [
             {
                 "key": 1,

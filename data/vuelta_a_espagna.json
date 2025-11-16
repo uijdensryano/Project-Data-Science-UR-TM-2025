@@ -1,13 +1,5 @@
 {
     "vuelta_a_espagna": {
-        "dummy": [
-            {
-                "key": 1,
-                "start": "Milan",
-                "end": "Bologna",
-                "distance": "397"
-            }
-        ],
         "1935": [
             {
                 "key": 1,
