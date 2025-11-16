@@ -5,79 +5,79 @@
                 "key": 1,
                 "start": "Paris",
                 "end": "Lille",
-                "distance": "275"
+                "distance": 275
             },
             {
                 "key": 2,
                 "start": "Douai",
                 "end": "Nancy",
-                "distance": "400"
+                "distance": 400
             },
             {
                 "key": 3,
                 "start": "Nancy",
                 "end": "Dijon",
-                "distance": "416"
+                "distance": 416
             },
             {
                 "key": 4,
                 "start": "Dijon",
                 "end": "Grenoble",
-                "distance": "311"
+                "distance": 311
             },
             {
                 "key": 5,
                 "start": "Grenoble",
                 "end": "Nice",
-                "distance": "345"
+                "distance": 345
             },
             {
                 "key": 6,
                 "start": "Nice",
                 "end": "Marseille",
-                "distance": "292"
+                "distance": 292
             },
             {
                 "key": 7,
                 "start": "Marseille",
                 "end": "Toulouse",
-                "distance": "480"
+                "distance": 480
             },
             {
                 "key": 8,
                 "start": "Toulouse",
                 "end": "Bayonne",
-                "distance": "300"
+                "distance": 300
             },
             {
                 "key": 9,
                 "start": "Bayonne",
                 "end": "Bordeaux",
-                "distance": "338"
+                "distance": 338
             },
             {
                 "key": 10,
                 "start": "Bordeaux",
                 "end": "Nantes",
-                "distance": "391"
+                "distance": 391
             },
             {
                 "key": 11,
                 "start": "Nantes",
                 "end": "Brest",
-                "distance": "321"
+                "distance": 321
             },
             {
                 "key": 12,
                 "start": "Brest",
                 "end": "Caen",
-                "distance": "415"
+                "distance": 415
             },
             {
                 "key": 13,
                 "start": "Caen",
                 "end": "Paris",
-                "distance": "259"
+                "distance": 259
             }
         ],
         "1911": [
@@ -85,91 +85,91 @@
                 "key": 1,
                 "start": "Paris ",
                 "end": "Dunkerque",
-                "distance": "351"
+                "distance": 351
             },
             {
                 "key": 2,
                 "start": "Dunkerque",
                 "end": "Longwy",
-                "distance": "388"
+                "distance": 388
             },
             {
                 "key": 3,
                 "start": "Longwy",
                 "end": "Belfort",
-                "distance": "331"
+                "distance": 331
             },
             {
                 "key": 4,
                 "start": "Belfort",
                 "end": "Chamonix",
-                "distance": "344"
+                "distance": 344
             },
             {
                 "key": 5,
                 "start": "Chamonix",
                 "end": "Grenoble",
-                "distance": "366"
+                "distance": 366
             },
             {
                 "key": 6,
                 "start": "Grenoble",
                 "end": "Nice",
-                "distance": "348"
+                "distance": 348
             },
             {
                 "key": 7,
                 "start": "Nice",
                 "end": "Marseille",
-                "distance": "334"
+                "distance": 334
             },
             {
                 "key": 8,
                 "start": "Marseille",
                 "end": "Perpignan",
-                "distance": "335"
+                "distance": 335
             },
             {
                 "key": 9,
                 "start": "Perpignan",
                 "end": "Luchon",
-                "distance": "289"
+                "distance": 289
             },
             {
                 "key": 10,
                 "start": "Luchon",
                 "end": "Bayonne",
-                "distance": "326"
+                "distance": 326
             },
             {
                 "key": 11,
                 "start": "Bayonne",
                 "end": "La Rochelle",
-                "distance": "379"
+                "distance": 379
             },
             {
                 "key": 12,
                 "start": "La Rochelle",
                 "end": "Brest",
-                "distance": "470"
+                "distance": 470
             },
             {
                 "key": 13,
                 "start": "Brest",
                 "end": "Cherbourg-en-Cotentin",
-                "distance": "405"
+                "distance": 405
             },
             {
                 "key": 14,
                 "start": "Cherbourg ",
                 "end": "Le Havre",
-                "distance": "361"
+                "distance": 361
             },
             {
                 "key": 15,
                 "start": "Le Havre",
                 "end": " Paris",
-                "distance": "317"
+                "distance": 317
             }
         ],
         "1919": [
@@ -177,91 +177,91 @@
                 "key": 1,
                 "start": "Paris",
                 "end": "Le Havre",
-                "distance": "388"
+                "distance": 388
             },
             {
                 "key": 2,
                 "start": "Le Havre",
                 "end": "Cherbourg-en-Cotentin",
-                "distance": "364"
+                "distance": 364
             },
             {
                 "key": 3,
                 "start": "Cherbourg ",
                 "end": "Brest",
-                "distance": "405"
+                "distance": 405
             },
             {
                 "key": 4,
                 "start": "Brest",
                 "end": "Les Sables-d'Olonne",
-                "distance": "412"
+                "distance": 412
             },
             {
                 "key": 5,
                 "start": "Les Sables-d'Olonne",
                 "end": "Bayonne",
-                "distance": "482"
+                "distance": 482
             },
             {
                 "key": 6,
                 "start": "Bayonne",
                 "end": "Luchon",
-                "distance": "326"
+                "distance": 326
             },
             {
                 "key": 7,
                 "start": "Luchon",
                 "end": "Perpignan",
-                "distance": "323"
+                "distance": 323
             },
             {
                 "key": 8,
                 "start": "Perpignan",
                 "end": "Marseille",
-                "distance": "370"
+                "distance": 370
             },
             {
                 "key": 9,
                 "start": "Marseille",
                 "end": "Nice",
-                "distance": "338"
+                "distance": 338
             },
             {
                 "key": 10,
                 "start": "Nice",
                 "end": "Grenoble",
-                "distance": "333"
+                "distance": 333
             },
             {
                 "key": 11,
                 "start": "Grenoble",
                 "end": "Geneva",
-                "distance": "325"
+                "distance": 325
             },
             {
                 "key": 12,
                 "start": "Geneva",
                 "end": "Strasbourg",
-                "distance": "371"
+                "distance": 371
             },
             {
                 "key": 13,
                 "start": "Strasbourg",
                 "end": "Metz",
-                "distance": "315"
+                "distance": 315
             },
             {
                 "key": 14,
                 "start": "Metz",
                 "end": "Dunkerque",
-                "distance": "468"
+                "distance": 468
             },
             {
                 "key": 15,
                 "start": "Dunkerque",
                 "end": "Paris",
-                "distance": "340"
+                "distance": 340
             }
         ],
         "1924": [
@@ -269,91 +269,91 @@
                 "key": 1,
                 "start": "Paris",
                 "end": "Le Havre",
-                "distance": "381"
+                "distance": 381
             },
             {
                 "key": 2,
                 "start": "Le Havre",
                 "end": "Cherbourg-en-Cotentin",
-                "distance": "371"
+                "distance": 371
             },
             {
                 "key": 3,
                 "start": "Cherbourg ",
                 "end": "Brest",
-                "distance": "405"
+                "distance": 405
             },
             {
                 "key": 4,
                 "start": "Brest",
                 "end": "Les Sables-d'Olonne",
-                "distance": "412"
+                "distance": 412
             },
             {
                 "key": 5,
                 "start": "Les Sables-d'Olonne",
                 "end": "Bayonne",
-                "distance": "482"
+                "distance": 482
             },
             {
                 "key": 6,
                 "start": "Bayonne",
                 "end": "Luchon",
-                "distance": "326"
+                "distance": 326
             },
             {
                 "key": 7,
                 "start": "Luchon",
                 "end": "Perpignan",
-                "distance": "323"
+                "distance": 323
             },
             {
                 "key": 8,
                 "start": "Perpignan",
                 "end": "Toulon",
-                "distance": "427"
+                "distance": 427
             },
             {
                 "key": 9,
                 "start": "Toulon",
                 "end": "Nice",
-                "distance": "280"
+                "distance": 280
             },
             {
                 "key": 10,
                 "start": "Nice",
                 "end": "Brian\u00e7on",
-                "distance": "275"
+                "distance": 275
             },
             {
                 "key": 11,
                 "start": "Brian\u00e7on",
                 "end": "Gex",
-                "distance": "307"
+                "distance": 307
             },
             {
                 "key": 12,
                 "start": "Gex",
                 "end": "Strasbourg",
-                "distance": "360"
+                "distance": 360
             },
             {
                 "key": 13,
                 "start": "Strasbourg",
                 "end": "Metz",
-                "distance": "300"
+                "distance": 300
             },
             {
                 "key": 14,
                 "start": "Metz",
                 "end": "Dunkerque",
-                "distance": "433"
+                "distance": 433
             },
             {
                 "key": 15,
                 "start": "Dunkerque",
                 "end": "Paris",
-                "distance": "343"
+                "distance": 343
             }
         ],
         "1929": [
@@ -361,133 +361,133 @@
                 "key": 1,
                 "start": "Paris",
                 "end": "Caen",
-                "distance": "206"
+                "distance": 206
             },
             {
                 "key": 2,
                 "start": "Caen",
                 "end": "Cherbourg-en-Cotentin",
-                "distance": "140"
+                "distance": 140
             },
             {
                 "key": 3,
                 "start": "Cherbourg ",
                 "end": "Dinan",
-                "distance": "199"
+                "distance": 199
             },
             {
                 "key": 4,
                 "start": "Dinan",
                 "end": "Brest",
-                "distance": "206"
+                "distance": 206
             },
             {
                 "key": 5,
                 "start": "Brest",
                 "end": "Vannes",
-                "distance": "208"
+                "distance": 208
             },
             {
                 "key": 6,
                 "start": "Vannes",
                 "end": "Les Sables d'Olonne",
-                "distance": "206"
+                "distance": 206
             },
             {
                 "key": 7,
                 "start": "Les Sables d'Olonne",
                 "end": "Bordeaux",
-                "distance": "285"
+                "distance": 285
             },
             {
                 "key": 8,
                 "start": "Bordeaux",
                 "end": "Bayonne",
-                "distance": "182"
+                "distance": 182
             },
             {
                 "key": 9,
                 "start": "Bayonne",
                 "end": "Luchon",
-                "distance": "363"
+                "distance": 363
             },
             {
                 "key": 10,
                 "start": "Luchon",
                 "end": "Perpignan",
-                "distance": "323"
+                "distance": 323
             },
             {
                 "key": 11,
                 "start": "Perpignan",
                 "end": "Marseille",
-                "distance": "366"
+                "distance": 366
             },
             {
                 "key": 12,
                 "start": "Marseille",
                 "end": "Cannes",
-                "distance": "191"
+                "distance": 191
             },
             {
                 "key": 13,
                 "start": "Cannes",
                 "end": "Nice",
-                "distance": "133"
+                "distance": 133
             },
             {
                 "key": 14,
                 "start": "Nice",
                 "end": "Grenoble",
-                "distance": "333"
+                "distance": 333
             },
             {
                 "key": 15,
                 "start": "Grenoble",
                 "end": "Evian",
-                "distance": "329"
+                "distance": 329
             },
             {
                 "key": 16,
                 "start": "Evian",
                 "end": "Belfort",
-                "distance": "283"
+                "distance": 283
             },
             {
                 "key": 17,
                 "start": "Belfort",
                 "end": "Strasbourg",
-                "distance": "145"
+                "distance": 145
             },
             {
                 "key": 18,
                 "start": "Strasbourg",
                 "end": "Metz",
-                "distance": "165"
+                "distance": 165
             },
             {
                 "key": 19,
                 "start": "Metz",
                 "end": "Charleville",
-                "distance": "159"
+                "distance": 159
             },
             {
                 "key": 20,
                 "start": "Charleville",
                 "end": "Malo-les-Bains",
-                "distance": "270"
+                "distance": 270
             },
             {
                 "key": 21,
                 "start": "Malo-les-Bains",
                 "end": "Dieppe",
-                "distance": "234"
+                "distance": 234
             },
             {
                 "key": 22,
                 "start": "Dieppe",
                 "end": "Paris",
-                "distance": "332"
+                "distance": 332
             }
         ],
         "1934": [
@@ -495,139 +495,139 @@
                 "key": 1,
                 "start": "Paris",
                 "end": "Lille",
-                "distance": "262"
+                "distance": 262
             },
             {
                 "key": 2,
                 "start": "Lille",
                 "end": "Charleville",
-                "distance": "192"
+                "distance": 192
             },
             {
                 "key": 3,
                 "start": "Charleville",
                 "end": "Metz",
-                "distance": "161"
+                "distance": 161
             },
             {
                 "key": 4,
                 "start": "Metz",
                 "end": "Belfort",
-                "distance": "220"
+                "distance": 220
             },
             {
                 "key": 5,
                 "start": "Belfort",
                 "end": "Evian",
-                "distance": "293"
+                "distance": 293
             },
             {
                 "key": 6,
                 "start": "Evian",
                 "end": "Aix-les-Bains",
-                "distance": "207"
+                "distance": 207
             },
             {
                 "key": 7,
                 "start": "Aix-les-Bains",
                 "end": "Grenoble",
-                "distance": "229"
+                "distance": 229
             },
             {
                 "key": 8,
                 "start": "Grenoble",
                 "end": "Gap",
-                "distance": "102"
+                "distance": 102
             },
             {
                 "key": 9,
                 "start": "Gap",
                 "end": "Digne",
-                "distance": "227"
+                "distance": 227
             },
             {
                 "key": 10,
                 "start": "Digne",
                 "end": "Nice",
-                "distance": "156"
+                "distance": 156
             },
             {
                 "key": 11,
                 "start": "Nice",
                 "end": "Cannes",
-                "distance": "126"
+                "distance": 126
             },
             {
                 "key": 12,
                 "start": "Cannes",
                 "end": "Marseille",
-                "distance": "195"
+                "distance": 195
             },
             {
                 "key": 13,
                 "start": "Marseille",
                 "end": "Montpellier",
-                "distance": "172"
+                "distance": 172
             },
             {
                 "key": 14,
                 "start": "Montpellier",
                 "end": "Perpignan",
-                "distance": "177"
+                "distance": 177
             },
             {
                 "key": 15,
                 "start": "Perpignan",
                 "end": "Ax-les-Thermes",
-                "distance": "158"
+                "distance": 158
             },
             {
                 "key": 16,
                 "start": "Ax-les-Thermes",
                 "end": "Luchon",
-                "distance": "165"
+                "distance": 165
             },
             {
                 "key": 17,
                 "start": "Luchon",
                 "end": "Tarbes",
-                "distance": "91"
+                "distance": 91
             },
             {
                 "key": 18,
                 "start": "Tarbes",
                 "end": "Pau",
-                "distance": "172"
+                "distance": 172
             },
             {
                 "key": 19,
                 "start": "Pau",
                 "end": "Bordeaux",
-                "distance": "215"
+                "distance": 215
             },
             {
                 "key": 20,
                 "start": "Bordeaux",
                 "end": "La Rochelle",
-                "distance": "183"
+                "distance": 183
             },
             {
                 "key": 21,
                 "start": "La Rochelle",
                 "end": "La Roche sur Yon",
-                "distance": "81"
+                "distance": 81
             },
             {
                 "key": 22,
                 "start": "Nantes",
                 "end": "Caen",
-                "distance": "275"
+                "distance": 275
             },
             {
                 "key": 23,
                 "start": "Caen",
                 "end": "Paris",
-                "distance": "221"
+                "distance": 221
             }
         ],
         "1939": [
@@ -635,109 +635,109 @@
                 "key": 1,
                 "start": "Paris",
                 "end": "Caen",
-                "distance": "215"
+                "distance": 215
             },
             {
                 "key": 2,
                 "start": "Caen",
                 "end": "Vire",
-                "distance": "64"
+                "distance": 64
             },
             {
                 "key": 3,
                 "start": "Rennes",
                 "end": "Brest",
-                "distance": "244"
+                "distance": 244
             },
             {
                 "key": 4,
                 "start": "Brest",
                 "end": "Lorient",
-                "distance": "174"
+                "distance": 174
             },
             {
                 "key": 5,
                 "start": "Lorient",
                 "end": "Nantes",
-                "distance": "207"
+                "distance": 207
             },
             {
                 "key": 6,
                 "start": "Nantes",
                 "end": "La Rochelle",
-                "distance": "144"
+                "distance": 144
             },
             {
                 "key": 7,
                 "start": "Royan",
                 "end": "Bordeaux",
-                "distance": "198"
+                "distance": 198
             },
             {
                 "key": 8,
                 "start": "Bordeaux",
                 "end": "Salies-de-B\u00e9arn",
-                "distance": "210"
+                "distance": 210
             },
             {
                 "key": 9,
                 "start": "Pau",
                 "end": "Toulouse",
-                "distance": "311"
+                "distance": 311
             },
             {
                 "key": 10,
                 "start": "Toulouse",
                 "end": "Narbonne",
-                "distance": "149"
+                "distance": 149
             },
             {
                 "key": 11,
                 "start": "Montpellier",
                 "end": "Marseille",
-                "distance": "212"
+                "distance": 212
             },
             {
                 "key": 12,
                 "start": "Marseille",
                 "end": "Saint-Rapha\u00ebl",
-                "distance": "157"
+                "distance": 157
             },
             {
                 "key": 13,
                 "start": "Monaco",
                 "end": " Monaco",
-                "distance": "101"
+                "distance": 101
             },
             {
                 "key": 14,
                 "start": "Monaco",
                 "end": "Digne",
-                "distance": "175"
+                "distance": 175
             },
             {
                 "key": 15,
                 "start": "Digne",
                 "end": "Brian\u00e7on",
-                "distance": "219"
+                "distance": 219
             },
             {
                 "key": 16,
                 "start": "Brian\u00e7on",
                 "end": " Brian\u00e7on",
-                "distance": "126"
+                "distance": 126
             },
             {
                 "key": 17,
                 "start": "Annecy",
                 "end": "D\u00f4le",
-                "distance": "226"
+                "distance": 226
             },
             {
                 "key": 18,
                 "start": "Dijon",
                 "end": "Troyes",
-                "distance": "151"
+                "distance": 151
             }
         ],
         "1947": [
@@ -745,127 +745,127 @@
                 "key": 1,
                 "start": "Paris ",
                 "end": "Lille",
-                "distance": "236"
+                "distance": 236
             },
             {
                 "key": 2,
                 "start": "Lille",
                 "end": "Brussels(Belgium)",
-                "distance": "182"
+                "distance": 182
             },
             {
                 "key": 3,
                 "start": "Brussels(Belgium) ",
                 "end": "Luxembourg City(Luxembourg)",
-                "distance": "314"
+                "distance": 314
             },
             {
                 "key": 4,
                 "start": "Luxembourg City(Luxembourg) ",
                 "end": "Strasbourg",
-                "distance": "223"
+                "distance": 223
             },
             {
                 "key": 5,
                 "start": "Strasbourg",
                 "end": "Besan\u00e7on",
-                "distance": "248"
+                "distance": 248
             },
             {
                 "key": 6,
                 "start": "Besan\u00e7on",
                 "end": "Lyon",
-                "distance": "249"
+                "distance": 249
             },
             {
                 "key": 7,
                 "start": "Lyon",
                 "end": "Grenoble",
-                "distance": "172"
+                "distance": 172
             },
             {
                 "key": 8,
                 "start": "Grenoble",
                 "end": "Brian\u00e7on",
-                "distance": "185"
+                "distance": 185
             },
             {
                 "key": 9,
                 "start": "Brian\u00e7on",
                 "end": "Digne",
-                "distance": "217"
+                "distance": 217
             },
             {
                 "key": 10,
                 "start": "Digne",
                 "end": "Nice",
-                "distance": "255"
+                "distance": 255
             },
             {
                 "key": 11,
                 "start": "Nice",
                 "end": "Marseille",
-                "distance": "230"
+                "distance": 230
             },
             {
                 "key": 12,
                 "start": "Marseille",
                 "end": "Montpellier",
-                "distance": "165"
+                "distance": 165
             },
             {
                 "key": 13,
                 "start": "Montpellier",
                 "end": "Carcassonne",
-                "distance": "172"
+                "distance": 172
             },
             {
                 "key": 14,
                 "start": "Carcassonne",
                 "end": "Luchon",
-                "distance": "253"
+                "distance": 253
             },
             {
                 "key": 15,
                 "start": "Luchon",
                 "end": "Pau",
-                "distance": "195"
+                "distance": 195
             },
             {
                 "key": 16,
                 "start": "Pau",
                 "end": "Bordeaux",
-                "distance": "195"
+                "distance": 195
             },
             {
                 "key": 17,
                 "start": "Bordeaux",
                 "end": "Les Sables-d'Olonne",
-                "distance": "272"
+                "distance": 272
             },
             {
                 "key": 18,
                 "start": "Les Sables-d'Olonne",
                 "end": "Vannes",
-                "distance": "236"
+                "distance": 236
             },
             {
                 "key": 19,
                 "start": "Vannes",
                 "end": "Saint-Brieuc",
-                "distance": "139"
+                "distance": 139
             },
             {
                 "key": 20,
                 "start": "Saint-Brieuc",
                 "end": "Caen",
-                "distance": "235"
+                "distance": 235
             },
             {
                 "key": 21,
                 "start": "Caen",
                 "end": " Paris",
-                "distance": "257"
+                "distance": 257
             }
         ],
         "1952": [
@@ -873,139 +873,139 @@
                 "key": 1,
                 "start": "Brest",
                 "end": "Rennes",
-                "distance": "246"
+                "distance": 246
             },
             {
                 "key": 2,
                 "start": "Rennes",
                 "end": "Le Mans",
-                "distance": "181"
+                "distance": 181
             },
             {
                 "key": 3,
                 "start": "Le Mans",
                 "end": "Rouen",
-                "distance": "189"
+                "distance": 189
             },
             {
                 "key": 4,
                 "start": "Rouen",
                 "end": "Roubaix",
-                "distance": "232"
+                "distance": 232
             },
             {
                 "key": 5,
                 "start": "Roubaix",
                 "end": "Namur(Belgium)",
-                "distance": "197"
+                "distance": 197
             },
             {
                 "key": 6,
                 "start": "Namur(Belgium) ",
                 "end": "Metz",
-                "distance": "228"
+                "distance": 228
             },
             {
                 "key": 7,
                 "start": "Metz",
                 "end": "Nancy",
-                "distance": "60"
+                "distance": 60
             },
             {
                 "key": 8,
                 "start": "Nancy",
                 "end": "Mulhouse",
-                "distance": "252"
+                "distance": 252
             },
             {
                 "key": 9,
                 "start": "Mulhouse",
                 "end": "Lausanne",
-                "distance": "238"
+                "distance": 238
             },
             {
                 "key": 10,
                 "start": "Lausanne",
                 "end": "Alpe d'Huez",
-                "distance": "266"
+                "distance": 266
             },
             {
                 "key": 11,
                 "start": "Le Bourg-d'Oisans",
                 "end": "Sestriere(Italy)",
-                "distance": "182"
+                "distance": 182
             },
             {
                 "key": 12,
                 "start": "Sestriere(Italy) ",
                 "end": "Monaco",
-                "distance": "251"
+                "distance": 251
             },
             {
                 "key": 13,
                 "start": "Monaco",
                 "end": "Aix-en-Provence",
-                "distance": "214"
+                "distance": 214
             },
             {
                 "key": 14,
                 "start": "Aix-en-Provence",
                 "end": "Avignon",
-                "distance": "178"
+                "distance": 178
             },
             {
                 "key": 15,
                 "start": "Avignon",
                 "end": "Perpignan",
-                "distance": "255"
+                "distance": 255
             },
             {
                 "key": 16,
                 "start": "Perpignan",
                 "end": "Toulouse",
-                "distance": "200"
+                "distance": 200
             },
             {
                 "key": 17,
                 "start": "Toulouse",
                 "end": "Bagn\u00e8res-de-Bigorre",
-                "distance": "204"
+                "distance": 204
             },
             {
                 "key": 18,
                 "start": "Bagn\u00e8res-de-Bigorre",
                 "end": "Pau",
-                "distance": "149"
+                "distance": 149
             },
             {
                 "key": 19,
                 "start": "Pau",
                 "end": "Bordeaux",
-                "distance": "195"
+                "distance": 195
             },
             {
                 "key": 20,
                 "start": "Bordeaux",
                 "end": "Limoges",
-                "distance": "228"
+                "distance": 228
             },
             {
                 "key": 21,
                 "start": "Limoges",
                 "end": "Puy de D\u00f4me",
-                "distance": "245"
+                "distance": 245
             },
             {
                 "key": 22,
                 "start": "Clermont-Ferrand",
                 "end": "Vichy",
-                "distance": "63"
+                "distance": 63
             },
             {
                 "key": 23,
                 "start": "Vichy",
                 "end": " Paris",
-                "distance": "354"
+                "distance": 354
             }
         ],
         "1957": [
@@ -1013,127 +1013,127 @@
                 "key": 1,
                 "start": "Nantes",
                 "end": "Granville",
-                "distance": "204"
+                "distance": 204
             },
             {
                 "key": 2,
                 "start": "Granville",
                 "end": "Caen",
-                "distance": "226"
+                "distance": 226
             },
             {
                 "key": 3,
                 "start": "Rouen",
                 "end": "Roubaix",
-                "distance": "232"
+                "distance": 232
             },
             {
                 "key": 4,
                 "start": "Roubaix",
                 "end": "Charleroi",
-                "distance": "170"
+                "distance": 170
             },
             {
                 "key": 5,
                 "start": "Charleroi",
                 "end": "Metz",
-                "distance": "248"
+                "distance": 248
             },
             {
                 "key": 6,
                 "start": "Metz",
                 "end": "Colmar",
-                "distance": "223"
+                "distance": 223
             },
             {
                 "key": 7,
                 "start": "Colmar",
                 "end": "Besan\u00e7on",
-                "distance": "192"
+                "distance": 192
             },
             {
                 "key": 8,
                 "start": "Besan\u00e7on",
                 "end": "Thonon-les-Bains",
-                "distance": "188"
+                "distance": 188
             },
             {
                 "key": 9,
                 "start": "Thonon-les-Bains",
                 "end": "Brian\u00e7on",
-                "distance": "247"
+                "distance": 247
             },
             {
                 "key": 10,
                 "start": "Brian\u00e7on",
                 "end": "Cannes",
-                "distance": "286"
+                "distance": 286
             },
             {
                 "key": 11,
                 "start": "Cannes",
                 "end": "Marseille",
-                "distance": "239"
+                "distance": 239
             },
             {
                 "key": 12,
                 "start": "Marseille",
                 "end": "Al\u00e8s",
-                "distance": "160"
+                "distance": 160
             },
             {
                 "key": 13,
                 "start": "Al\u00e8s",
                 "end": "Perpignan",
-                "distance": "246"
+                "distance": 246
             },
             {
                 "key": 14,
                 "start": "Perpignan",
                 "end": "Barcelona(Spain)",
-                "distance": "197"
+                "distance": 197
             },
             {
                 "key": 15,
                 "start": "Barcelona(Spain)  ",
                 "end": "Ax-les-Thermes",
-                "distance": "220"
+                "distance": 220
             },
             {
                 "key": 16,
                 "start": "Ax-les-Thermes",
                 "end": "Saint-Gaudens",
-                "distance": "236"
+                "distance": 236
             },
             {
                 "key": 17,
                 "start": "Saint-Gaudens",
                 "end": "Pau",
-                "distance": "207"
+                "distance": 207
             },
             {
                 "key": 18,
                 "start": "Pau",
                 "end": "Bordeaux",
-                "distance": "194"
+                "distance": 194
             },
             {
                 "key": 19,
                 "start": "Bordeaux",
                 "end": "Libourne",
-                "distance": "66"
+                "distance": 66
             },
             {
                 "key": 20,
                 "start": "Libourne",
                 "end": "Tours",
-                "distance": "317"
+                "distance": 317
             },
             {
                 "key": 21,
                 "start": "Tours",
                 "end": "Paris",
-                "distance": "227"
+                "distance": 227
             }
         ],
         "1962": [
@@ -1141,133 +1141,133 @@
                 "key": 1,
                 "start": "Nancy",
                 "end": "Spa(Belgium)",
-                "distance": "253"
+                "distance": 253
             },
             {
                 "key": 2,
                 "start": "Spa(Belgium) ",
                 "end": "Herentals(Belgium)",
-                "distance": "147"
+                "distance": 147
             },
             {
                 "key": 3,
                 "start": "Brussels(Belgium) ",
                 "end": "Amiens",
-                "distance": "210"
+                "distance": 210
             },
             {
                 "key": 4,
                 "start": "Amiens",
                 "end": "Le Havre",
-                "distance": "196"
+                "distance": 196
             },
             {
                 "key": 5,
                 "start": "Pont l'Ev\u00eaque",
                 "end": "Saint-Malo",
-                "distance": "215"
+                "distance": 215
             },
             {
                 "key": 6,
                 "start": "Dinard",
                 "end": "Brest",
-                "distance": "235"
+                "distance": 235
             },
             {
                 "key": 7,
                 "start": "Quimper",
                 "end": "Saint-Nazaire",
-                "distance": "201"
+                "distance": 201
             },
             {
                 "key": 8,
                 "start": "Saint-Nazaire",
                 "end": "Lu\u00e7on",
-                "distance": "155"
+                "distance": 155
             },
             {
                 "key": 9,
                 "start": "La Rochelle",
                 "end": "Bordeaux",
-                "distance": "214"
+                "distance": 214
             },
             {
                 "key": 10,
                 "start": "Bordeaux",
                 "end": "Bayonne",
-                "distance": "184"
+                "distance": 184
             },
             {
                 "key": 11,
                 "start": "Bayonne",
                 "end": "Pau",
-                "distance": "155"
+                "distance": 155
             },
             {
                 "key": 12,
                 "start": "Pau",
                 "end": "Saint-Gaudens",
-                "distance": "207"
+                "distance": 207
             },
             {
                 "key": 13,
                 "start": "Luchon",
                 "end": "Superbagn\u00e8res",
-                "distance": "18"
+                "distance": 18
             },
             {
                 "key": 14,
                 "start": "Luchon",
                 "end": "Carcassonne",
-                "distance": "215"
+                "distance": 215
             },
             {
                 "key": 15,
                 "start": "Carcassonne",
                 "end": "Montpellier",
-                "distance": "196"
+                "distance": 196
             },
             {
                 "key": 16,
                 "start": "Montpellier",
                 "end": "Aix-en-Provence",
-                "distance": "185"
+                "distance": 185
             },
             {
                 "key": 17,
                 "start": "Aix-en-Provence",
                 "end": "Antibes",
-                "distance": "201"
+                "distance": 201
             },
             {
                 "key": 18,
                 "start": "Antibes",
                 "end": "Brian\u00e7on",
-                "distance": "241"
+                "distance": 241
             },
             {
                 "key": 19,
                 "start": "Brian\u00e7on",
                 "end": "Aix-les-Bains",
-                "distance": "204"
+                "distance": 204
             },
             {
                 "key": 20,
                 "start": "Bourgoin",
                 "end": "Lyon",
-                "distance": "68"
+                "distance": 68
             },
             {
                 "key": 21,
                 "start": "Lyon",
                 "end": "Nevers",
-                "distance": "232"
+                "distance": 232
             },
             {
                 "key": 22,
                 "start": "Nevers",
                 "end": " Paris",
-                "distance": "271"
+                "distance": 271
             }
         ],
         "1967": [
@@ -1275,133 +1275,133 @@
                 "key": 1,
                 "start": "Angers",
                 "end": "Saint-Malo",
-                "distance": "185"
+                "distance": 185
             },
             {
                 "key": 2,
                 "start": "Saint-Malo",
                 "end": "Caen",
-                "distance": "180"
+                "distance": 180
             },
             {
                 "key": 3,
                 "start": "Caen",
                 "end": "Amiens",
-                "distance": "248"
+                "distance": 248
             },
             {
                 "key": 4,
                 "start": "Amiens",
                 "end": "Roubaix",
-                "distance": "191"
+                "distance": 191
             },
             {
                 "key": 5,
                 "start": "Roubaix",
                 "end": "Jambes(Belgium)",
-                "distance": "172"
+                "distance": 172
             },
             {
                 "key": 6,
                 "start": "Jambes",
                 "end": "Metz",
-                "distance": "238"
+                "distance": 238
             },
             {
                 "key": 7,
                 "start": "Metz",
                 "end": "Strasbourg",
-                "distance": "205"
+                "distance": 205
             },
             {
                 "key": 8,
                 "start": "Strasbourg",
                 "end": "Belfort/Ballon d'Alsace",
-                "distance": "215"
+                "distance": 215
             },
             {
                 "key": 9,
                 "start": "Belfort",
                 "end": "Divonne-les-Bains",
-                "distance": "238"
+                "distance": 238
             },
             {
                 "key": 10,
                 "start": "Divonne-les-Bains",
                 "end": "Brian\u00e7on",
-                "distance": "243"
+                "distance": 243
             },
             {
                 "key": 11,
                 "start": "Brian\u00e7on",
                 "end": "Digne",
-                "distance": "197"
+                "distance": 197
             },
             {
                 "key": 12,
                 "start": "Digne",
                 "end": "Marseille",
-                "distance": "207"
+                "distance": 207
             },
             {
                 "key": 13,
                 "start": "Marseille",
                 "end": "Carpentras",
-                "distance": "211"
+                "distance": 211
             },
             {
                 "key": 14,
                 "start": "Carpentras",
                 "end": "S\u00e8te",
-                "distance": "201"
+                "distance": 201
             },
             {
                 "key": 15,
                 "start": "S\u00e8te",
                 "end": "Toulouse",
-                "distance": "230"
+                "distance": 230
             },
             {
                 "key": 16,
                 "start": "Toulouse",
                 "end": "Luchon",
-                "distance": "188"
+                "distance": 188
             },
             {
                 "key": 17,
                 "start": "Luchon",
                 "end": "Pau",
-                "distance": "250"
+                "distance": 250
             },
             {
                 "key": 18,
                 "start": "Pau",
                 "end": "Bordeaux",
-                "distance": "206"
+                "distance": 206
             },
             {
                 "key": 19,
                 "start": "Bordeaux",
                 "end": "Limoges",
-                "distance": "217"
+                "distance": 217
             },
             {
                 "key": 20,
                 "start": "Limoges",
                 "end": "Puy-de-D\u00f4me",
-                "distance": "222"
+                "distance": 222
             },
             {
                 "key": 21,
                 "start": "Clermont-Ferrand",
                 "end": "Fontainebleau",
-                "distance": "359"
+                "distance": 359
             },
             {
                 "key": 22,
                 "start": "Fontainebleau",
                 "end": "Versailles",
-                "distance": "104"
+                "distance": 104
             }
         ],
         "1972": [
@@ -1409,115 +1409,115 @@
                 "key": 1,
                 "start": "Angers",
                 "end": "Saint-Brieuc",
-                "distance": "235"
+                "distance": 235
             },
             {
                 "key": 2,
                 "start": "Saint-Brieuc",
                 "end": "La Baule",
-                "distance": "206"
+                "distance": 206
             },
             {
                 "key": 3,
                 "start": "Pornichet",
                 "end": "Saint-Jean-de-Monts",
-                "distance": "161"
+                "distance": 161
             },
             {
                 "key": 4,
                 "start": "Merlin-Plage",
                 "end": "Royan",
-                "distance": "236"
+                "distance": 236
             },
             {
                 "key": 5,
                 "start": "Royan",
                 "end": "Bordeaux",
-                "distance": "133"
+                "distance": 133
             },
             {
                 "key": 6,
                 "start": "Bordeaux",
                 "end": "Bayonne",
-                "distance": "205"
+                "distance": 205
             },
             {
                 "key": 7,
                 "start": "Bayonne",
                 "end": "Pau",
-                "distance": "220"
+                "distance": 220
             },
             {
                 "key": 8,
                 "start": "Pau",
                 "end": "Luchon",
-                "distance": "163"
+                "distance": 163
             },
             {
                 "key": 9,
                 "start": "Luchon",
                 "end": "Colomiers",
-                "distance": "179"
+                "distance": 179
             },
             {
                 "key": 10,
                 "start": "Castres",
                 "end": "La Grande-Motte",
-                "distance": "210"
+                "distance": 210
             },
             {
                 "key": 11,
                 "start": "Carnon-Plage",
                 "end": "Mont Ventoux",
-                "distance": "207"
+                "distance": 207
             },
             {
                 "key": 12,
                 "start": "Carpentras",
                 "end": "Orci\u00e8res-Merlette",
-                "distance": "192"
+                "distance": 192
             },
             {
                 "key": 13,
                 "start": "Orci\u00e8res-Merlette",
                 "end": "Brian\u00e7on",
-                "distance": "201"
+                "distance": 201
             },
             {
                 "key": 14,
                 "start": "Brian\u00e7on",
                 "end": "Valloire",
-                "distance": "51"
+                "distance": 51
             },
             {
                 "key": 15,
                 "start": "Aix-les-Bains",
                 "end": "Le Revard",
-                "distance": "28"
+                "distance": 28
             },
             {
                 "key": 16,
                 "start": "Aix-les-Bains",
                 "end": "Pontarlier",
-                "distance": "198"
+                "distance": 198
             },
             {
                 "key": 17,
                 "start": "Pontarlier",
                 "end": "Ballon d'Alsace",
-                "distance": "213"
+                "distance": 213
             },
             {
                 "key": 18,
                 "start": "Vesoul",
                 "end": "Auxerre",
-                "distance": "257"
+                "distance": 257
             },
             {
                 "key": 19,
                 "start": "Auxerre",
                 "end": "Versailles",
-                "distance": "230"
+                "distance": 230
             }
         ],
         "1977": [
@@ -1525,115 +1525,115 @@
                 "key": 1,
                 "start": "Fleurance",
                 "end": "Auch",
-                "distance": "237"
+                "distance": 237
             },
             {
                 "key": 2,
                 "start": "Auch",
                 "end": "Pau",
-                "distance": "253"
+                "distance": 253
             },
             {
                 "key": 3,
                 "start": "Oloron-Sainte-Marie",
                 "end": "Vitoria-Gasteiz(Spain)",
-                "distance": "248"
+                "distance": 248
             },
             {
                 "key": 4,
                 "start": "Vitoria-Gasteiz(Spain) ",
                 "end": "Seignosse le Penon",
-                "distance": "256"
+                "distance": 256
             },
             {
                 "key": 5,
                 "start": "Morcenx",
                 "end": "Bordeaux",
-                "distance": "139"
+                "distance": 139
             },
             {
                 "key": 6,
                 "start": "Bordeaux",
                 "end": "Limoges",
-                "distance": "225"
+                "distance": 225
             },
             {
                 "key": 7,
                 "start": "Jaunay-Clan",
                 "end": "Angers",
-                "distance": "140"
+                "distance": 140
             },
             {
                 "key": 8,
                 "start": "Angers",
                 "end": "Lorient",
-                "distance": "247"
+                "distance": 247
             },
             {
                 "key": 9,
                 "start": "Lorient",
                 "end": "Rennes",
-                "distance": "187"
+                "distance": 187
             },
             {
                 "key": 10,
                 "start": "Bagnoles-de-l'Orne",
                 "end": "Rouen",
-                "distance": "174"
+                "distance": 174
             },
             {
                 "key": 11,
                 "start": "Rouen",
                 "end": "Roubaix",
-                "distance": "242"
+                "distance": 242
             },
             {
                 "key": 12,
                 "start": "Roubaix",
                 "end": "Charleroi(Belgium)",
-                "distance": "193"
+                "distance": 193
             },
             {
                 "key": 13,
                 "start": "Besan\u00e7on",
                 "end": "Thonon-les-Bains",
-                "distance": "230"
+                "distance": 230
             },
             {
                 "key": 14,
                 "start": "Thonon-les-Bains",
                 "end": "Morzine",
-                "distance": "105"
+                "distance": 105
             },
             {
                 "key": 15,
                 "start": "Morzine",
                 "end": "Chamonix",
-                "distance": "121"
+                "distance": 121
             },
             {
                 "key": 16,
                 "start": "Chamonix",
                 "end": "Alpe d'Huez",
-                "distance": "185"
+                "distance": 185
             },
             {
                 "key": 17,
                 "start": "Rossignol Voiron",
                 "end": "Saint-\u00c9tienne",
-                "distance": "199"
+                "distance": 199
             },
             {
                 "key": 18,
                 "start": "Saint-Trivier-sur-Moignans",
                 "end": "Dijon",
-                "distance": "172"
+                "distance": 172
             },
             {
                 "key": 19,
                 "start": "Montereau-Fault-Yonne",
                 "end": "Versailles",
-                "distance": "142"
+                "distance": 142
             }
         ],
         "1982": [
@@ -1641,103 +1641,103 @@
                 "key": 1,
                 "start": "Basel(Switzerland) ",
                 "end": "M\u00f6hlin(Switzerland)",
-                "distance": "207"
+                "distance": 207
             },
             {
                 "key": 2,
                 "start": "Basel(Switzerland) ",
                 "end": "Nancy",
-                "distance": "250"
+                "distance": 250
             },
             {
                 "key": 3,
                 "start": "Nancy",
                 "end": "Longwy",
-                "distance": "134"
+                "distance": 134
             },
             {
                 "key": 4,
                 "start": "Beauraing(Belgium) ",
                 "end": "Mouscron(Belgium)",
-                "distance": "219"
+                "distance": 219
             },
             {
                 "key": 5,
                 "start": "Orchies",
                 "end": "Fontaine-au-Pire",
-                "distance": "73"
+                "distance": 73
             },
             {
                 "key": 6,
                 "start": "Cancale",
                 "end": "Concarneau",
-                "distance": "235"
+                "distance": 235
             },
             {
                 "key": 7,
                 "start": "Concarneau",
                 "end": "Ch\u00e2teaulin",
-                "distance": "201"
+                "distance": 201
             },
             {
                 "key": 8,
                 "start": "Lorient",
                 "end": "Plumelec",
-                "distance": "69"
+                "distance": 69
             },
             {
                 "key": 9,
                 "start": "Saintes",
                 "end": "Bordeaux",
-                "distance": "147"
+                "distance": 147
             },
             {
                 "key": 10,
                 "start": "Fleurance",
                 "end": "Pau",
-                "distance": "249"
+                "distance": 249
             },
             {
                 "key": 11,
                 "start": "Pau",
                 "end": "Saint-Lary-Soulan Pla d'Adet",
-                "distance": "122"
+                "distance": 122
             },
             {
                 "key": 12,
                 "start": "Manosque",
                 "end": "Orci\u00e8res-Merlette",
-                "distance": "208"
+                "distance": 208
             },
             {
                 "key": 13,
                 "start": "Orci\u00e8res-Merlette",
                 "end": "Alpe d'Huez",
-                "distance": "123"
+                "distance": 123
             },
             {
                 "key": 14,
                 "start": "Le Bourg-d'Oisans",
                 "end": "Morzine",
-                "distance": "251"
+                "distance": 251
             },
             {
                 "key": 15,
                 "start": "Morzine",
                 "end": "Saint-Priest",
-                "distance": "233"
+                "distance": 233
             },
             {
                 "key": 16,
                 "start": "Sens",
                 "end": "Aulnay-sous-Bois",
-                "distance": "161"
+                "distance": 161
             },
             {
                 "key": 17,
                 "start": "Fontenay-sous-Bois",
                 "end": " Paris (Champs-\u00c9lys\u00e9es)",
-                "distance": "187"
+                "distance": 187
             }
         ],
         "1987": [
@@ -1745,121 +1745,121 @@
                 "key": 1,
                 "start": "Karlsruhe(West Germany) ",
                 "end": "Stuttgart(West Germany)",
-                "distance": "219"
+                "distance": 219
             },
             {
                 "key": 2,
                 "start": "Stuttgart(West Germany) ",
                 "end": "Pforzheim(West Germany)",
-                "distance": "79"
+                "distance": 79
             },
             {
                 "key": 3,
                 "start": "Pforzheim(West Germany) ",
                 "end": "Strasbourg",
-                "distance": "112"
+                "distance": 112
             },
             {
                 "key": 4,
                 "start": "\u00c9pinal",
                 "end": "Troyes",
-                "distance": "211"
+                "distance": 211
             },
             {
                 "key": 5,
                 "start": "Orl\u00e9ans",
                 "end": "Renaz\u00e9",
-                "distance": "260"
+                "distance": 260
             },
             {
                 "key": 6,
                 "start": "Saumur",
                 "end": "Futuroscope",
-                "distance": "87"
+                "distance": 87
             },
             {
                 "key": 7,
                 "start": "Poitiers",
                 "end": "Chaumeil",
-                "distance": "206"
+                "distance": 206
             },
             {
                 "key": 8,
                 "start": "Brive",
                 "end": "Bordeaux",
-                "distance": "228"
+                "distance": 228
             },
             {
                 "key": 9,
                 "start": "Bayonne",
                 "end": "Pau",
-                "distance": "219"
+                "distance": 219
             },
             {
                 "key": 10,
                 "start": "Pau",
                 "end": "Luz Ardiden",
-                "distance": "166"
+                "distance": 166
             },
             {
                 "key": 11,
                 "start": "Tarbes",
                 "end": "Blagnac",
-                "distance": "164"
+                "distance": 164
             },
             {
                 "key": 12,
                 "start": "Blagnac",
                 "end": "Millau",
-                "distance": "216"
+                "distance": 216
             },
             {
                 "key": 13,
                 "start": "Millau",
                 "end": "Avignon",
-                "distance": "239"
+                "distance": 239
             },
             {
                 "key": 14,
                 "start": "Carpentras",
                 "end": "Mont Ventoux",
-                "distance": "37"
+                "distance": 37
             },
             {
                 "key": 15,
                 "start": "Valr\u00e9as",
                 "end": "Villard-de-Lans",
-                "distance": "185"
+                "distance": 185
             },
             {
                 "key": 16,
                 "start": "Villard-de-Lans",
                 "end": "Alpe d'Huez",
-                "distance": "201"
+                "distance": 201
             },
             {
                 "key": 17,
                 "start": "Le Bourg-d'Oisans",
                 "end": "La Plagne",
-                "distance": "185"
+                "distance": 185
             },
             {
                 "key": 18,
                 "start": "La Plagne",
                 "end": "Morzine",
-                "distance": "186"
+                "distance": 186
             },
             {
                 "key": 19,
                 "start": "Saint-Julien-en-Genevois",
                 "end": "Dijon",
-                "distance": "225"
+                "distance": 225
             },
             {
                 "key": 20,
                 "start": "Cr\u00e9teil",
                 "end": " Paris (Champs-\u00c9lys\u00e9es)",
-                "distance": "192"
+                "distance": 192
             }
         ],
         "1992": [
@@ -1867,109 +1867,109 @@
                 "key": 1,
                 "start": "San Sebasti\u00e1n(Spain) ",
                 "end": "Pau",
-                "distance": "255"
+                "distance": 255
             },
             {
                 "key": 2,
                 "start": "Pau",
                 "end": "Bordeaux",
-                "distance": "210"
+                "distance": 210
             },
             {
                 "key": 3,
                 "start": "Nogent-sur-Oise",
                 "end": "Wasquehal",
-                "distance": "196"
+                "distance": 196
             },
             {
                 "key": 4,
                 "start": "Roubaix",
                 "end": "Brussels(Belgium)",
-                "distance": "167"
+                "distance": 167
             },
             {
                 "key": 5,
                 "start": "Brussels(Belgium) ",
                 "end": "Valkenburg(Netherlands)",
-                "distance": "196"
+                "distance": 196
             },
             {
                 "key": 6,
                 "start": "Valkenburg(Netherlands) ",
                 "end": "Koblenz(Germany)",
-                "distance": "206"
+                "distance": 206
             },
             {
                 "key": 7,
                 "start": "Luxembourg City(Luxembourg) ",
                 "end": "Strasbourg",
-                "distance": "217"
+                "distance": 217
             },
             {
                 "key": 8,
                 "start": "Strasbourg",
                 "end": "Mulhouse",
-                "distance": "249"
+                "distance": 249
             },
             {
                 "key": 9,
                 "start": "Dole",
                 "end": "St Gervais",
-                "distance": "267"
+                "distance": 267
             },
             {
                 "key": 10,
                 "start": "St Gervais",
                 "end": "Sestriere(Italy)",
-                "distance": "254"
+                "distance": 254
             },
             {
                 "key": 11,
                 "start": "Sestriere(Italy) ",
                 "end": "Alpe d'Huez",
-                "distance": "186"
+                "distance": 186
             },
             {
                 "key": 12,
                 "start": "Le Bourg-d'Oisans",
                 "end": "Saint-\u00c9tienne",
-                "distance": "198"
+                "distance": 198
             },
             {
                 "key": 13,
                 "start": "Saint-\u00c9tienne",
                 "end": "La Bourboule",
-                "distance": "212"
+                "distance": 212
             },
             {
                 "key": 14,
                 "start": "La Bourboule",
                 "end": "Montlu\u00e7on",
-                "distance": "189"
+                "distance": 189
             },
             {
                 "key": 15,
                 "start": "Montlu\u00e7on",
                 "end": "Tours",
-                "distance": "212"
+                "distance": 212
             },
             {
                 "key": 16,
                 "start": "Tours",
                 "end": "Blois",
-                "distance": "64"
+                "distance": 64
             },
             {
                 "key": 17,
                 "start": "Blois",
                 "end": "Nanterre",
-                "distance": "222"
+                "distance": 222
             },
             {
                 "key": 18,
                 "start": "La D\u00e9fense",
                 "end": " Paris (Champs-\u00c9lys\u00e9es)",
-                "distance": "141"
+                "distance": 141
             }
         ],
         "1997": [
@@ -1977,115 +1977,115 @@
                 "key": 1,
                 "start": "Rouen",
                 "end": "Forges-les-Eaux",
-                "distance": "192"
+                "distance": 192
             },
             {
                 "key": 2,
                 "start": "Saint-Valery-en-Caux",
                 "end": "Vire",
-                "distance": "262"
+                "distance": 262
             },
             {
                 "key": 3,
                 "start": "Vire",
                 "end": "Plumelec",
-                "distance": "224"
+                "distance": 224
             },
             {
                 "key": 4,
                 "start": "Plumelec",
                 "end": "Le Puy du Fou",
-                "distance": "223"
+                "distance": 223
             },
             {
                 "key": 5,
                 "start": "Chantonnay",
                 "end": "La Ch\u00e2tre",
-                "distance": "261"
+                "distance": 261
             },
             {
                 "key": 6,
                 "start": "Le Blanc",
                 "end": "Marennes",
-                "distance": "217"
+                "distance": 217
             },
             {
                 "key": 7,
                 "start": "Marennes",
                 "end": "Bordeaux",
-                "distance": "194"
+                "distance": 194
             },
             {
                 "key": 8,
                 "start": "Sauternes",
                 "end": "Pau",
-                "distance": "161"
+                "distance": 161
             },
             {
                 "key": 9,
                 "start": "Pau",
                 "end": "Loudenvielle",
-                "distance": "182"
+                "distance": 182
             },
             {
                 "key": 10,
                 "start": "Luchon",
                 "end": "Andorra Arcalis",
-                "distance": "252"
+                "distance": 252
             },
             {
                 "key": 11,
                 "start": "Andorra Arcalis",
                 "end": "Perpignan",
-                "distance": "192"
+                "distance": 192
             },
             {
                 "key": 12,
                 "start": "Saint-\u00c9tienne",
                 "end": "Alpe d'Huez",
-                "distance": "203"
+                "distance": 203
             },
             {
                 "key": 13,
                 "start": "Le Bourg-d'Oisans",
                 "end": "Courchevel",
-                "distance": "148"
+                "distance": 148
             },
             {
                 "key": 14,
                 "start": "Courchevel",
                 "end": "Morzine",
-                "distance": "208"
+                "distance": 208
             },
             {
                 "key": 15,
                 "start": "Morzine",
                 "end": "Fribourg(Switzerland)",
-                "distance": "181"
+                "distance": 181
             },
             {
                 "key": 16,
                 "start": "Fribourg(Switzerland) ",
                 "end": "Colmar",
-                "distance": "218"
+                "distance": 218
             },
             {
                 "key": 17,
                 "start": "Colmar",
                 "end": "Montb\u00e9liard",
-                "distance": "175"
+                "distance": 175
             },
             {
                 "key": 18,
                 "start": "Montb\u00e9liard",
                 "end": "Dijon",
-                "distance": "172"
+                "distance": 172
             },
             {
                 "key": 19,
                 "start": "Disneyland Paris",
                 "end": " Paris (Champs-\u00c9lys\u00e9es)",
-                "distance": "149"
+                "distance": 149
             }
         ],
         "2002": [
@@ -2093,115 +2093,115 @@
                 "key": 1,
                 "start": "Luxembourg City(Luxembourg) ",
                 "end": "Saarbr\u00fccken(Germany)",
-                "distance": "181"
+                "distance": 181
             },
             {
                 "key": 2,
                 "start": "Metz",
                 "end": "Reims",
-                "distance": "174"
+                "distance": 174
             },
             {
                 "key": 3,
                 "start": "\u00c9pernay",
                 "end": "Ch\u00e2teau-Thierry",
-                "distance": "67"
+                "distance": 67
             },
             {
                 "key": 4,
                 "start": "Soissons",
                 "end": "Rouen",
-                "distance": "195"
+                "distance": 195
             },
             {
                 "key": 5,
                 "start": "Forges-les-Eaux",
                 "end": "Alen\u00e7on",
-                "distance": "199"
+                "distance": 199
             },
             {
                 "key": 6,
                 "start": "Bagnoles-de-l'Orne",
                 "end": "Avranches",
-                "distance": "176"
+                "distance": 176
             },
             {
                 "key": 7,
                 "start": "Saint-Martin-de-Landelles",
                 "end": "Plouay",
-                "distance": "217"
+                "distance": 217
             },
             {
                 "key": 8,
                 "start": "Lanester",
                 "end": "Lorient",
-                "distance": "52"
+                "distance": 52
             },
             {
                 "key": 9,
                 "start": "Bazas",
                 "end": "Pau",
-                "distance": "147"
+                "distance": 147
             },
             {
                 "key": 10,
                 "start": "Pau",
                 "end": "La Mongie",
-                "distance": "158"
+                "distance": 158
             },
             {
                 "key": 11,
                 "start": "Lannemezan",
                 "end": "Plateau de Beille",
-                "distance": "199"
+                "distance": 199
             },
             {
                 "key": 12,
                 "start": "Lavelanet",
                 "end": "B\u00e9ziers",
-                "distance": "171"
+                "distance": 171
             },
             {
                 "key": 13,
                 "start": "Lod\u00e8ve",
                 "end": "Mont Ventoux",
-                "distance": "221"
+                "distance": 221
             },
             {
                 "key": 14,
                 "start": "Vaison-la-Romaine",
                 "end": "Les Deux Alpes",
-                "distance": "226"
+                "distance": 226
             },
             {
                 "key": 15,
                 "start": "Les Deux Alpes",
                 "end": "La Plagne",
-                "distance": "179"
+                "distance": 179
             },
             {
                 "key": 16,
                 "start": "Aime",
                 "end": "Cluses",
-                "distance": "142"
+                "distance": 142
             },
             {
                 "key": 17,
                 "start": "Cluses",
                 "end": "Bourg-en-Bresse",
-                "distance": "176"
+                "distance": 176
             },
             {
                 "key": 18,
                 "start": "R\u00e9gni\u00e9-Durette",
                 "end": "M\u00e2con",
-                "distance": "50"
+                "distance": 50
             },
             {
                 "key": 19,
                 "start": "Melun",
                 "end": " Paris (Champs-\u00c9lys\u00e9es)",
-                "distance": "144"
+                "distance": 144
             }
         ],
         "2007": [
@@ -2209,109 +2209,109 @@
                 "key": 1,
                 "start": "London (United Kingdom) ",
                 "end": "Canterbury(United Kingdom)",
-                "distance": "203"
+                "distance": 203
             },
             {
                 "key": 2,
                 "start": "Dunkirk",
                 "end": "Ghent(Belgium)",
-                "distance": "168"
+                "distance": 168
             },
             {
                 "key": 3,
                 "start": "Villers-Cotter\u00eats",
                 "end": "Joigny",
-                "distance": "193"
+                "distance": 193
             },
             {
                 "key": 4,
                 "start": "Chablis",
                 "end": "Autun",
-                "distance": "182"
+                "distance": 182
             },
             {
                 "key": 5,
                 "start": "Semur-en-Auxois",
                 "end": "Bourg-en-Bresse",
-                "distance": "199"
+                "distance": 199
             },
             {
                 "key": 6,
                 "start": "Bourg-en-Bresse",
                 "end": "Le Grand-Bornand",
-                "distance": "197"
+                "distance": 197
             },
             {
                 "key": 7,
                 "start": "Le Grand-Bornand",
                 "end": "Tignes",
-                "distance": "165"
+                "distance": 165
             },
             {
                 "key": 8,
                 "start": "Val-d'Is\u00e8re",
                 "end": "Brian\u00e7on",
-                "distance": "159"
+                "distance": 159
             },
             {
                 "key": 9,
                 "start": "Tallard",
                 "end": "Marseille",
-                "distance": "229"
+                "distance": 229
             },
             {
                 "key": 10,
                 "start": "Marseille",
                 "end": "Montpellier",
-                "distance": "182"
+                "distance": 182
             },
             {
                 "key": 11,
                 "start": "Montpellier",
                 "end": "Castres",
-                "distance": "178"
+                "distance": 178
             },
             {
                 "key": 12,
                 "start": "Mazamet",
                 "end": "Plateau-de-Beille",
-                "distance": "197"
+                "distance": 197
             },
             {
                 "key": 13,
                 "start": "Foix",
                 "end": "Loudenvielle",
-                "distance": "196"
+                "distance": 196
             },
             {
                 "key": 14,
                 "start": "Orthez",
                 "end": "Gourette\u2013Col d'Aubisque",
-                "distance": "218"
+                "distance": 218
             },
             {
                 "key": 15,
                 "start": "Pau",
                 "end": "Castelsarrasin",
-                "distance": "188"
+                "distance": 188
             },
             {
                 "key": 16,
                 "start": "Cahors",
                 "end": "Angoul\u00eame",
-                "distance": "211"
+                "distance": 211
             },
             {
                 "key": 17,
                 "start": "Cognac",
                 "end": "Angoul\u00eame",
-                "distance": "55"
+                "distance": 55
             },
             {
                 "key": 18,
                 "start": "Marcoussis",
                 "end": " Paris (Champs-\u00c9lys\u00e9es)",
-                "distance": "146"
+                "distance": 146
             }
         ],
         "2012": [
@@ -2319,121 +2319,121 @@
                 "key": 1,
                 "start": "Li\u00e8ge(Belgium) ",
                 "end": "Seraing(Belgium)",
-                "distance": "198"
+                "distance": 198
             },
             {
                 "key": 2,
                 "start": "Vis\u00e9(Belgium) ",
                 "end": "Tournai(Belgium)",
-                "distance": "207"
+                "distance": 207
             },
             {
                 "key": 3,
                 "start": "Orchies",
                 "end": "Boulogne-sur-Mer",
-                "distance": "197"
+                "distance": 197
             },
             {
                 "key": 4,
                 "start": "Abbeville",
                 "end": "Rouen",
-                "distance": "214"
+                "distance": 214
             },
             {
                 "key": 5,
                 "start": "Rouen",
                 "end": "Saint-Quentin",
-                "distance": "196"
+                "distance": 196
             },
             {
                 "key": 6,
                 "start": "\u00c9pernay",
                 "end": "Metz",
-                "distance": "205"
+                "distance": 205
             },
             {
                 "key": 7,
                 "start": "Tomblaine",
                 "end": "La Planche des Belles Filles",
-                "distance": "199"
+                "distance": 199
             },
             {
                 "key": 8,
                 "start": "Belfort",
                 "end": "Porrentruy(Switzerland)",
-                "distance": "157"
+                "distance": 157
             },
             {
                 "key": 9,
                 "start": "Arc-et-Senans",
                 "end": "Besan\u00e7on",
-                "distance": "41"
+                "distance": 41
             },
             {
                 "key": 10,
                 "start": "M\u00e2con",
                 "end": "Bellegarde-sur-Valserine",
-                "distance": "194"
+                "distance": 194
             },
             {
                 "key": 11,
                 "start": "Albertville",
                 "end": "La Toussuire-Les Sybelles",
-                "distance": "148"
+                "distance": 148
             },
             {
                 "key": 12,
                 "start": "Saint-Jean-de-Maurienne",
                 "end": "Annonay-Dav\u00e9zieux",
-                "distance": "226"
+                "distance": 226
             },
             {
                 "key": 13,
                 "start": "Saint-Paul-Trois-Ch\u00e2teaux",
                 "end": "Cap d'Agde",
-                "distance": "217"
+                "distance": 217
             },
             {
                 "key": 14,
                 "start": "Limoux",
                 "end": "Foix",
-                "distance": "191"
+                "distance": 191
             },
             {
                 "key": 15,
                 "start": "Samatan",
                 "end": "Pau",
-                "distance": "158"
+                "distance": 158
             },
             {
                 "key": 16,
                 "start": "Pau",
                 "end": "Bagn\u00e8res-de-Luchon",
-                "distance": "197"
+                "distance": 197
             },
             {
                 "key": 17,
                 "start": "Bagn\u00e8res-de-Luchon",
                 "end": "Peyragudes",
-                "distance": "143"
+                "distance": 143
             },
             {
                 "key": 18,
                 "start": "Blagnac",
                 "end": "Brive-la-Gaillarde",
-                "distance": "222"
+                "distance": 222
             },
             {
                 "key": 19,
                 "start": "Bonneval",
                 "end": "Chartres",
-                "distance": "53"
+                "distance": 53
             },
             {
                 "key": 20,
                 "start": "Rambouillet",
                 "end": "Paris(Champs-\u00c9lys\u00e9es)",
-                "distance": "120"
+                "distance": 120
             }
         ],
         "2017": [
@@ -2441,243 +2441,237 @@
                 "key": 1,
                 "start": "D\u00fcsseldorf(Germany) ",
                 "end": "Li\u00e8ge(Belgium)",
-                "distance": "203"
+                "distance": 203
             },
             {
                 "key": 2,
                 "start": "Verviers(Belgium) ",
                 "end": "Longwy",
-                "distance": "212"
+                "distance": 212
             },
             {
                 "key": 3,
                 "start": "Mondorf-les-Bains(Luxembourg) ",
                 "end": "Vittel",
-                "distance": "207"
+                "distance": 207
             },
             {
                 "key": 4,
                 "start": "Vittel",
                 "end": "La Planche des Belles Filles",
-                "distance": "160"
+                "distance": 160
             },
             {
                 "key": 5,
                 "start": "Vesoul",
                 "end": "Troyes",
-                "distance": "216"
+                "distance": 216
             },
             {
                 "key": 6,
                 "start": "Troyes",
                 "end": "Nuits-Saint-Georges",
-                "distance": "213"
+                "distance": 213
             },
             {
                 "key": 7,
                 "start": "Dole",
                 "end": "Station des Rousses",
-                "distance": "187"
+                "distance": 187
             },
             {
                 "key": 8,
                 "start": "Nantua",
                 "end": "Chamb\u00e9ry",
-                "distance": "181"
+                "distance": 181
             },
             {
                 "key": 9,
                 "start": "P\u00e9rigueux",
                 "end": "Bergerac",
-                "distance": "178"
+                "distance": 178
             },
             {
                 "key": 10,
                 "start": "Eymet",
                 "end": "Pau",
-                "distance": "203"
+                "distance": 203
             },
             {
                 "key": 11,
                 "start": "Pau",
                 "end": "Peyragudes",
-                "distance": "214"
+                "distance": 214
             },
             {
                 "key": 12,
                 "start": "Saint-Girons",
                 "end": "Foix",
-                "distance": "101"
+                "distance": 101
             },
             {
                 "key": 13,
                 "start": "Blagnac",
                 "end": "Rodez",
-                "distance": "181"
+                "distance": 181
             },
             {
                 "key": 14,
                 "start": "Laissac-S\u00e9v\u00e9rac-l'\u00c9glise",
                 "end": "Le Puy-en-Velay",
-                "distance": "189"
+                "distance": 189
             },
             {
                 "key": 15,
                 "start": "Le Puy-en-Velay",
                 "end": "Romans-sur-Is\u00e8re",
-                "distance": "165"
+                "distance": 165
             },
             {
                 "key": 16,
                 "start": "La Mure",
                 "end": "Serre Chevalier",
-                "distance": "183"
+                "distance": 183
             },
             {
                 "key": 17,
                 "start": "Brian\u00e7on",
                 "end": "Col d'Izoard",
-                "distance": "179"
+                "distance": 179
             },
             {
                 "key": 18,
                 "start": "Embrun",
                 "end": "Salon-de-Provence",
-                "distance": "222"
+                "distance": 222
             },
             {
                 "key": 19,
                 "start": "Montgeron",
                 "end": " Paris (Champs-\u00c9lys\u00e9es)",
-                "distance": "103"
+                "distance": 103
             }
         ],
-        "2022": [
+        "2023": [
             {
                 "key": 1,
-                "start": "Roskilde",
-                "end": "Nyborg(Denmark)",
-                "distance": "202"
+                "start": "Vitoria-Gasteiz",
+                "end": "San Sebasti\u00e1n(Spain)",
+                "distance": 209
             },
             {
                 "key": 2,
-                "start": "Vejle",
-                "end": "S\u00f8nderborg(Denmark)",
-                "distance": "182"
+                "start": "Amorebieta-Etxano(Spain) ",
+                "end": "Bayonne",
+                "distance": 193
             },
             {
                 "key": 3,
-                "start": "S\u00f8nderborg (Denmark) ",
-                "end": "Dunkirk",
-                "distance": ""
+                "start": "Dax",
+                "end": "Nogaro",
+                "distance": 182
             },
             {
                 "key": 4,
-                "start": "Dunkirk ",
-                "end": "Calais",
-                "distance": "171"
+                "start": "Pau",
+                "end": "Laruns",
+                "distance": 163
             },
             {
                 "key": 5,
-                "start": "Lille",
-                "end": "Arenberg",
-                "distance": "157"
+                "start": "Tarbes",
+                "end": "Cauterets(Cambasque)",
+                "distance": 145
             },
             {
                 "key": 6,
-                "start": "Binche(Belgium) ",
-                "end": "Longwy",
-                "distance": "220"
+                "start": "Mont-de-Marsan",
+                "end": "Bordeaux",
+                "distance": 170
             },
             {
                 "key": 7,
-                "start": "Tomblaine",
-                "end": "La Super Planche des Belles Filles",
-                "distance": "176"
+                "start": "Libourne",
+                "end": "Limoges",
+                "distance": 201
             },
             {
                 "key": 8,
-                "start": "Dole",
-                "end": "Lausanne(Switzerland)",
-                "distance": "186"
+                "start": "Saint-L\u00e9onard-de-Noblat",
+                "end": "Puy de D\u00f4me",
+                "distance": 182
             },
             {
                 "key": 9,
-                "start": "Aigle(Switzerland) ",
-                "end": "Ch\u00e2tel",
-                "distance": "193"
+                "start": "Vulcania",
+                "end": "Issoire",
+                "distance": 167
             },
             {
                 "key": 10,
-                "start": "Morzine ",
-                "end": "Meg\u00e8ve",
-                "distance": "148"
+                "start": "Clermont-Ferrand ",
+                "end": "Moulins",
+                "distance": 180
             },
             {
                 "key": 11,
-                "start": "Albertville",
-                "end": "Col du Granon",
-                "distance": "152"
+                "start": "Roanne",
+                "end": "Belleville-en-Beaujolais",
+                "distance": 169
             },
             {
                 "key": 12,
-                "start": "Brian\u00e7on",
-                "end": "Alpe d'Huez",
-                "distance": "165"
+                "start": "Ch\u00e2tillon-sur-Chalaronne",
+                "end": "Grand Colombier",
+                "distance": 138
             },
             {
                 "key": 13,
-                "start": "Le Bourg-d'Oisans",
-                "end": "Saint-\u00c9tienne",
-                "distance": "193"
+                "start": "Annemasse",
+                "end": "Morzine",
+                "distance": 152
             },
             {
                 "key": 14,
-                "start": "Saint-\u00c9tienne ",
-                "end": "Mende",
-                "distance": "192"
+                "start": "Les Gets",
+                "end": "Saint-Gervais-les-Bains",
+                "distance": 179
             },
             {
                 "key": 15,
-                "start": "Rodez",
-                "end": "Carcassonne",
-                "distance": "202"
+                "start": "Passy",
+                "end": "Combloux",
+                "distance": 22
             },
             {
                 "key": 16,
-                "start": "Carcassonne",
-                "end": "Foix",
-                "distance": "178"
+                "start": "Saint-Gervais-les-Bains ",
+                "end": "Courchevel",
+                "distance": 166
             },
             {
                 "key": 17,
-                "start": "Saint-Gaudens",
-                "end": "Peyragudes",
-                "distance": "130"
+                "start": "Mo\u00fbtiers",
+                "end": "Bourg-en-Bresse",
+                "distance": 185
             },
             {
                 "key": 18,
-                "start": "Lourdes",
-                "end": "Hautacam",
-                "distance": "143"
+                "start": "Moirans-en-Montagne",
+                "end": "Poligny",
+                "distance": 173
             },
             {
                 "key": 19,
-                "start": "Castelnau-Magnoac",
-                "end": "Cahors",
-                "distance": "188"
+                "start": "Belfort",
+                "end": "Le Markstein",
+                "distance": 133
             },
             {
                 "key": 20,
-                "start": "Lacapelle-Marival",
-                "end": "Rocamadour",
-                "distance": "40"
-            },
-            {
-                "key": 21,
-                "start": "Paris La D\u00e9fense Arena",
+                "start": "Saint-Quentin-en-Yvelines",
                 "end": "Paris(Champs-\u00c9lys\u00e9es)",
-                "distance": "116"
+                "distance": 115
             }
         ]
     }
