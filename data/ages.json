@@ -1,6 +1,5 @@
 {
     "victors": [
-        "dummy",
         [
             {
                 "rider": "1POGA\u010cAR Tadej",
@@ -552,6 +551,891 @@
                 "rider": "1TROUSSELIER Louis",
                 "year": "1905",
                 "link": "rider/louis-trousselier"
+            }
+        ]
+    ],
+    "country": [
+        null,
+        [
+            {
+                "year": "2025",
+                "countries": [
+                    "si",
+                    "dk",
+                    "de"
+                ]
+            },
+            {
+                "year": "2024",
+                "countries": [
+                    "si",
+                    "dk",
+                    "be"
+                ]
+            },
+            {
+                "year": "2023",
+                "countries": [
+                    "dk",
+                    "si",
+                    "gb"
+                ]
+            },
+            {
+                "year": "2022",
+                "countries": [
+                    "dk",
+                    "si",
+                    "gb"
+                ]
+            },
+            {
+                "year": "2021",
+                "countries": [
+                    "si",
+                    "dk",
+                    "ec"
+                ]
+            },
+            {
+                "year": "2020",
+                "countries": [
+                    "si",
+                    "si",
+                    "au"
+                ]
+            },
+            {
+                "year": "2019",
+                "countries": [
+                    "co",
+                    "gb",
+                    "nl"
+                ]
+            },
+            {
+                "year": "2018",
+                "countries": [
+                    "gb",
+                    "nl",
+                    "gb"
+                ]
+            },
+            {
+                "year": "2017",
+                "countries": [
+                    "gb",
+                    "co",
+                    "fr"
+                ]
+            },
+            {
+                "year": "2016",
+                "countries": [
+                    "gb",
+                    "fr",
+                    "co"
+                ]
+            },
+            {
+                "year": "2015",
+                "countries": [
+                    "gb",
+                    "co",
+                    "es"
+                ]
+            },
+            {
+                "year": "2014",
+                "countries": [
+                    "it",
+                    "fr",
+                    "fr"
+                ]
+            },
+            {
+                "year": "2013",
+                "countries": [
+                    "gb",
+                    "co",
+                    "es"
+                ]
+            },
+            {
+                "year": "2012",
+                "countries": [
+                    "gb",
+                    "gb",
+                    "it"
+                ]
+            },
+            {
+                "year": "2011",
+                "countries": [
+                    "au",
+                    "lu",
+                    "lu"
+                ]
+            },
+            {
+                "year": "2010",
+                "countries": [
+                    "lu",
+                    "es",
+                    "be"
+                ]
+            },
+            {
+                "year": "2009",
+                "countries": [
+                    "es",
+                    "lu",
+                    "us"
+                ]
+            },
+            {
+                "year": "2008",
+                "countries": [
+                    "es",
+                    "au",
+                    "ru"
+                ]
+            },
+            {
+                "year": "2007",
+                "countries": [
+                    "es",
+                    "au",
+                    "us"
+                ]
+            },
+            {
+                "year": "2006",
+                "countries": [
+                    "es",
+                    "de",
+                    "es"
+                ]
+            },
+            {
+                "year": "2005",
+                "countries": [
+                    "us",
+                    "it",
+                    "de"
+                ]
+            },
+            {
+                "year": "2004",
+                "countries": [
+                    "us",
+                    "de",
+                    "it"
+                ]
+            },
+            {
+                "year": "2003",
+                "countries": [
+                    "us",
+                    "de",
+                    "kz"
+                ]
+            },
+            {
+                "year": "2002",
+                "countries": [
+                    "us",
+                    "es",
+                    "lt"
+                ]
+            },
+            {
+                "year": "2001",
+                "countries": [
+                    "us",
+                    "de",
+                    "es"
+                ]
+            },
+            {
+                "year": "2000",
+                "countries": [
+                    "us",
+                    "de",
+                    "es"
+                ]
+            },
+            {
+                "year": "1999",
+                "countries": [
+                    "us",
+                    "ch",
+                    "es"
+                ]
+            },
+            {
+                "year": "1998",
+                "countries": [
+                    "it",
+                    "de",
+                    "us"
+                ]
+            },
+            {
+                "year": "1997",
+                "countries": [
+                    "de",
+                    "fr",
+                    "it"
+                ]
+            },
+            {
+                "year": "1996",
+                "countries": [
+                    "dk",
+                    "de",
+                    "fr"
+                ]
+            },
+            {
+                "year": "1995",
+                "countries": [
+                    "es",
+                    "ch",
+                    "dk"
+                ]
+            },
+            {
+                "year": "1994",
+                "countries": [
+                    "es",
+                    "lv",
+                    "it"
+                ]
+            },
+            {
+                "year": "1993",
+                "countries": [
+                    "es",
+                    "ch",
+                    "pl"
+                ]
+            },
+            {
+                "year": "1992",
+                "countries": [
+                    "es",
+                    "it",
+                    "it"
+                ]
+            },
+            {
+                "year": "1991",
+                "countries": [
+                    "es",
+                    "it",
+                    "it"
+                ]
+            },
+            {
+                "year": "1990",
+                "countries": [
+                    "us",
+                    "it",
+                    "nl"
+                ]
+            },
+            {
+                "year": "1989",
+                "countries": [
+                    "us",
+                    "fr",
+                    "es"
+                ]
+            },
+            {
+                "year": "1988",
+                "countries": [
+                    "es",
+                    "nl",
+                    "co"
+                ]
+            },
+            {
+                "year": "1987",
+                "countries": [
+                    "ie",
+                    "es",
+                    "fr"
+                ]
+            },
+            {
+                "year": "1986",
+                "countries": [
+                    "us",
+                    "fr",
+                    "ch"
+                ]
+            },
+            {
+                "year": "1985",
+                "countries": [
+                    "fr",
+                    "us",
+                    "ie"
+                ]
+            },
+            {
+                "year": "1984",
+                "countries": [
+                    "fr",
+                    "fr",
+                    "us"
+                ]
+            },
+            {
+                "year": "1983",
+                "countries": [
+                    "fr",
+                    "es",
+                    "nl"
+                ]
+            },
+            {
+                "year": "1982",
+                "countries": [
+                    "fr",
+                    "nl",
+                    "nl"
+                ]
+            },
+            {
+                "year": "1981",
+                "countries": [
+                    "fr",
+                    "be",
+                    "fr"
+                ]
+            },
+            {
+                "year": "1980",
+                "countries": [
+                    "nl",
+                    "nl",
+                    "fr"
+                ]
+            },
+            {
+                "year": "1979",
+                "countries": [
+                    "fr",
+                    "nl",
+                    "pt"
+                ]
+            },
+            {
+                "year": "1978",
+                "countries": [
+                    "fr",
+                    "nl",
+                    "pt"
+                ]
+            },
+            {
+                "year": "1977",
+                "countries": [
+                    "fr",
+                    "nl",
+                    "be"
+                ]
+            },
+            {
+                "year": "1976",
+                "countries": [
+                    "be",
+                    "nl",
+                    "fr"
+                ]
+            },
+            {
+                "year": "1975",
+                "countries": [
+                    "fr",
+                    "be",
+                    "be"
+                ]
+            },
+            {
+                "year": "1974",
+                "countries": [
+                    "be",
+                    "fr",
+                    "es"
+                ]
+            },
+            {
+                "year": "1973",
+                "countries": [
+                    "es",
+                    "fr",
+                    "es"
+                ]
+            },
+            {
+                "year": "1972",
+                "countries": [
+                    "be",
+                    "it",
+                    "fr"
+                ]
+            },
+            {
+                "year": "1971",
+                "countries": [
+                    "be",
+                    "nl",
+                    "be"
+                ]
+            },
+            {
+                "year": "1970",
+                "countries": [
+                    "be",
+                    "nl",
+                    "se"
+                ]
+            },
+            {
+                "year": "1969",
+                "countries": [
+                    "be",
+                    "fr",
+                    "fr"
+                ]
+            },
+            {
+                "year": "1968",
+                "countries": [
+                    "nl",
+                    "be",
+                    "be"
+                ]
+            },
+            {
+                "year": "1967",
+                "countries": [
+                    "fr",
+                    "es",
+                    "it"
+                ]
+            },
+            {
+                "year": "1966",
+                "countries": [
+                    "fr",
+                    "nl",
+                    "fr"
+                ]
+            },
+            {
+                "year": "1965",
+                "countries": [
+                    "it",
+                    "fr",
+                    "it"
+                ]
+            },
+            {
+                "year": "1964",
+                "countries": [
+                    "fr",
+                    "fr",
+                    "es"
+                ]
+            },
+            {
+                "year": "1963",
+                "countries": [
+                    "fr",
+                    "es",
+                    "es"
+                ]
+            },
+            {
+                "year": "1962",
+                "countries": [
+                    "fr",
+                    "be",
+                    "fr"
+                ]
+            },
+            {
+                "year": "1961",
+                "countries": [
+                    "fr",
+                    "it",
+                    "lu"
+                ]
+            },
+            {
+                "year": "1960",
+                "countries": [
+                    "it",
+                    "it",
+                    "be"
+                ]
+            },
+            {
+                "year": "1959",
+                "countries": [
+                    "es",
+                    "fr",
+                    "fr"
+                ]
+            },
+            {
+                "year": "1958",
+                "countries": [
+                    "lu",
+                    "it",
+                    "fr"
+                ]
+            },
+            {
+                "year": "1957",
+                "countries": [
+                    "fr",
+                    "be",
+                    "at"
+                ]
+            },
+            {
+                "year": "1956",
+                "countries": [
+                    "fr",
+                    "fr",
+                    "be"
+                ]
+            },
+            {
+                "year": "1955",
+                "countries": [
+                    "fr",
+                    "be",
+                    "lu"
+                ]
+            },
+            {
+                "year": "1954",
+                "countries": [
+                    "fr",
+                    "ch",
+                    "ch"
+                ]
+            },
+            {
+                "year": "1953",
+                "countries": [
+                    "fr",
+                    "fr",
+                    "it"
+                ]
+            },
+            {
+                "year": "1952",
+                "countries": [
+                    "it",
+                    "be",
+                    "es"
+                ]
+            },
+            {
+                "year": "1951",
+                "countries": [
+                    "ch",
+                    "fr",
+                    "fr"
+                ]
+            },
+            {
+                "year": "1950",
+                "countries": [
+                    "ch",
+                    "be",
+                    "fr"
+                ]
+            },
+            {
+                "year": "1949",
+                "countries": [
+                    "it",
+                    "it",
+                    "fr"
+                ]
+            },
+            {
+                "year": "1948",
+                "countries": [
+                    "it",
+                    "be",
+                    "fr"
+                ]
+            },
+            {
+                "year": "1947",
+                "countries": [
+                    "fr",
+                    "fr",
+                    "it"
+                ]
+            },
+            {
+                "year": "1939",
+                "countries": [
+                    "be",
+                    "fr",
+                    "be"
+                ]
+            },
+            {
+                "year": "1938",
+                "countries": [
+                    "it",
+                    "be",
+                    "fr"
+                ]
+            },
+            {
+                "year": "1937",
+                "countries": [
+                    "fr",
+                    "it",
+                    "ch"
+                ]
+            },
+            {
+                "year": "1936",
+                "countries": [
+                    "be",
+                    "fr",
+                    "be"
+                ]
+            },
+            {
+                "year": "1935",
+                "countries": [
+                    "be",
+                    "it",
+                    "be"
+                ]
+            },
+            {
+                "year": "1934",
+                "countries": [
+                    "fr",
+                    "it",
+                    "fr"
+                ]
+            },
+            {
+                "year": "1933",
+                "countries": [
+                    "fr",
+                    "it",
+                    "it"
+                ]
+            },
+            {
+                "year": "1932",
+                "countries": [
+                    "fr",
+                    "de",
+                    "it"
+                ]
+            },
+            {
+                "year": "1931",
+                "countries": [
+                    "fr",
+                    "be",
+                    "it"
+                ]
+            },
+            {
+                "year": "1930",
+                "countries": [
+                    "fr",
+                    "it",
+                    "fr"
+                ]
+            },
+            {
+                "year": "1929",
+                "countries": [
+                    "be",
+                    "it",
+                    "be"
+                ]
+            },
+            {
+                "year": "1928",
+                "countries": [
+                    "lu",
+                    "fr",
+                    "be"
+                ]
+            },
+            {
+                "year": "1927",
+                "countries": [
+                    "lu",
+                    "be",
+                    "be"
+                ]
+            },
+            {
+                "year": "1926",
+                "countries": [
+                    "be",
+                    "lu",
+                    "it"
+                ]
+            },
+            {
+                "year": "1925",
+                "countries": [
+                    "it",
+                    "be",
+                    "it"
+                ]
+            },
+            {
+                "year": "1924",
+                "countries": [
+                    "it",
+                    "lu",
+                    "be"
+                ]
+            },
+            {
+                "year": "1923",
+                "countries": [
+                    "fr",
+                    "it",
+                    "fr"
+                ]
+            },
+            {
+                "year": "1922",
+                "countries": [
+                    "be",
+                    "fr",
+                    "be"
+                ]
+            },
+            {
+                "year": "1921",
+                "countries": [
+                    "be",
+                    "be",
+                    "fr"
+                ]
+            },
+            {
+                "year": "1920",
+                "countries": [
+                    "be",
+                    "be",
+                    "be"
+                ]
+            },
+            {
+                "year": "1919",
+                "countries": [
+                    "be",
+                    "fr",
+                    "fr"
+                ]
+            },
+            {
+                "year": "1914",
+                "countries": [
+                    "be",
+                    "fr",
+                    "fr"
+                ]
+            },
+            {
+                "year": "1913",
+                "countries": [
+                    "be",
+                    "fr",
+                    "be"
+                ]
+            },
+            {
+                "year": "1912",
+                "countries": [
+                    "be",
+                    "fr",
+                    "fr"
+                ]
+            },
+            {
+                "year": "1911",
+                "countries": [
+                    "fr",
+                    "fr",
+                    "fr"
+                ]
+            },
+            {
+                "year": "1910",
+                "countries": [
+                    "fr",
+                    "lu",
+                    "fr"
+                ]
+            },
+            {
+                "year": "1909",
+                "countries": [
+                    "lu",
+                    "fr",
+                    "fr"
+                ]
+            },
+            {
+                "year": "1908",
+                "countries": [
+                    "fr",
+                    "lu",
+                    "fr"
+                ]
+            },
+            {
+                "year": "1907",
+                "countries": [
+                    "fr",
+                    "fr",
+                    "fr"
+                ]
+            },
+            {
+                "year": "1906",
+                "countries": [
+                    "fr",
+                    "fr",
+                    "fr"
+                ]
+            },
+            {
+                "year": "1905",
+                "countries": [
+                    "fr",
+                    "fr",
+                    "fr"
+                ]
             }
         ]
     ]
